@@ -1,0 +1,244 @@
+.navbar
+{
+    background-color: #100242;
+}
+
+.custom
+{
+    color: #ffffff;
+}
+
+.navbar-toggler-icon
+{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgb(255, 255, 255)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.collapse 
+{
+    color: #ffffff;
+}
+
+ul.navbar-nav li a 
+{
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.club
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.disabled-link
+{
+    text-decoration: none;
+}
+
+h2
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #100242;
+}
+
+/*.logo
+{
+  position: fixed;
+  top: 10px; 
+  left: -500px; 
+  z-index: 1000;
+}*/
+
+.klikego
+{
+  border: #cfced1 1px solid;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px 0px #8f8f91; 
+}
+
+.navbar-nav .nav-item .nav-link {
+    text-decoration: none; /* Pas de soulignement par défaut */
+  }
+
+  .map
+  {
+    height: 90px;
+    width: 90px;
+  }
+  
+  /* Style des liens au survol */
+  .navbar-nav .nav-item .nav-link:hover {
+    text-decoration: underline 2px  ; /* Soulignement au survol */
+    color: #ffffff;
+  }
+
+  /*start animation title*/
+  .text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    animation-name: focus-in-contract;
+	  animation-duration: 1s;
+	  animation-timing-function: linear;
+	  animation-delay: 0s;
+	  animation-iteration-count: 1;
+	  animation-direction: normal;
+	  animation-fill-mode: none;
+}
+
+.text-overlay h1
+{
+  font-family: 'open sans', 'sans-serif';
+  font-size: 3rem;
+  color: white;
+  font-weight:700;
+}
+
+@keyframes focus-in-contract {
+			
+    0% {
+        letter-spacing:1em;
+        filter:blur(12px);
+        opacity:0;
+    }
+    100% {
+        filter:blur(0);
+        opacity:1;
+    }
+}
+/*end animation title*/
+
+@media (max-width: 830px) {
+  .text-overlay h1
+  {
+    font-size: 1.5rem;
+    margin-bottom: 400px;
+  }
+
+  .text-overlay img 
+  {
+    width: 50%;
+    height: 50%;
+    margin-top: -700px;
+  }
+}
+
+.logoAunis
+{
+  width: 30%;
+  height: 30%;
+}
+/*start gallery*/
+.gallery-wrapper {
+    background-color: #100242;
+    box-sizing: border-box;
+    height: 195px;
+    overflow: hidden;
+  }
+  
+  .item {
+    box-sizing: border-box;
+    height: 100%;
+    padding: 16px 8px;
+  }
+  
+  .item img {
+    display: block;
+    height: 100%;
+    border-radius: 5%;
+  }
+
+/* Appliquez l'animation à la classe .gallery */
+.gallery {
+  background-color: #100242;
+  display: flex;
+  box-sizing: border-box;
+  width: max-content;
+  height: 180px;
+  padding: 0px 8px;
+  animation: scrollGallery 18s linear infinite; /* Définit le défilement automatique pendant 18 secondes avec une animation linéaire infinie */
+  cursor: pointer; /* Ajoutez un curseur pointer pour indiquer qu'il est possible de cliquer sur la galerie */
+}
+
+/* Ajoutez cette règle pour suspendre l'animation au survol */
+.gallery:hover {
+  animation-play-state: paused;
+}
+
+  /* Ajoutez cette règle CSS pour l'animation */
+  @keyframes scrollGallery {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-70%);
+    }
+  }
+  
+
+
+  /*end gallery*/
+
+  .overlayRubrique
+  {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .overlayRubrique h1
+  {
+    font-family: 'open sans', 'sans-serif';
+    font-size: 4rem;
+    font-weight: 300;
+    color: white;
+  }
+
+/*animation arrow rubriques*/
+  .slide-bottom {
+    -webkit-animation: slide-bottom 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s infinite both;
+            animation: slide-bottom 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s infinite both;
+  }
+
+@-webkit-keyframes slide-bottom {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  100% {
+    -webkit-transform: translateY(100px);
+            transform: translateY(100px);
+  }
+}
+@keyframes slide-bottom {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  100% {
+    -webkit-transform: translateY(100px);
+            transform: translateY(100px);
+  }
+}
+/*end animation arrow rubriques*/
+
+/*footer*/
+.footer
+{
+  background-color: #100242;
+  height: 100px;
+  width: 100%;
+  margin-top: 50px;
+}
