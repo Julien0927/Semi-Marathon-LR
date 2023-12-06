@@ -5,12 +5,10 @@ require_once ('index.php')
 
 <img src="assets/images/courses.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
 <div class="overlayRubrique">
-    <h1 class="">Les courses</h1>
+    <h1>Les courses</h1>
     <img class="slide-bottom" src="assets/icones/down-arrow.svg" alt="">
 </div>
-<h2 class="text-center mt-3">Parcours 5 km</h2>
-
-
+<h2 class="courses text-center mt-3">Parcours 5 km</h2>
 <div class="container ">
     <div class="row mt-5">
         <div class="col-md-6 mx-auto text-center">
@@ -39,7 +37,7 @@ require_once ('index.php')
     </div>
 </div>
 
-<h2 class="text-center mt-5">Parcours Semi-Marathon et Duo</h2>
+<h2 class="courses text-center mt-5">Parcours Semi-Marathon et Duo</h2>
 
 <div class="container ">
     <div class="row mt-5">

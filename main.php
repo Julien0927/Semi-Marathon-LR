@@ -7,7 +7,7 @@ require_once ('templates/nav.php')
     <p></p>
     <img src="assets/images/accueil.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
     <div class="text-overlay mt-5">
-      <h1>SEMI-MARATHON <br>DE<br> LA ROCHELLE</h1>
+      <h1 class="mt-5 pb-2">SEMI-MARATHON <br>DE<br> LA ROCHELLE</h1>
         <img src="assets/icones/logo-semi-blanc.216.png" class="logo" alt="logo semi">
       <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/HyundaiTitre.png" class="img-fluid" title="Hyundai La Rochelle" alt="Hyundai La Rochelle"></a>
     </div>

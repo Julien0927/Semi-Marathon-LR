@@ -15,8 +15,8 @@ require_once ('index.php')
               </button>
               <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav link-offset-3">
-                  <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="main.php">Accueil</a>
+                  <li class="nav-item align-items-center">
+                    <a class="nav-link" aria-current="page" href="main.php"><img src="assets/icones/accueil.png" title="Accueil"></a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="courses.php">Les courses</a>

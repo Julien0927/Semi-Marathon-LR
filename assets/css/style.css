@@ -40,11 +40,28 @@ ul.navbar-nav li a
     text-decoration: none;
 }
 
-h2
+h2 
+{
+    font-family: 'Barlow', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #100242;
+}
+
+p
 {
     font-family: 'Open Sans', sans-serif;
-    font-size: 30px;
-    font-weight: 600;
+    font-size: 16px;
+    font-weight: 400;
+    color: #100242;
+
+}
+
+.courses
+{
+    font-family: 'Barlow', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
     text-transform: uppercase;
     color: #100242;
 }
@@ -184,9 +201,6 @@ h2
       transform: translateX(-70%);
     }
   }
-  
-
-
   /*end gallery*/
 
   .overlayRubrique
