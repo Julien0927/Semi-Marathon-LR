@@ -3,7 +3,7 @@ require_once ('templates/nav.php');
 require_once ('index.php')
 ?>
 
-<img src="assets/images/courses.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
+<img src="assets/images/photo10.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
 <div class="overlayRubrique">
     <h1 class="">Inscriptions</h1>
     <img class="slide-bottom" src="assets/icones/down-arrow.svg" alt="">

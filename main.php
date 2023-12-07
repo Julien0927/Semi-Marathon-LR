@@ -1,17 +1,23 @@
 <?php
+require_once ('templates/nav.php');
 require_once ('index.php');
-require_once ('templates/nav.php')
 ?>
 <body>
 <main>
     <p></p>
-    <img src="assets/images/accueil.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
-    <div class="text-overlay mt-5">
-      <h1 class="mt-5 pb-2">SEMI-MARATHON <br>DE<br> LA ROCHELLE</h1>
-        <img src="assets/icones/logo-semi-blanc.216.png" class="logo" alt="logo semi">
-      <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/HyundaiTitre.png" class="img-fluid" title="Hyundai La Rochelle" alt="Hyundai La Rochelle"></a>
+    <img src="assets/images/photo14.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
+    <div class="d-flex flex-column justify-content-center mt-5"></div>
+      <div class="text-overlay">
+        <h1 class=" pb-2">SEMI-MARATHON <br>DE<br> LA ROCHELLE</h1>
+        <div class="mt-5 mb-5">
+          <img src="assets/icones/logo-semi-couleur.png" class="logo mb-0" alt="logo semi">
+        </div>
+        <div class="">
+          <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/logo hyundai NB.jpg" class="img-fluid rounded" title="Hyundai La Rochelle" alt="Hyundai La Rochelle"></a>
+        </div>
+      </div>
     </div>
-    <div class="d-flex flex-md-row flex-column justify-content-around my--5 text-center col-md-12 mt-3">
+    <div class="d-flex flex-md-row flex-column justify-content-around my--5 text-center col-md-12 ">
       <div>
         <a href="courses.php"><img src="assets/icones/icon course.svg" alt="parcours des courses"></a>
         <h6>LES COURSES</p></h6>
@@ -53,7 +59,7 @@ require_once ('templates/nav.php')
         certains  l'occasion de faire un semi dans un cadre exceptionnel et d'autres encore la possibilité d'être finisher d'un 21 Km.<br>
         L'épreuve ne cesse de faire de nouveaux adeptes et affiche chaque année complet malgrè l'ouverture de places supplémentaires tous les ans.
         En cette année olympique nous avons souhaité faire notre la devise "l'important c'est de participer" 
-        en proposant en plus du semi-marathon et du challenge Duo (2x10km) un 5Km permettant à chacun de participer et ainsi participer à fête de la course à pied et de l'Athlètisme à La Rochelle.
+        en proposant en plus du semi-marathon et du challenge Duo (2x10km) un 5Km permettant à chacun de participer et ainsi profiter de la fête de la course à pied et de l'Athlètisme à La Rochelle.
         </p><br>
         <h2 class="text-center">Le mot du président</h2>
         <p>
@@ -68,7 +74,7 @@ require_once ('templates/nav.php')
         Mathieu Le Mouillour
         </p>
         <div class="d-flex justify-content-center">
-          <img class="logoAunis" src="assets/icones/logo Aunis vectorise.jpg"  alt="Logo Aunis Athlétisme">
+          <img class="logoAunis" src="assets/icones/logo Aunis vectorise.jpg" style="width: 30%; height: 30%" alt="Logo Aunis Athlétisme">
         </div>
       </div>
     </div>

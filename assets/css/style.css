@@ -26,6 +26,7 @@ ul.navbar-nav li a
     font-weight: 600;
     text-transform: uppercase;
 }
+
 .club
 {
     font-family: 'Open Sans', sans-serif;
@@ -111,6 +112,7 @@ p
 	  animation-iteration-count: 1;
 	  animation-direction: normal;
 	  animation-fill-mode: none;
+    margin-top: 200px;
 }
 
 .text-overlay h1
@@ -135,26 +137,12 @@ p
 }
 /*end animation title*/
 
-@media (max-width: 830px) {
-  .text-overlay h1
-  {
-    font-size: 1.5rem;
-    margin-bottom: 400px;
-  }
 
-  .text-overlay img 
-  {
-    width: 50%;
-    height: 50%;
-    margin-top: -700px;
-  }
-}
-
-.logoAunis
+/*.logoAunis
 {
   width: 30%;
   height: 30%;
-}
+}*/
 /*start gallery*/
 .gallery-wrapper {
     background-color: #100242;
@@ -255,4 +243,19 @@ p
   height: 100px;
   width: 100%;
   margin-top: 50px;
+}
+
+@media (max-width: 830px) {
+  .text-overlay h1
+  {
+    font-size: 1.5rem;
+    margin-bottom: 450px;
+  }
+
+  .text-overlay img 
+  {
+    width: 50%;
+    height: 50%;
+    margin-top: -800px;
+  }
 }

@@ -36,6 +36,9 @@ require_once ('index.php')
                   <li class="nav-item">
                     <a class="nav-link" href="benevoles.php">Bénévoles</a>
                   </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="partenaires.php">Partenaires</a>
+                  </li>
                 </ul>
               </div>
             </div>
