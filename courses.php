@@ -66,5 +66,7 @@ require_once ('index.php')
     </div>
 
 
-<?php require_once ('templates/footer.php')?>
+<?php 
+require_once ('templates/footer.php')
+?>
 

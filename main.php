@@ -2,6 +2,7 @@
 require_once ('templates/nav.php');
 require_once ('index.php');
 ?>
+
 <body>
 <main>
   <p></p>

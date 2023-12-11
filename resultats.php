@@ -11,7 +11,7 @@ require_once ('index.php')
     </div>
 </div>
 <div class="row mt-5">
-<div class="d-flex"></div>
+    <div class="d-flex"></div>
         <div class="col-md-6 justify-content-center text-center">
             <h3>Classement 2023</h3>
             <a href="https://bases.athle.fr/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=0&frmcompetition=266488"><img src="assets/icones/podium.png" alt="résultats"></a>

@@ -2,6 +2,7 @@
 require_once ('index.php');
 require_once ('templates/nav.php');
 ?>
+
 <div class="image-container">
     <img src="assets/images/photo5.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
     <div class="overlayRubrique">
@@ -39,6 +40,7 @@ require_once ('templates/nav.php');
         <img src="assets/icones/phonecolor-16.png"> 05 46 00 05 40 <img src="assets/icones/courriercolor-16.png"> aunisathletisme@sfr</li>
     </div>
 </div>
+
 <?php 
 require_once ('templates/footer.php');
 ?>

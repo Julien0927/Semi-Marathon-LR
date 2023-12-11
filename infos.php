@@ -2,6 +2,7 @@
 require_once ('templates/nav.php');
 require_once ('index.php')
 ?>
+
 <div class="image-container">
     <img src="assets/images/photo5.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
     <div class="overlayRubrique">
