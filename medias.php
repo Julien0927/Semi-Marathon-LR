@@ -3,27 +3,30 @@ require_once ('templates/nav.php');
 require_once ('index.php')
 ?>
 
-<img src="assets/images/photo10.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
+<img src="assets/images/photo5.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
 <div class="overlayRubrique">
     <h1 class="">Médias</h1>
     <img class="slide-bottom" src="assets/icones/down-arrow.svg" alt="">
 </div>
-<div class="text-center">
-Samedi 16 Mars: Retrait des dossards<br>
-Pour le Semi-Marathon et le 5 Km:<bR>
-10h à 19h à l’Espace Culturel du Centre Leclerc de LAGORD, conseillé à ceux qui habitent l’agglomération rochelaise.<br>
-Inscription de dernière minute possible si places restantes.<br>
-Pour le Challenge Entreprise/Duo :<br>
-10h à 12h et de 14h à 18h à la Concession Hyundai<br>
-Atlantis Automobiles<br>
-9 Impasse de Pologne<br> 
-ZAC Beaulieu<br>
-17138 Puilboreau.<br>
-12h00 Remise des récompenses (Stade Armand Bouffénie)
-</div>
-<div class="d-flex flex-column justify-content-center text-center">
-    <p>Suivez la course avec :
+
+<div class="d-flex flex-column justify-content-center text-center mt-3">
+    <h3>Annonceur officiel</h3>
+    <div>
         <img src="assets/partenaires/Europe2.png" class="img-fluid">
-    </p>
+    </div>
+</div>
+<div class="d-flex flex-column justify-content-center text-center mt-3">
+    <div class="row">
+    <div class="col-md-6">
+        <h3>Album photos 2023</h3>
+        <a href="https://www.flickr.com/photos/197926503@N07/albums/72177720306852180/"><img src="assets/icones/album-photos-50.png" title="photos edition 2023" alt="photos edition 2023"></a>
+        <p class="italic">Cliquez sur l'icône pour accéder aux photos</p>
+    </div>
+    <div class="col-md-6">
+        <h3>Album photos 2024</h3>
+        <a href=""><img src="assets/icones/album-photos-50.png" title="photos edition 2023" alt="photos edition 2023"></a>
+        <p class="italic">Photos à venir</p>
+    </div>
+    </div>
 </div>
 <?php require_once ('templates/footer.php')?>

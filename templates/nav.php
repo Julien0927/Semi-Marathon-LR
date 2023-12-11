@@ -19,7 +19,7 @@ require_once ('index.php')
                     <a class="nav-link" aria-current="page" href="main.php"><img src="assets/icones/accueil.png" title="Accueil"></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="courses.php">Les courses</a>
+                    <a class="nav-link" href="courses.php">courses</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="inscriptions.php">Inscriptions</a>

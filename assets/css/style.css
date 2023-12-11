@@ -39,6 +39,7 @@ ul.navbar-nav li a
 .disabled-link
 {
     text-decoration: none;
+    color: #ffffff;
 }
 
 h2 
@@ -49,13 +50,34 @@ h2
     color: #100242;
 }
 
-p
+h3 
+{
+    font-family: 'Barlow', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #100242;
+}
+
+h4
+{
+    font-family: 'Barlow', sans-serif;
+    font-weight: 400;
+    color: #100242;
+} 
+
+
+body p
 {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     font-weight: 400;
     color: #100242;
+}
 
+.italic
+{
+    font-style: italic;
+    color: #4e4d50;
 }
 
 .courses
@@ -65,6 +87,7 @@ p
     font-weight: 700;
     text-transform: uppercase;
     color: #100242;
+    text-decoration: 5px underline #D8DC1B;
 }
 
 /*.logo
@@ -99,12 +122,13 @@ p
   }
 
   /*start animation title*/
-  .text-overlay {
+  
+  /*.text-overlay {
     position: absolute;
-    top: 50%;
+    top: 25%;
     left: 50%;
     transform: translate(-50%, -50%);
-    text-align: center;
+    text-align: between;
     animation-name: focus-in-contract;
 	  animation-duration: 1s;
 	  animation-timing-function: linear;
@@ -113,15 +137,74 @@ p
 	  animation-direction: normal;
 	  animation-fill-mode: none;
     margin-top: 200px;
+    display: flex;
+    flex-direction: row;
+}*/
+
+/*img {
+  display: block;
+  margin: 0 auto;
+  height: 100%;
+  max-width: 100%;
+  border-radius: 10px;
+}*/
+
+.image-container {
+  position: relative;
 }
 
-.text-overlay h1
+.image-logo {
+  position: absolute;
+  top: 22%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  animation-name: focus-in-contract;
+  animation-duration: 2s;
+  animation-timing-function: linear;
+  animation-delay: 0s;
+  animation-iteration-count: 1;
+  animation-direction: normal;
+  animation-fill-mode: none;
+}
+
+.image-club {
+  position: absolute;
+  top: 25%;
+  left: 83%;
+  transform: translate(-50%, -50%);
+  animation-name: focus-in-contract;
+  animation-duration: 2s;
+  animation-timing-function: linear;
+  animation-delay: 0s;
+  animation-iteration-count: 1;
+  animation-direction: normal;
+  animation-fill-mode: none;
+}
+
+.image-text {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 1;
+  color: white;
+  animation-name: focus-in-contract;
+  animation-duration: 2s;
+  animation-timing-function: linear;
+  animation-delay: 0s;
+  animation-iteration-count: 1;
+  animation-direction: normal;
+  animation-fill-mode: none;
+}
+
+/*.text-overlay h1
 {
-  font-family: 'open sans', 'sans-serif';
+  font-family: 'Open sans', 'sans-serif';
   font-size: 3rem;
   color: white;
   font-weight:700;
-}
+}*/
 
 @keyframes focus-in-contract {
 			
@@ -138,11 +221,11 @@ p
 /*end animation title*/
 
 
-/*.logoAunis
+.logoAunis
 {
   width: 30%;
   height: 30%;
-}*/
+}
 /*start gallery*/
 .gallery-wrapper {
     background-color: #100242;
@@ -204,7 +287,7 @@ p
   {
     font-family: 'open sans', 'sans-serif';
     font-size: 4rem;
-    font-weight: 300;
+    font-weight: 500;
     color: white;
   }
 
@@ -236,13 +319,74 @@ p
 }
 /*end animation arrow rubriques*/
 
+/* ----------------------------------------
+* @animation focus-in-contract-bck
+* ----------------------------------------*/
+.focus-in-contract-bck {
+	-webkit-animation: focus-in-contract-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	        animation: focus-in-contract-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
+@-webkit-keyframes focus-in-contract-bck {
+  0% {
+    letter-spacing: 1em;
+    -webkit-transform: translateZ(300px);
+            transform: translateZ(300px);
+    -webkit-filter: blur(12px);
+            filter: blur(12px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateZ(12px);
+            transform: translateZ(12px);
+    -webkit-filter: blur(0);
+            filter: blur(0);
+    opacity: 1;
+  }
+}
+@keyframes focus-in-contract-bck {
+  0% {
+    letter-spacing: 1em;
+    -webkit-transform: translateZ(300px);
+            transform: translateZ(300px);
+    -webkit-filter: blur(12px);
+            filter: blur(12px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateZ(12px);
+            transform: translateZ(12px);
+    -webkit-filter: blur(0);
+            filter: blur(0);
+    opacity: 1;
+  }
+}
+
+
+.shadow
+{
+  filter: drop-shadow(20px 20px 0px #D9DC1B);
+  
+}
+
 /*footer*/
 .footer
 {
   background-color: #100242;
-  height: 100px;
+  height: 130px;
   width: 100%;
   margin-top: 50px;
+}
+
+.address
+{
+  font-size: 16px;
+  color:#ffffff;
+}
+
+.mention
+{
+  font-size: 12px;
 }
 
 @media (max-width: 830px) {
