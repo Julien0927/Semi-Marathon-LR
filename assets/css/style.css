@@ -369,6 +369,14 @@ body p
   
 }
 
+fieldset
+{
+  border: 1px solid #100242;
+  border-radius: 10px;
+  margin: 20px; 
+  margin-top: 3px;
+  }
+
 /*footer*/
 .footer
 {

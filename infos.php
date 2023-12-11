@@ -110,9 +110,21 @@ require_once ('index.php')
     <p>12h00 au Stade Armand Bouffénie</p>
 </div>
 
-<div class="d-flex justify-content-center mt-5">
-    <a href="assets/informations/Reglement-2024.pdf"><img src="assets/icones/regles.png" alt="reglement"></a>
+<div class="row">
+    <div class="d-flex justify-content-center mt-5">
+        <div class="text-center col-md-4">
+            <a href="assets/informations/Reglement-2024.pdf"><img src="assets/icones/regles.png" alt="reglement"></a>
+            <p class="italic text-center">Cliquez sur l'icone pour télécharger le règlement</p>
+        </div>
+        <div class="text-center col-md-4">
+            <img src="assets/icones/alimentation.png" title="Restauration sur place" alt="Alimentation">
+            <p class="italic text-center">Restauration sur place, paiement cb et espèces.</p>
+        </div>
+        <div class="text-center col-md-4">
+            <img src="assets/icones/bagages.png" title="Consignes" alt="Consignes">
+            <p class="italic text-center">Consigne valise uniquement, à l'espace partenaire sur le village arrivée</p>
+        </div>
+    </div>
 </div>
-<p class="italic text-center">Cliquez sur l'icone pour télécharger le règlement</p>
 
 <?php require_once ('templates/footer.php')?>

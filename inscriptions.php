@@ -14,7 +14,8 @@ require_once ('index.php')
             <p class="italic">Cliquez sur le logo pour accéder à la plateforme d'inscription</p>
             <h2 class="courses">Offre pack entreprise</h2>
             <p>
-            <h3>Offrez un moment prilégié à vos salariés :</h3>
+            <fieldset>
+            <legend><h3>Offrez un moment prilégié à vos salariés</h3></legend>
             <ul class="list-unstyled hl-2">
                 <li>- Mise à disposition sur le village arrivée d'un Tivoli et d'un espace privatif.</li>
                 <li>- Vous pourrez y déposer vos effets avant la course, les récupérer juste après l'arrivée.</li>
@@ -23,7 +24,8 @@ require_once ('index.php')
                 <li>- Vos couleurs dans l'espace partenaires (banderoles, oriflammes).</li>
                 <li>- Retrait groupé des dossards.</li>
             </ul>
-            <p>Contacter Olivier au 0643054950 pour en savoir plus.</p>
+            <p>Contacter Olivier au 06 43 05 49 50 pour en savoir plus.</p>
+            </fieldset>
             </p>
         </div>
         <div class="d-flex flex-column justify-content-center text-center col-md-6 mt-5 gap-3">

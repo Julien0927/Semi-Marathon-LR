@@ -58,6 +58,11 @@ require_once ('index.php')
         </div>
     </div>
 </div>
+    <h2 class="courses text-center mt-5"> Informations de courses</h2>
+    <div class="text-center">
+        <img src="assets/informations/plan ravito.png">
+    </div>
+</div>
 
 <?php require_once ('templates/footer.php')?>
 

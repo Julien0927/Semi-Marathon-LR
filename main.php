@@ -102,6 +102,9 @@ require_once ('index.php');
           <a href="https://www.nouvelle-aquitaine.fr/"><img src="assets/partenaires/logo région NA.png" alt="Charente-Maritime 17" /></a>
         </div>
         <div class="item">
+          <a href="https://shop-bodycross.com/"><img src="assets/partenaires/logo-court-bodycross.jpg" alt="BodyCross" /></a>
+        </div>
+        <div class="item">
           <a href="https://www.facebook.com/boulangerieM17?fref=ts"><img src="assets/partenaires/boulangerieM.png" alt="Boulangerie M" /></a>
         </div>
         <div class="item">
