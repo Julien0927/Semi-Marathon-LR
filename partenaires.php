@@ -2,13 +2,13 @@
 require_once ('index.php');
 require_once ('templates/nav.php');
 ?>
-
-<img src="assets/images/photo5.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
-<div class="overlayRubrique">
-    <h1 class="">Partenaires</h1>
-    <img class="slide-bottom" src="assets/icones/down-arrow.svg" alt="">
+<div class="image-container">
+    <img src="assets/images/photo5.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
+    <div class="overlayRubrique">
+        <h1 class="">Partenaires</h1>
+        <img class="slide-bottom" src="assets/icones/down-arrow.svg" alt="">
+    </div>
 </div>
-
 <div class="container-fluid">
     <div class="d-flex col-md-12 justify-content-center mt-5">
         <h2 class="focus-in-contract-bck">"Merci à l'ensemble de nos partenaires!"</h2>

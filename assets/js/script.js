@@ -4,4 +4,3 @@ window.scroll({
     behavior: "smooth",
   });
 
-  

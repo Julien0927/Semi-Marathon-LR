@@ -3,10 +3,12 @@ require_once ('templates/nav.php');
 require_once ('index.php')
 ?>
 
-<img src="assets/images/photo5.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
-<div class="overlayRubrique">
-    <h1 class="">Inscriptions</h1>
-    <img class="slide-bottom" src="assets/icones/down-arrow.svg" alt="">
+<div class="image-container">
+    <img src="assets/images/photo5.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
+    <div class="overlayRubrique">
+        <h1 class="">Inscriptions</h1>
+        <img class="slide-bottom" src="assets/icones/down-arrow.svg" alt="">
+    </div>
 </div>
 <div class="d-flex flex-md-row flex-column col-md-12">
     <div class="d-flex flex-column justify-content-center text-center col-md-6 mt-5">

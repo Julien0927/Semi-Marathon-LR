@@ -118,7 +118,7 @@ body p
     text-decoration: none; /* Pas de soulignement par défaut */
   }
 
-  .map
+.map
   {
     height: 90px;
     width: 90px;
@@ -201,6 +201,7 @@ body p
   width: 30%;
   height: 30%;
 }
+
 /*start gallery*/
 .gallery-wrapper {
     background-color: #100242;
@@ -371,14 +372,23 @@ fieldset
 {
   font-size: 12px;
 }
-
+/*-------------------*/
+/*Responsive         */
+/*-------------------*/
 @media (max-width: 830px) {
+
   .courses
   {
     font-size: 1.5rem;
   }
   .overlayRubrique{
-    padding-bottom: 350px;
+    padding-bottom: 50px;
+  }
+
+  .overlayRubrique h1
+  {
+    font-size: 2rem;
+
   }
 
   h4
