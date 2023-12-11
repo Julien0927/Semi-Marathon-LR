@@ -56,7 +56,7 @@ require_once ('index.php');
         <img src="assets/images/affiche-web.png" alt="Semi Marathon La Rochelle" width="100%">
       </div>
       <div class="col-md-6 justify-content-center text-justify mt-5">
-        <h2 class="text-center">43ème édition</h2>
+        <h2 class="accueil text-center">43ème édition</h2>
         <p class="text-justify">
           Le semi-marathon de La Rochelle fêtera cette année sa 43ème édition.<br>
           2ème manifestation sportive de La Rochelle par son nombre de participants, 
@@ -68,7 +68,7 @@ require_once ('index.php');
           En cette année olympique nous avons souhaité faire notre la devise "l'important c'est de participer" 
           en proposant en plus du semi-marathon et du challenge Duo (2x10km) un 5Km permettant à chacun de participer et ainsi profiter de la fête de la course à pied et de l'Athlètisme à La Rochelle.
         </p><br>
-        <h2 class="text-center">Le mot du président</h2>
+        <h2 class="accueil text-center">Le mot du président</h2>
         <p>
           "Le semi-marathon de La Rochelle avec Hunday", c'est une manifestation sportive et festive depuis 45 ans au coeur de La Rochelle.<br>
           Dans la continuité de mes prédécesseurs, j'ai à coeur de proposer une épreuve de qualité respectueuse de chacun des participants et du cadre exceptionnel qui nous est proposé.<br>

@@ -14,7 +14,7 @@ require_once ('index.php')
     <h3 class="mt-5">Venir à La Rochelle...</h3>
 </div>
 <div class="row">
-    <div class="d-flex justify-content-around">
+    <div class="d-flex flex-md-row flex-column justify-content-around">
         <div class="col-md-3 text-center">
             <img src="assets/icones/train-50.png" alt="train">
             <div class="dropdown mt-3">
@@ -71,7 +71,7 @@ require_once ('index.php')
 <div class="text-center mt-5 mb-5">
     <h2 class="courses">Hébergement</h2>
 </div>
-<div class="d-flex justify-content-evenly text-center mb-5">
+<div class="d-flex flex-md-row flex-column justify-content-evenly text-center mb-5">
     <div class="col-md-4 mt-5">
         <a href="https://www.larochelle-tourisme.com/"><img src="assets/partenaires/officetourisme.png" class="rounded"></a>
     </div>
@@ -91,7 +91,7 @@ require_once ('index.php')
 <div class="text-center ">
     <h3>Samedi 16 Mars</h3>
 </div>
-<div class="d-flex justify-content-evenly text-center mt-3 mb-5">
+<div class="d-flex flex-md-row flex-column justify-content-evenly text-center mt-3 mb-5">
     <div class="col-md-6 justify-content-center text-center">
         <p>Pour le Semi-Marathon et le 5 Km</p>
         <p>10h à 19h à l’Espace Culturel du Centre Leclerc de LAGORD.</p>
@@ -111,7 +111,7 @@ require_once ('index.php')
 </div>
 
 <div class="row">
-    <div class="d-flex justify-content-center mt-5">
+    <div class="d-flex flex-md-row flex-column justify-content-center mt-5">
         <div class="text-center col-md-4">
             <a href="assets/informations/Reglement-2024.pdf"><img src="assets/icones/regles.png" alt="reglement"></a>
             <p class="italic text-center">Cliquez sur l'icone pour télécharger le règlement</p>

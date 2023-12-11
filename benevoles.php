@@ -26,10 +26,10 @@ require_once ('index.php')
     <img class="shadow" src="assets/images/martine.jpg" alt="Semi Marathon La Rochelle" width="30%" height="auto">
 </div>
 <div class="d-flex flex-column text-center mt-5">
-    <h4>Pour nous rejoindre, contacter martine au 06 64 65 21 39 ou mail sicardmartine@hotmail.fr.</h4>
+    <h4>Pour nous rejoindre,<br> contacter Martine au 06 64 65 21 39 ou mail sicardmartine@hotmail.fr.</h4>
     <h4>Retrait des consignes signaleurs sous la halle du tennis avenue Pierre de Coubertin plan ci-dessous.</h4>
     <div class="d-flex justify-content-center col-md-8 mx-auto mt-3">
-        <img src="assets/informations/planbenevoles.png" alt="Plan info benevoles">
+        <img src="assets/informations/planbenevoles.png" class="ravito" alt="Plan info benevoles">
     </div>
 </div>
 
