@@ -388,12 +388,25 @@ fieldset
 {
   font-size: 12px;
 }
+
 /*-------------------*/
 /*Responsive         */
 /*-------------------*/
+
 @media (max-width: 830px) {
 
-  .courses
+ .image-text img
+  {
+    width: 30%;
+    height: 30%;
+ }
+
+ .image-text
+ {
+    margin-top: 10px;
+ } 
+
+ .courses
   {
     font-size: 1.5rem;
   }
@@ -425,6 +438,10 @@ fieldset
     margin-top: -800px;
   }
 
+  .focus-in-contract-bck
+  {
+    font-size: 2rem;
+  }
   .footer
   {
     height: 350px;
