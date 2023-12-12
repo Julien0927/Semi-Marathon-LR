@@ -65,7 +65,7 @@ require_once ('templates/nav.php');
                 <a href="https://www.lheuredumarche.fr/"><img src="assets/partenaires/LHEURE-DU-MARCHÉ.png" alt="L'heure du Marché"></a>
             </div>
         <h2 class="courses">Partenaire Média</h2>
-        <a href="https://www.europe2.fr/"><img src="assets/partenaires/Europe2.png" alt="Europe 2"></a>
+                <a href="https://www.europe2.fr/"><img src="assets/partenaires/Europe2.png" style="width: 30%; height: auto" alt="Europe 2"></a>
     </div>
     <div class="text-center">
         <h4>
