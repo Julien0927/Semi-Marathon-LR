@@ -16,7 +16,7 @@ require_once ('index.php')
             <div class="card mx-auto" style="width: 36rem;">
                 <img src="assets/parcours/Parcours_5Km.png" class="card-img-top" alt="parcours 5km">
                 <div class="card-body">
-                    <a href="https://www.openrunner.com/route-details/18027025" class="btn btn-danger">Accéder au détail de la course</a>
+                    <a href="https://www.openrunner.com/route-details/18027025" class="btn btn-danger">Accéder aux détails de la course</a>
                 </div>
             </div>
         </div>
@@ -34,16 +34,17 @@ require_once ('index.php')
         </div>
     </div>
 </div>
-
-<h2 class="courses text-center mt-5">Parcours Semi-Marathon et Duo</h2>
-
+<div class="text-center">
+    <h2 class="courses mt-5">Parcours Semi-Marathon et Duo</h2>
+    <p >Pour le parcours Duo, le 1er concurrent réalise 10 km, le second 11 km.</p>
+</div>
 <div class="container ">
     <div class="row mt-5">
         <div class="col-md-6 mx-auto text-center">
             <div class="card mx-auto" style="width: 36rem;">
                 <img src="assets/parcours/Parcours_semi_duo.png" class="card-img-top" alt="Parcours semi et duo">
                 <div class="card-body">
-                    <a href="https://www.openrunner.com/route-details/18026943" class="btn btn-danger">Accéder au détail de la course</a>
+                    <a href="https://www.openrunner.com/route-details/18026943" class="btn btn-danger">Accéder aux détails de la course</a>
                 </div>
             </div>
         </div>

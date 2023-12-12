@@ -19,8 +19,8 @@ require_once ('index.php')
 
     <ul class="nav col-md-4 justify-content-center">
         <a href="" title="contact" class="disabled-link">aunis.semilarochelle@gmail.com<img src="assets/icones/contact-50.png"></a>
-        <a href="https://www.facebook.com/aunisathletisme" title="facebook club"><img src="assets/icones/icons8-facebook.png"></a>
-        <a href="https://www.instagram.com/aalra17/" title="instagram club"><img src="assets/icones/icons8-instagram.png"></a>
+        <a href="https://www.facebook.com/profile.php?id=100075781124607" title="facebook semi-marathon"><img src="assets/icones/icons8-facebook.png"></a>
+        <a href="https://www.instagram.com/semi_marathon_larochelle/" title="instagram semi-marathon"><img src="assets/icones/icons8-instagram.png"></a>
     </ul>
   </footer>
 </body>

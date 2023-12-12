@@ -97,6 +97,11 @@ body p
     color: #4e4d50;
 }
 
+.justified-text
+{
+    text-align: justify;
+}
+
 .courses
 {
     font-family: 'Barlow', sans-serif;
@@ -206,7 +211,7 @@ body p
 .gallery-wrapper {
     background-color: #100242;
     box-sizing: border-box;
-    height: 195px;
+    height: 190px;
     overflow: hidden;
   }
   
@@ -219,6 +224,7 @@ body p
   .item img {
     display: block;
     height: 100%;
+    width: 250px;
     border-radius: 5%;
   }
 
@@ -230,7 +236,7 @@ body p
   width: max-content;
   height: 180px;
   padding: 0px 8px;
-  animation: scrollGallery 18s linear infinite; /* Définit le défilement automatique pendant 18 secondes avec une animation linéaire infinie */
+  animation: scrollGallery 20s linear infinite; /* Définit le défilement automatique pendant 50 secondes avec une animation linéaire infinie */
   cursor: pointer; /* Ajoutez un curseur pointer pour indiquer qu'il est possible de cliquer sur la galerie */
 }
 
@@ -245,7 +251,7 @@ body p
       transform: translateX(0);
     }
     100% {
-      transform: translateX(-70%);
+      transform: translateX(-75%);
     }
   }
   /*end gallery*/
@@ -298,9 +304,11 @@ body p
 /* ----------------------------------------
 * @animation focus-in-contract-bck
 * ----------------------------------------*/
-.focus-in-contract-bck {
+.focus-in-contract-bck 
+{
 	-webkit-animation: focus-in-contract-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	        animation: focus-in-contract-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+          font-size: 4rem;
 }
 
 @-webkit-keyframes focus-in-contract-bck {
@@ -352,6 +360,12 @@ fieldset
   margin: 20px; 
   margin-top: 3px;
   }
+
+.partner img
+{
+  width: 20%;
+  height: 20%;
+}
 
 /*footer*/
 .footer

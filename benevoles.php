@@ -10,8 +10,9 @@ require_once ('index.php')
         <img class="slide-bottom" src="assets/icones/down-arrow.svg" alt="">
     </div>
 </div>
-<div class="d-flex col-md-12 justify-content-center mt-5">
+<div class="d-flex  flex-column col-md-12 justify-content-center text-center mt-5">
     <h2 class="focus-in-contract-bck">Merci à nos 280 bénévoles</h2>
+    <h4>Le semi-marathon ne pourrait exister sans votre implication!</h4>
 </div>
 
 <div class="d-flex mt-5">

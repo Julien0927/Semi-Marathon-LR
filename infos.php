@@ -24,7 +24,7 @@ require_once ('index.php')
                     En train
                 </button>
                 <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">La gare se situe à 500 mètres<br>  de l’Espace Encan <br> et des zones départ et arrivée.</a></li>
+                    <li><a class="dropdown-item" href="#">La gare se situe en centre ville<br> à moins de 3 km du départ.</a></li>
                     <li><a class="dropdown-item" style="color: blue; font-weight: bold" href="https://www.sncf-connect.com/">+ d'infos</a></li>
                 </ul>
             </div>            

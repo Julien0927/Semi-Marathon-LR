@@ -14,6 +14,7 @@ require_once ('index.php');
       </div>
       <div class="image-text pb-2">
         <h1 class="">SEMI-MARATHON <br>DE<br> LA ROCHELLE<br>AVEC<br>HYUNDAI LA ROCHELLE</h1>
+        <img src="assets/partenaires/logo_Hyundai.png">
       </div>
       <div class="image-club">
         <a href="http://aunisathletismelarochelleaytre.athle.com/"><img src="assets/icones/logo Aunis vectorise.jpg" class="img-fluid" alt="Aunis Athlétisme"></a>
@@ -54,11 +55,11 @@ require_once ('index.php');
   <div class="col-md-12">
     <div class="row">
       <div class="col-md-6">
-        <img src="assets/images/affiche-web.png" alt="Semi Marathon La Rochelle" width="100%">
+        <img src="assets/images/affiche-semi-2024-v2.png" alt="Semi Marathon La Rochelle" width="100%">
       </div>
       <div class="col-md-6 justify-content-center text-justify mt-5">
         <h2 class="accueil text-center">43ème édition</h2>
-        <p class="text-justify">
+        <p class="justified-text">
           Le semi-marathon de La Rochelle fêtera cette année sa 43ème édition.<br>
           2ème manifestation sportive de La Rochelle par son nombre de participants, 
           le semi-marathon emprunte un tracé au coeur de la ville en passant par ses plus beaux sites touristiques.<br>
@@ -67,17 +68,17 @@ require_once ('index.php');
           certains  l'occasion de faire un semi dans un cadre exceptionnel et d'autres encore la possibilité d'être finisher d'un 21 Km.<br>
           L'épreuve ne cesse de faire de nouveaux adeptes et affiche chaque année complet malgré l'ouverture de places supplémentaires tous les ans.
           En cette année olympique nous avons souhaité faire notre la devise "l'important c'est de participer" 
-          en proposant en plus du semi-marathon et du challenge Duo (2x10km) un 5Km permettant à chacun de participer et ainsi profiter de la fête de la course à pied et de l'Athlètisme à La Rochelle.
+          en proposant en plus du semi-marathon et du challenge Duo (10 et 11km) un 5Km permettant à chacun de participer et ainsi profiter de la fête de la course à pied et de l'athlètisme à La Rochelle.
         </p><br>
         <h2 class="accueil text-center">Le mot du président</h2>
-        <p>
-          "Le semi-marathon de La Rochelle avec Hunday", c'est une manifestation sportive et festive depuis 45 ans au coeur de La Rochelle.<br>
+        <p class="justified-text">
+          "Le semi-marathon de La Rochelle Hunday", c'est une manifestation sportive et festive depuis 45 ans au coeur de La Rochelle.<br>
           Dans la continuité de mes prédécesseurs, j'ai à coeur de proposer une épreuve de qualité respectueuse de chacun des participants et du cadre exceptionnel qui nous est proposé.<br>
           Le sport, la performance, le plaisir, le partage animent l'engagement de toute mon équipe à la réussite de cette organisation. Le travail ne manque pas mais ils sont là...<br> 
-          Nous proposerons en plus cette année à un 5Km accessible au plus grand nombre et permettant à chacun de venir profiter de la fête.<br>
+          Nous proposerons en plus cette année un 5Km accessible au plus grand nombre, permettant à chacun de venir profiter de la fête<br>
           Ce sont ainsi 3000 sportifs qui pourront s'élancer dans les rues de La Rochelle courir sur le vieux Port et franchir la ligne d'arrivée sur le tartan de la piste du stade Bouffénie.<br>
           De la performance, du sport mais surtout du plaisir à venir chercher au Semi-marathon de La Rochelle.<br>
-          Un grand merci à la ville de La Rochelle, le club de l'Aunis Athlètisme, nos partenaires et les 250 bénévoles indispensables à la réussite de notre manifestation.<br>
+          Un grand merci à la ville de La Rochelle, le club de l'Aunis Athlétisme, nos partenaires et les 250 bénévoles indispensables à la réussite de notre manifestation.<br>
 
           Mathieu Le Mouillour
         </p>
@@ -106,10 +107,16 @@ require_once ('index.php');
           <a href="https://shop-bodycross.com/"><img src="assets/partenaires/logo-court-bodycross.jpg" alt="BodyCross" /></a>
         </div>
         <div class="item">
+          <a href="https://capmoules.fr/"><img src="assets/partenaires/logo-capmoule2023@3x.png" style="background-color: white" alt="CapMoules"/></a>
+        </div>
+        <div class="item">
           <a href="https://www.facebook.com/boulangerieM17?fref=ts"><img src="assets/partenaires/boulangerieM.png" alt="Boulangerie M" /></a>
         </div>
         <div class="item">
           <a href="https://www.athle.fr/"><img src="assets/partenaires/FFA.png" alt="Fédération française d'athlétisme" /></a>
+        </div>
+        <div class="item">
+          <a href="http://www.groupebarbier.fr/"><img src="assets/partenaires/Barbier.png" alt="Groupe Barbier" /></a>
         </div>
         <div class="item">
           <a href="https://www.colas.com/fr/"><img src="assets/partenaires/colas.png" alt="Colas" /></a>
@@ -118,16 +125,16 @@ require_once ('index.php');
           <a href="https://www.leanature.com/"><img src="assets/partenaires/LeaN.png" alt="Léa Nature"/></a>
         </div>
         <div class="item">
-          <a href="https://gpm-immobilier.com/"><img src="assets/partenaires/GPM.png" alt="GPM" /></a>
+          <a href="https://gpm-immobilier.com/"><img src="assets/partenaires/GPM.png" style="background-color: white" alt="GPM" /></a>
         </div>
         <div class="item">
-          <a href="https://www.deal-eco.fr/"><img src="assets/partenaires/dealeco.png" alt="Deal-Eco" /></a>
+          <a href="https://www.creditmutuel.fr/cmo/fr/contact.html"><img src="assets/partenaires/CreditM.jpg" style="background-color: white" alt="Crédit Mutuel" /></a>
         </div>
         <div class="item">
           <a href="https://www.groupe-ridoret.com/"><img src="assets/partenaires/FRANCE MENUISIERS.jpg" alt="Groupe Ridoret" /></a>
         </div>
         <div class="item">
-          <a href="https://www.e.leclerc/mag/e-leclerc-lagord"><img src="assets/partenaires/leclerc.png" alt="E. Leclerc" /></a>
+          <a href="https://www.e.leclerc/mag/e-leclerc-lagord"><img src="assets/partenaires/leclerc.png" alt="E. Leclerc Lagord" /></a>
         </div>
         <div class="item">
           <a href="https://rexrotary.fr/"><img src="assets/partenaires/RexRotary.png" alt="Rex Rotary" /></a>
@@ -139,19 +146,16 @@ require_once ('index.php');
           <a href="https://www.runningconseilpuilboreau.com/"><img src="assets/partenaires/RunEver.png" alt="Run Ever La Rochelle" /></a>
         </div>
         <div class="item">
+          <a href="https://www.breizhchrono.com/"><img src="assets/partenaires/Breizh Crono.png" style="background-color: white" alt="Breizh Crono" /></a>
+        </div>
+        <div class="item">
+          <a href="https://www.servitrans.fr/"><img src="assets/partenaires/servitrans.webp" alt="ServiTrans La Rochelle" /></a>
+        </div>
+        <div class="item">
+          <a href="https://www.lheuredumarche.fr/"><img src="assets/partenaires/LHEURE-DU-MARCHÉ.png" style="background-color: white" alt="L'heure du Marché Puilboreau" /></a>
+        </div>
+        <div class="item">
           <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/Hyundai.png" alt="Hyundai" /></a>
-        </div>
-        <div class="item">
-          <a href="https://www.larochelle.fr/"><img src="assets/partenaires/ville_LR.png" alt="Ville de La Rochelle" /></a>
-        </div>
-        <div class="item">
-          <a href="https://la.charente-maritime.fr/"><img src="assets/partenaires/CM17.png" alt="Charente-Maritime 17" /></a>
-        </div>
-        <div class="item">
-          <a href="https://www.facebook.com/boulangerieM17?fref=ts"><img src="assets/partenaires/boulangerieM.png" alt="Boulangerie M" /></a>
-        </div>
-        <div class="item">
-          <a href="https://www.athle.fr/"><img src="assets/partenaires/FFA.png" alt="Fédération française d'athlétisme" /></a>
         </div>
       </div>
     </div>
