@@ -228,6 +228,7 @@ body p
     border-radius: 5%;
   }
 
+
 /* Appliquez l'animation à la classe .gallery */
 .gallery {
   background-color: #100242;
@@ -363,9 +364,10 @@ fieldset
 
 .partner img
 {
-  width: 20%;
-  height: 20%;
+  width: 80%;
+  height: 80%;
 }
+
 
 /*footer*/
 .footer

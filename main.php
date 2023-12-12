@@ -72,7 +72,7 @@ require_once ('index.php');
         </p><br>
         <h2 class="accueil text-center">Le mot du président</h2>
         <p class="justified-text">
-          "Le semi-marathon de La Rochelle Hunday", c'est une manifestation sportive et festive depuis 45 ans au coeur de La Rochelle.<br>
+          "Le semi-marathon de La Rochelle Hyundai", c'est une manifestation sportive et festive depuis 45 ans au coeur de La Rochelle.<br>
           Dans la continuité de mes prédécesseurs, j'ai à coeur de proposer une épreuve de qualité respectueuse de chacun des participants et du cadre exceptionnel qui nous est proposé.<br>
           Le sport, la performance, le plaisir, le partage animent l'engagement de toute mon équipe à la réussite de cette organisation. Le travail ne manque pas mais ils sont là...<br> 
           Nous proposerons en plus cette année un 5Km accessible au plus grand nombre, permettant à chacun de venir profiter de la fête<br>
@@ -116,6 +116,9 @@ require_once ('index.php');
           <a href="https://www.athle.fr/"><img src="assets/partenaires/FFA.png" alt="Fédération française d'athlétisme" /></a>
         </div>
         <div class="item">
+          <a href="https://www.cubebikes.fr/"><img src="assets/partenaires/cube.png" alt="Cube" /></a>
+        </div>
+        <div class="item">
           <a href="http://www.groupebarbier.fr/"><img src="assets/partenaires/Barbier.png" alt="Groupe Barbier" /></a>
         </div>
         <div class="item">
@@ -128,10 +131,10 @@ require_once ('index.php');
           <a href="https://gpm-immobilier.com/"><img src="assets/partenaires/GPM.png" style="background-color: white" alt="GPM" /></a>
         </div>
         <div class="item">
-          <a href="https://www.creditmutuel.fr/cmo/fr/contact.html"><img src="assets/partenaires/CreditM.jpg" style="background-color: white" alt="Crédit Mutuel" /></a>
+          <a href="https://www.creditmutuel.fr/cmo/fr/contact.html"><img src="assets/partenaires/Crédit-Mutuel.png" style="background-color: white" alt="Crédit Mutuel" /></a>
         </div>
         <div class="item">
-          <a href="https://www.groupe-ridoret.com/"><img src="assets/partenaires/FRANCE MENUISIERS.jpg" alt="Groupe Ridoret" /></a>
+          <a href="https://www.france-menuisiers.fr/"><img src="assets/partenaires/FRANCE MENUISIERS.jpg" alt="France menuisiers La Rochelle" /></a>
         </div>
         <div class="item">
           <a href="https://www.e.leclerc/mag/e-leclerc-lagord"><img src="assets/partenaires/leclerc.png" alt="E. Leclerc Lagord" /></a>

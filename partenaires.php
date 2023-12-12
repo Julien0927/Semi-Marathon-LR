@@ -26,46 +26,46 @@ require_once ('templates/nav.php');
     <div class="partner text-center">
         <h2 class="courses mb-3">Partenaires institutionnels</h2>
             <div class="d-flex justify-content-around align-items-center">
-                <img src="assets/partenaires/ville_LR.png" alt="Ville de La Rochelle">
-                <img src="assets/partenaires/logo région NA.png" alt="Région Nouvelle Aquitaine">
-                <img src="assets/partenaires/CM17.png" alt="Département de la Charente-Maritime">
-                <img src="assets/partenaires/FFA.png" alt="Fédération Française d'Athlétisme">
+                <a href="https://www.larochelle.fr/"><img src="assets/partenaires/ville_LR.png" class="img-fluid" alt="Ville de La Rochelle"></a>
+                <a href="https://la.charente-maritime.fr/"><img src="assets/partenaires/CM17.png" alt="Département de la Charente-Maritime"></a>
+                <a href="https://www.nouvelle-aquitaine.fr/"><img src="assets/partenaires/logo région NA.png" alt="Région Nouvelle Aquitaine"></a>
+                <a href="https://www.athle.fr/"><img src="assets/partenaires/FFA.png" alt="Fédération Française d'Athlétisme"></a>
             </div>
 
         <h2 class="courses my-3 mb-5">Partenaires majeurs</h2>
             <div class="d-flex justify-content-around align-items-center mb-3">
-                <img src="assets/partenaires/Hyundai.png" alt="Hyundai La Rochelle">
-                <img src="assets/partenaires/Barbier.png" alt="Groupe Barbier">
-                <img src="assets/partenaires/cube.png" alt="Cube">
+                <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/Hyundai.png" alt="Hyundai La Rochelle"></a>
+                <a href="http://www.groupebarbier.fr/"><img src="assets/partenaires/Barbier.png" alt="Groupe Barbier"></a>
+                <a href="https://www.cubebikes.fr/"><img src="assets/partenaires/cube.png" alt="Cube"></a>
             </div>
 
         <h2 class="courses mt-5 mb-5">Partenaires officiels</h2>
             <div class="d-flex justify-content-around align-items-center mb-3">
-                <img src="assets/partenaires/colas.png" alt="Colas">
-                <img src="assets/partenaires/logo-capmoule2023@3x.png" alt="Cap Moules">
-                <img src="assets/partenaires/FRANCE MENUISIERS.jpg" alt="France Menuisiers">
-                <img src="assets/partenaires/GPM.png" alt="GPM">
+                <a href="https://www.colas.com/fr/"><img src="assets/partenaires/colas.png" alt="Colas"></a>
+                <a href="https://capmoules.fr/"><img src="assets/partenaires/logo-capmoule2023@3x.png" alt="Cap Moules"></a>
+                <a href="https://www.france-menuisiers.fr/"><img src="assets/partenaires/FRANCE MENUISIERS.jpg" alt="France Menuisiers"></a>
+                <a href="https://gpm-immobilier.com/"><img src="assets/partenaires/GPM.png" alt="GPM"></a>
             </div>
             <div class="d-flex justify-content-around align-items-center mb-3">
-                <img src="assets/partenaires/LeaN.png" alt="Léa Nature">
-                <img src="assets/partenaires/RunEver.png" alt="Runnever">
-                <img src="assets/partenaires/CreditM.jpg" alt="Crédit Mutuel">
+                <a href="https://www.leanature.com/"><img src="assets/partenaires/LeaN.png" alt="Léa Nature"></a>
+                <a href="https://www.runningconseilpuilboreau.com/"><img src="assets/partenaires/RunEver.png" alt="Runnever"></a>
+                <a href="https://www.creditmutuel.fr/cmo/fr/contact.html"><img src="assets/partenaires/Crédit-Mutuel.png" style="background-color: white" alt="Crédit Mutuel"></a>
             </div>
 
         <h2 class="courses">Partenaires fournisseurs</h2>
             <div class="d-flex justify-content-around align-items-center mb-3">
-                <img src="assets/partenaires/logo-court-bodycross.jpg" alt="BodyCross">
-                <img src="assets/partenaires/Breizh Crono.png" alt="Breizh Crono">
-                <img src="assets/partenaires/RexRotary.png" alt="Rex Rotary">
-                <img src="assets/partenaires/leclerc.png" alt="E. Leclerc Lagord">
+                <a href="https://shop-bodycross.com/"><img src="assets/partenaires/logo-court-bodycross.jpg" alt="BodyCross"></a>
+                <a href="https://www.breizhchrono.com/"><img src="assets/partenaires/Breizh Crono.png" alt="Breizh Chrono"></a>
+                <a href="https://rexrotary.fr/"><img src="assets/partenaires/RexRotary.png" alt="Rex Rotary"></a>
+                <a href="https://www.e.leclerc/mag/e-leclerc-lagord"><img src="assets/partenaires/leclerc.png" alt="E. Leclerc Lagord"></a>
             </div>
             <div class="d-flex justify-content-around align-items-center mb-3">
-                <img src="assets/partenaires/boulangerieM.png" alt="boulangerie M">
-                <img src="assets/partenaires/servitrans.webp" alt="Servitrans">
-                <img src="assets/partenaires/LHEURE-DU-MARCHÉ.png" alt="L'heure du Marché">
+                <a href="https://www.facebook.com/boulangerieM17?fref=ts"><img src="assets/partenaires/boulangerieM.png" alt="boulangerie M"></a>
+                <a href="https://www.servitrans.fr/"><img src="assets/partenaires/servitrans.webp" alt="Servitrans"></a>
+                <a href="https://www.lheuredumarche.fr/"><img src="assets/partenaires/LHEURE-DU-MARCHÉ.png" alt="L'heure du Marché"></a>
             </div>
         <h2 class="courses">Partenaire Média</h2>
-        <img src="assets/partenaires/Europe2.png" alt="Europe 2">
+        <a href="https://www.europe2.fr/"><img src="assets/partenaires/Europe2.png" alt="Europe 2"></a>
     </div>
     <div class="text-center">
         <h4>
