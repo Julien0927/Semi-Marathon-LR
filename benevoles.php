@@ -21,7 +21,7 @@ require_once ('index.php')
             <img class="shadow" src="assets/images/benevoles.jpg" alt="Semi Marathon La Rochelle" width="50%" height="auto">
         </div>
         <div class="col-md-6 justify-content-center text-center mt-5">
-            <img class="shadow" src="assets/images/benevole2.jpg" alt="Semi Marathon La Rochelle" width="50%" height="auto">
+            <img class="shadow" src="assets/images/benevole ravitaillement final.jpg" alt="Semi Marathon La Rochelle" width="50%" height="auto">
         </div>
     </div>
 </div>

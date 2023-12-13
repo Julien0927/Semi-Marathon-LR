@@ -4,7 +4,7 @@ require_once ('index.php')
 ?>
 
 <div class="image-container">
-    <img src="assets/images/photo5.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
+    <img src="assets/images/groupe festif jaune.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
     <div class="overlayRubrique">
         <h1 class="">Infos pratiques</h1>
         <img class="slide-bottom" src="assets/icones/down-arrow.svg" alt="">
