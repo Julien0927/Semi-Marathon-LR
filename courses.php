@@ -63,7 +63,7 @@ require_once ('index.php')
 
     <h2 class="courses text-center mt-5"> Informations de courses</h2>
     <div class="ravito text-center">
-        <img src="assets/informations/plan ravito.png" alt="plan ravito secours">
+        <img src="assets/informations/plan ravito.png" class="img-fluid" alt="plan ravito secours">
     </div>
 
 
