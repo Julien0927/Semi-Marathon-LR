@@ -79,12 +79,11 @@ require_once ('index.php');
           Ce sont ainsi 3000 sportifs qui pourront s'élancer dans les rues de La Rochelle courir sur le vieux Port et franchir la ligne d'arrivée sur le tartan de la piste du stade Bouffénie.<br>
           De la performance, du sport mais surtout du plaisir à venir chercher au Semi-marathon de La Rochelle.<br>
           Un grand merci à la ville de La Rochelle, le club de l'Aunis Athlétisme, nos partenaires et les 250 bénévoles indispensables à la réussite de notre manifestation.<br>
-
-          Mathieu Le Mouillour
+          
         </p>
-        <div class="d-flex justify-content-center">
-          <img class="logoAunis" src="" style="width: 30%; height: 30%" alt="photo Matthieu Le Mouillour">
-        </div>
+        <div class="d-flex flex-column  text-center Mathieu mx-auto">
+          <img src="assets/images/MatLM1.png" alt="photo Matthieu Le Mouillour">
+          <p>Mathieu Le Mouillour</p>        
       </div>
     </div>
   </div>
