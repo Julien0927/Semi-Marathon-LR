@@ -1,13 +1,13 @@
 <?php
 require_once ('index.php');
-require_once ('templates/nav.php');
+//require_once ('templates/nav.php');
 ?>
 
 <div class="container d-block justify-content-center col-md-8 mentions">
     <div class="d-flex justify-content-center mt-5 pt-2">
         <h2 class="courses text-center pt-2">Mentions légales</h2>
     </div>
-        <div class="text-justified mt-3">
+        <div class="justified-text mt-3">
             <ol>
                 <li><h3>Editeur du site</h3></li>
                 <p>Le site semimarathonlarochelle.fr (ci-après dénommé "le Site") est édité par Monsieur Varachas, 

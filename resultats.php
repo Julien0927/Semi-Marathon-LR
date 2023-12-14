@@ -1,12 +1,12 @@
 <?php
-require_once ('templates/nav.php');
-require_once ('index.php')
+require_once ('templates/header.php');
+//require_once ('index.php')
 ?>
 
 <div class="image-container">
     <img src="assets/images/photo10.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
     <div class="overlayRubrique">
-        <h1 class="">Résultats</h1>
+        <h1 class="d-flex align-items-center">Résultats</h1>
         <img class="slide-bottom" src="assets/icones/down-arrow.svg" alt="">
     </div>
 </div>
@@ -31,4 +31,6 @@ require_once ('index.php')
     </div>
 </div>
 
-<?php require_once ('templates/footer.php')?>
+<?php 
+require_once ('templates/footer.php')
+?>

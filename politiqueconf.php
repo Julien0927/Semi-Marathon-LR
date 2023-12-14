@@ -1,13 +1,13 @@
 <?php
 require_once ('index.php');
-require_once ('templates/nav.php');
+//require_once ('templates/nav.php');
 ?>
 
 <div class="container d-block justify-content-center col-md-8 mentions">
     <div class="d-flex justify-content-center mt-5 pt-2 mx-3">
         <h2 class="courses text-center pt-2">Politique de confidentialité</h2>
     </div>
-        <div class="text-justified mt-3">
+        <div class="justified-text mt-3">
             <p>Dernière mise à jour : 13 décembre 2023</p>
             <ol>
                 <li><h3>Introduction</h3></li>

@@ -1,12 +1,12 @@
 <?php
-require_once ('templates/nav.php');
-require_once ('index.php')
+require_once ('templates/header.php');
+//require_once ('index.php')
 ?>
 <div class="image-container">
-    <img src="assets/images/photo5.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
+    <img src="/assets/images/photo5.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
     <div class="overlayRubrique">
-        <h1>Courses</h1>
-        <img class="slide-bottom" src="assets/icones/down-arrow.svg" alt="">
+        <h1 class="d-flex align-items-center">Courses</h1>
+        <img class="slide-bottom" src="/assets/icones/down-arrow.svg" alt="">
     </div>
 </div>
 <h2 class="courses text-center mt-3">Parcours 5 km</h2>
@@ -14,7 +14,7 @@ require_once ('index.php')
     <div class="row mt-5">
         <div class="col-md-6 mx-auto text-center">
             <div class="card mx-auto" style="width: 36rem;">
-                <img src="assets/parcours/Parcours_5Km.png" class="card-img-top" alt="parcours 5km">
+                <img src="/assets/parcours/Parcours_5Km.png" class="card-img-top" alt="parcours 5km">
                 <div class="card-body">
                     <a href="https://www.openrunner.com/route-details/18027025" class="btn btn-danger">Accéder aux détails de la course</a>
                 </div>

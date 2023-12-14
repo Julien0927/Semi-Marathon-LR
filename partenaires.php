@@ -1,12 +1,12 @@
 <?php
-require_once ('index.php');
-require_once ('templates/nav.php');
+//require_once ('index.php');
+require_once ('templates/header.php');
 ?>
 
 <div class="image-container">
     <img src="assets/images/voiture iono6.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
     <div class="overlayRubrique">
-        <h1 class="">Partenaires</h1>
+        <h1 class="d-flex align-items-center">Partenaires</h1>
         <img class="slide-bottom" src="assets/icones/down-arrow.svg" alt="">
     </div>
 </div>
