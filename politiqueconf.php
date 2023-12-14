@@ -8,10 +8,10 @@ require_once ('templates/nav.php');
         <h2 class="courses text-center pt-2">Politique de confidentialité</h2>
     </div>
         <div class="text-justified mt-3">
-            <p>Dernière mise à jour : [Date de la dernière mise à jour]</p>
+            <p>Dernière mise à jour : 13 décembre 2023</p>
             <ol>
                 <li><h3>Introduction</h3></li>
-                <p>Bienvenue sur [Nom du site] (ci-après dénommé "le Site"). 
+                <p>Bienvenue sur semimarathonlarochelle.fr (ci-après dénommé "le Site"). 
                     La protection de vos données personnelles est une priorité pour nous. 
                     Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos données personnelles. 
                     En utilisant le Site, vous acceptez les conditions de la présente politique de confidentialité.
@@ -63,15 +63,15 @@ require_once ('templates/nav.php');
                 <li><h3>Droits des utilisateurs</h3></li>
                 <p>Vous avez le droit d'accéder à vos données personnelles, de les rectifier, 
                     de les supprimer ou de vous opposer à leur traitement. 
-                    Vous pouvez exercer ces droits en nous contactant à [Adresse e-mail de contact].
+                    Vous pouvez exercer ces droits en nous contactant à aunisathletisme@sfr.
                 </p>
                 <li><h3>Modifications de la politique de confidentialité</h3></li>
                 <p>Nous nous réservons le droit de modifier cette politique de confidentialité à tout moment. 
                     Toute modification sera publiée sur le Site, et la date de la dernière mise à jour sera indiquée en haut du document.
                 </p>
                 <li><h3>Contact</h3></li>
-                <p>Si vous avez des questions ou des préoccupations concernant notre politique de confidentialité, veuillez nous contacter à [Adresse e-mail de contact].
-                    Fait à [Lieu], le [Date de rédaction].
+                <p>Si vous avez des questions ou des préoccupations concernant notre politique de confidentialité, veuillez nous contacter à aunisathletisme@sfr.
+                    Fait à La Rochelle, le 13 décembre 2023.
                 </p>
             </ol>
         </div>

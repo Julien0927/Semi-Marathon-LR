@@ -12,13 +12,13 @@ require_once ('index.php')
       <li>Aunis Athlétisme La Rochelle Aytré</li>
       <li>Stade Armand Bouffénie - Avenue Pierre de Coubertin</li>
       <li>17000 La Rochelle</li>
-      <li><img src="assets/icones/phone-16.png"> 05 46 00 05 40   <img src="assets/icones/courrier-16.png"> aunisathletisme@sfr</li>
+      <li><img src="assets/icones/phone-16.png"> 05 46 00 05 40   <img src="assets/icones/courrier-16.png"> aunisathletisme@sfr.fr</li>
       <a href="politiqueconf.php" class="disabled-link"><p class="mention mb-3 mb-md-0 text-white">Politique de confidentialité - <a href="mentions_legales.php" class="disabled-link">Mentions légales</p></a>
     </ul>
     </div>
 
-    <ul class="nav col-md-4 justify-content-center">
-        <a href="" title="contact" class="disabled-link">aunis.semilarochelle@gmail.com<img src="assets/icones/contact-50.png"></a>
+    <ul class="nav col-md-4 justify-content-center align-items-center text-center">
+        <a href="" title="contact semimarathon" class="disabled-link">contact course<br>aunis.semilarochelle@gmail.com<img src="assets/icones/contact-50.png"></a>
         <a href="https://www.facebook.com/profile.php?id=100075781124607" title="facebook semi-marathon"><img src="assets/icones/icons8-facebook.png"></a>
         <a href="https://www.instagram.com/semi_marathon_larochelle/" title="instagram semi-marathon"><img src="assets/icones/icons8-instagram.png"></a>
     </ul>

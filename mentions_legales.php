@@ -10,17 +10,12 @@ require_once ('templates/nav.php');
         <div class="text-justified mt-3">
             <ol>
                 <li><h3>Editeur du site</h3></li>
-                <p>Le site [Nom du site] (ci-après dénommé "le Site") est édité par [Nom de l'entreprise], 
-                    une société [forme juridique de l'entreprise] au capital de [Montant du capital social], 
-                    immatriculée au Registre du Commerce et des Sociétés de [Ville d'immatriculation] sous le numéro [Numéro d'immatriculation],
-                    dont le siège social est situé à [Adresse du siège social].
+                <p>Le site semimarathonlarochelle.fr (ci-après dénommé "le Site") est édité par Monsieur Varachas, 
+                    un bénévole indépendant, agissant à titre personnel et n'appartenant à aucune entité légale.
                 </p>
-                <p>Téléphone : [Numéro de téléphone]</p>
-                <p>Adresse e-mail : [Adresse e-mail]</p>
-                <p>Directeur de la publication : [Nom du directeur de la publication]</p>
-                
+                                
                 <li><h3>Hébegement</h3></li>
-                <p>Le Site est hébergé par [Nom de l'hébergeur], dont le siège social est situé à [Adresse de l'hébergeur].</p>
+                <p>Le Site est hébergé par alwaysdata.net, dont le siège social est situé à - 91 rue du Faubourg Saint Honoré - 75008 Paris -.</p>
 
                 <li><h3>Propriété intellectuelle</h3></li>
                 <p>Le Site et chacun des éléments qui le composent (tels que marques, images, textes, vidéos, etc.) 
@@ -36,16 +31,16 @@ require_once ('templates/nav.php');
                 <li><h3>Cookies</h3></li>
                 <p>Le Site utilise des cookies. Ces fichiers stockés sur votre ordinateur nous servent à faciliter votre accès aux services que nous proposons. 
                     Les cookies du site ne contiennent pas de données permettant de vous identifier personnellement, 
-                    et ils sont conçus pour être utilisés uniquement par [Nom de l'entreprise]. 
+                    et ils sont conçus pour être utilisés uniquement par Monsieur Varachas. 
                     Nous vous informons que vous pouvez vous opposer à l'enregistrement de ces "cookies" 
                     en configurant votre ordinateur selon les modalités détaillées sur le site http://www.cnil.fr.
                 </p>
 
                 <li><h3>Responsabilité</h3></li>
-                <p>[Nom de l'entreprise] s'efforce d'assurer au mieux de ses possibilités, 
+                <p>Monsieur Varachas s'efforce d'assurer au mieux de ses possibilités, 
                     l'exactitude et la mise à jour des informations diffusées sur le Site, 
                     dont elle se réserve le droit de corriger, à tout moment et sans préavis, le contenu. 
-                    Toutefois, [Nom de l'entreprise] ne peut garantir l'exactitude, 
+                    Toutefois, Monsieur Varachas ne peut garantir l'exactitude, 
                     la précision ou l'exhaustivité des informations mises à la disposition sur le Site.
                 </p>
 
