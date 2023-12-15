@@ -1,6 +1,5 @@
 <?php
-require_once ('index.php');
-//require_once ('templates/nav.php');
+require_once ('templates/header.php');
 ?>
 
 <div class="container d-block justify-content-center col-md-8 mentions">
