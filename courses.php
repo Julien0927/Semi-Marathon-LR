@@ -64,7 +64,8 @@ require_once ('templates/header.php');
     <div class="text-center mt-3">
         <a href="assets/informations/plan d'entrainement.pdf"><img src="assets/icones/chaussures-de-course.gif" title="programme entrainement" alt="plan d'entrainement"></a>
         <p class=" mt-2">Pour vous aider à réaliser votre objectif. <br>
-        Cliquez sur l'icône pour télécharger le plan d'entrainement pour débutant préparé par notre coach.</p>
+        Télécharger le plan d'entrainement pour débutant préparé par notre coach.</p>
+        <p class="italic">(Cliquez sur l'icône)</p>
     </div>
     <h2 class="courses text-center mt-5"> Informations de courses</h2>
     <div class="ravito text-center">

@@ -50,22 +50,30 @@ require_once ('templates/header.php');
                 <a href="https://www.leanature.com/"><img src="assets/partenaires/LeaN.png" alt="Léa Nature"></a>
                 <a href="https://www.runningconseilpuilboreau.com/"><img src="assets/partenaires/RunEver.png" alt="Runnever"></a>
                 <a href="https://www.creditmutuel.fr/cmo/fr/contact.html"><img src="assets/partenaires/Crédit-Mutuel.png" style="background-color: white" alt="Crédit Mutuel"></a>
+                <a href="https://www.artcad.qc.ca/"><img src="assets/partenaires/artcad.svg" alt="ArtCad"></a>
+            </div>
+            <div class="d-flex justify-content-around align-items-center mb-3">
+                <a href="https://www.groupe-etchart.fr/"><img src="assets/partenaires/etchart.png" alt="Etchart Construction"></a>
+                <a href="https://www.solvay.fr/"><img src="assets/partenaires/solvay.svg" alt="Solvay"></a>
+                <a href="https://exco.fr/"><img src="assets/partenaires/exco.png" alt="Exco"></a>
             </div>
 
         <h2 class="courses">Partenaires fournisseurs</h2>
-            <div class="d-flex justify-content-around align-items-center mb-3">
+            <div class="d-flex justify-content-center align-items-center mb-3">
                 <a href="https://shop-bodycross.com/"><img src="assets/partenaires/logo-court-bodycross.jpg" alt="BodyCross"></a>
+                <a href="https://www.hotelfrancois1er.fr/fr/"><img src="assets/partenaires/logo-hotel-francois-1er.svg" width="100%" alt="Hotel Francois 1er"></a>
                 <a href="https://www.breizhchrono.com/"><img src="assets/partenaires/Breizh Crono.png" alt="Breizh Chrono"></a>
-                <a href="https://rexrotary.fr/"><img src="assets/partenaires/RexRotary.png" alt="Rex Rotary"></a>
-                <a href="https://www.e.leclerc/mag/e-leclerc-lagord"><img src="assets/partenaires/leclerc.png" alt="E. Leclerc Lagord"></a>
+                <a href="https://www.casinosbarriere.com/fr/la-rochelle.html"><img src="assets/partenaires//casino_barriere.png" alt="Casino Barriere"></a>
             </div>
             <div class="d-flex justify-content-around align-items-center mb-3">
                 <a href="https://www.facebook.com/boulangerieM17?fref=ts"><img src="assets/partenaires/boulangerieM.png" alt="boulangerie M"></a>
-                <a href="https://www.servitrans.fr/"><img src="assets/partenaires/servitrans.webp" alt="Servitrans"></a>
+                <a href="https://www.servitrans.fr/"><img src="assets/partenaires/servitrans.webp"style="width: 60%; height: auto" alt="Servitrans"></a>
                 <a href="https://www.lheuredumarche.fr/"><img src="assets/partenaires/LHEURE-DU-MARCHÉ.png" alt="L'heure du Marché"></a>
+                <a href="https://rexrotary.fr/"><img src="assets/partenaires/RexRotary.png" alt="Rex Rotary"></a>
+                <a href="https://www.e.leclerc/mag/e-leclerc-lagord"><img src="assets/partenaires/leclerc.png" alt="E. Leclerc Lagord"></a>
             </div>
         <h2 class="courses">Partenaire Média</h2>
-                <a href="https://www.europe2.fr/"><img src="assets/partenaires/Europe2.png" style="width: 30%; height: auto" alt="Europe 2"></a>
+                <a href="https://www.europe2.fr/"><img src="assets/partenaires/Europe2.png" style="width: 20%; height: auto" alt="Europe 2"></a>
     </div>
     <div class="text-center">
         <h4>
