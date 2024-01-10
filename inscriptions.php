@@ -40,7 +40,7 @@ require_once ('templates/header.php');
             <p class="italic mt-2">Cliquez sur l'icône pour télécharger le bulletin d'inscription</p>
         </div>
         <div class="flex-column col-md-5">
-            <a href="assets/informations/Reglement-2024.pdf"><img src="assets/icones/regles.png" alt="reglement"></a>
+            <a href="assets/informations/Reglement-2024.pdf"><img src="assets/icones/regles.png" title="reglement" alt="reglement de course"></a>
             <p class="italic mt-2">Cliquez sur l'icône pour télécharger le règlement</p>
         </div>
     </div>

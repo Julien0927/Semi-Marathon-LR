@@ -16,7 +16,7 @@
           En cette année olympique nous avons souhaité faire notre la devise "l'important c'est de participer" 
           en proposant en plus du semi-marathon et du challenge Duo (10 et 11km) un 5Km permettant à chacun de participer et ainsi profiter de la fête de la course à pied et de l'athlètisme à La Rochelle.
         </p><br>
-        <h2 class="accueil text-center">Le mot du président</h2>
+        <h2 class="accueil text-center">Le mot du directeur</h2>
         <p class="justified-text">
           "Le semi-marathon de La Rochelle Hyundai", c'est une manifestation sportive et festive depuis 45 ans au coeur de La Rochelle.<br>
           Dans la continuité de mes prédécesseurs, j'ai à coeur de proposer une épreuve de qualité respectueuse de chacun des participants et du cadre exceptionnel qui nous est proposé.<br>
@@ -29,7 +29,7 @@
         </p>
         <div class="d-flex flex-column  text-center Mathieu mx-auto">
           <img src="assets/images/MatLM1.png" alt="photo Matthieu Le Mouillour">
-          <p>Mathieu Le Mouillour</p>        
+          <p>Mathieu<br>Le Mouillour</p>        
       </div>
     </div>
   </div>
