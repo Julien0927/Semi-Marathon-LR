@@ -14,8 +14,13 @@ require_once ('templates/header.php');
     <div class="row mt-5">
         <div class="col-md-6 mx-auto text-center">
             <div class="card mx-auto" style="width: 36rem;">
-                <img src="/assets/parcours/Parcours_5Km.png" class="card-img-top" alt="parcours 5km">
+                <img src="/assets/parcours/Parcours_5Km_1.png" class="card-img-top" alt="parcours 5km">
                 <div class="card-body">
+                    <p class="italic card-text">
+                        Parcours visible sur Openrunner. 
+                        La distance indiquée l'est à titre indicatif.
+                        Chaque course à label est mesurée par un officiel FFA.
+                    </p>
                     <a href="https://www.openrunner.com/route-details/18027025" class="btn btn-danger">Accéder aux détails de la course</a>
                 </div>
             </div>
@@ -26,7 +31,7 @@ require_once ('templates/header.php');
             </div>
             <div class="text-justify">
                 <h5>Dimanche 17 mars</h5>
-                <p>8h36<br> Départ en haut du Mail</p>
+                <p>8h35<br> Départ en haut du Mail</p>
                 <p>
                 Arrivée sur le stade Armand Bouffénie entre 8h50 et 9h30
                 </p>
@@ -42,8 +47,13 @@ require_once ('templates/header.php');
     <div class="row mt-5">
         <div class="col-md-6 mx-auto text-center">
             <div class="card mx-auto" style="width: 36rem;">
-                <img src="assets/parcours/Parcours_semi_duo.png" class="card-img-top" alt="Parcours semi et duo">
+                <img src="assets/parcours/Parcours_semi_duo_1.png" class="card-img-top" alt="Parcours semi et duo">
                 <div class="card-body">
+                    <p class="italic card-text">
+                        Parcours visible sur Openrunner. 
+                        La distance indiquée l'est à titre indicatif.
+                        Chaque course à label est mesurée par un officiel FFA.
+                    </p>
                     <a href="https://www.openrunner.com/route-details/18026943" class="btn btn-danger">Accéder aux détails de la course</a>
                 </div>
             </div>

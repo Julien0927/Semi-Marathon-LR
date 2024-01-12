@@ -237,7 +237,7 @@ body p
   width: max-content;
   height: 180px;
   padding: 0px 8px;
-  animation: scrollGallery 20s linear infinite; /* Définit le défilement automatique pendant 50 secondes avec une animation linéaire infinie */
+  animation: scrollGallery 30s linear infinite; /* Définit le défilement automatique pendant x secondes avec une animation linéaire infinie */
   cursor: pointer; /* Ajoutez un curseur pointer pour indiquer qu'il est possible de cliquer sur la galerie */
 }
 
@@ -252,7 +252,7 @@ body p
       transform: translateX(0);
     }
     100% {
-      transform: translateX(-75%);
+      transform: translateX(-83%);
     }
   }
   /*end gallery*/

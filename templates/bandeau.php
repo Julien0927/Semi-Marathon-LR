@@ -70,6 +70,29 @@
         <div class="item">
           <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/Hyundai.png" alt="Hyundai" /></a>
         </div>
-      </div>
+        <div class="item">
+          <a href="https://www.artcad.qc.ca/"><img src="assets/partenaires/artcad.svg" style="background-color: white" alt="ArtCad"></a>
+        </div>
+        <div class="item">
+          <a href="https://www.groupe-etchart.fr/"><img src="assets/partenaires/etchart.png" alt="Etchart Construction"></a>
+        </div>
+        <div class="item">
+          <a href="https://www.solvay.fr/"><img src="assets/partenaires/solvay.svg" style="background-color: white" alt="Solvay"></a>
+        </div>
+        <div class="item">        
+          <a href="https://exco.fr/"><img src="assets/partenaires/exco.png" style="background-color: white" alt="Exco"></a>
+        </div>
+        <div class="item">
+          <a href="https://www.casinosbarriere.com/fr/la-rochelle.html"><img src="assets/partenaires//casino_barriere.png" style="background-color: white" alt="Casino Barriere"></a>
+        </div>
+        <div class="item">
+          <a href="https://www.hotelfrancois1er.fr/fr/"><img src="assets/partenaires/logo-hotel-francois-1er.svg" style="background-color: white" alt="Hotel Francois 1er"></a>
+        </div>
+        <div class="item">
+          <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/Hyundai.png" alt="Hyundai" /></a>
+        </div>
+        <div class="item">
+          <a href="https://www.larochelle.fr/"><img src="assets/partenaires/ville_LR.png" alt="Ville de La Rochelle" /></a>
+        </div>
     </div>
   </div>
