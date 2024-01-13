@@ -30,7 +30,7 @@ require_once ('templates/header.php');
                 <img src="assets/icones/navette.png" class="map">
             </div>
             <div class="text-justify">
-                <h5>Dimanche 17 mars</h5>
+                <h5 class="mt-3">Dimanche 17 mars</h5>
                 <p>8h35<br> Départ en haut du Mail</p>
                 <p>
                 Arrivée sur le stade Armand Bouffénie entre 8h50 et 9h30
@@ -62,7 +62,7 @@ require_once ('templates/header.php');
             <div class="justify-content-center mt-3">
                 <img src="assets/icones/navette.png" class="map">
             </div>
-            <h5>Dimanche 17 mars</h5>
+            <h5 class="mt-3">Dimanche 17 mars</h5>
             <p>8h45<br> Départ Avenue Jean Guiton</p><br>
             <p>Barrière horaire :<br> Haut du mail Km 14,8 à 11h00 <br>
             Bas du mail Km 15,5 à 11h10 <br> 
