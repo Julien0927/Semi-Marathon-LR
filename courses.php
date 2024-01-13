@@ -25,7 +25,7 @@ require_once ('templates/header.php');
                 </div>
             </div>
         </div>
-        <div class="col-md-6 max-auto text-center">
+        <div class="col-md-6 max-auto text-center mt-5">
             <div class="justify-content-center mt-3">
                 <img src="assets/icones/navette.png" class="map">
             </div>
@@ -47,7 +47,7 @@ require_once ('templates/header.php');
     <div class="row mt-5">
         <div class="col-md-6 mx-auto text-center">
             <div class="card mx-auto" style="width: 36rem;">
-                <img src="assets/parcours/Parcours_semi_duo_1.png" class="card-img-top" alt="Parcours semi et duo">
+                <img src="assets/parcours/Parcours_semi_duo.png" class="card-img-top" alt="Parcours semi et duo">
                 <div class="card-body">
                     <p class="italic card-text">
                         Parcours visible sur Openrunner. 
@@ -58,15 +58,15 @@ require_once ('templates/header.php');
                 </div>
             </div>
         </div>
-        <div class="col-md-6 max-auto text-center">
+        <div class="col-md-6 max-auto text-center mt-3">
             <div class="justify-content-center mt-3">
                 <img src="assets/icones/navette.png" class="map">
             </div>
             <h5>Dimanche 17 mars</h5>
             <p>8h45<br> Départ Avenue Jean Guiton</p><br>
-            <p>Barrière horaire : Haut du mail Km 14,8 à 11h00 <br>
+            <p>Barrière horaire :<br> Haut du mail Km 14,8 à 11h00 <br>
             Bas du mail Km 15,5 à 11h10 <br> 
-            Grosse Horloge Km 16,8 à 11h20 pour regagner l’arrivée avant 11h45.</p>
+            Grosse Horloge Km 16,8 à 11h20 <br>pour regagner l’arrivée avant 11h45.</p>
         </div>
     </div>
 </div>
