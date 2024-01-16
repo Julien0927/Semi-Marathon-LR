@@ -23,6 +23,7 @@ require_once ('index.php');
   </div>
 
   <?php 
+  require_once ('templates/modalcomplet.php');
   require_once ('templates/items.php'); 
   require_once ('templates/textes.php');
   require_once ('templates/bandeau.php');
