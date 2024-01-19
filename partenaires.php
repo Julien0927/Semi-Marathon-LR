@@ -68,7 +68,7 @@ require_once ('templates/header.php');
             <div class="d-flex justify-content-around align-items-center mb-3">
                 <a href="https://www.facebook.com/boulangerieM17?fref=ts"><img src="assets/partenaires/boulangerieM.png" alt="boulangerie M"></a>
                 <a href="https://www.servitrans.fr/"><img src="assets/partenaires/servitrans.webp" style="width: 60%; height: auto" alt="Servitrans"></a>
-                <a href="https://www.lheuredumarche.fr/"><img src="assets/partenaires/LHEURE-DU-MARCHÉ.png" alt="L'heure du Marché"></a>
+                <a href=" https://www.facebook.com/LeDepotPERIGNY"><img src="assets/partenaires/LE DEPOT - 2023 .png" alt="LE DEPOT Perigny"></a>
                 <a href="https://rexrotary.fr/"><img src="assets/partenaires/RexRotary.png" alt="Rex Rotary"></a>
             </div>
             <div class="d-flex justify-content-around align-items-center mb-3">

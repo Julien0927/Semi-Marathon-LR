@@ -95,15 +95,24 @@ require_once ('templates/header.php');
 </div>
 <div class="d-flex flex-md-row flex-column justify-content-evenly text-center mt-3 mb-5">
     <div class="col-md-6 justify-content-center text-center">
-        <p>Pour le Semi-Marathon et le 5 Km</p>
+        <p style="font-weight: bold">Pour le Semi-Marathon et le 5 Km</p>
         <p>10h à 19h à l’Espace Culturel du Centre Leclerc de LAGORD.</p>
+        <p>Ou pour ceux qui viennent de loin et pour les 3 courses :<br>
+            le dimanche 17 mars 2024, de 7h00 à 8h00<br> Stade Armand Bouffénie<br>
+            avenue Pierre de Coubertin - Halle de tennis
+        </p>
         <iframe class="mb-3" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11051.66577270592!2d-1.1667286!3d46.172319!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4801536b80899edb%3A0xfcdc4d4cca7686b4!2sE.Leclerc%20Espace%20Culturel!5e0!3m2!1sfr!2sfr!4v1702115803041!5m2!1sfr!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <p class="italic">Conseillé à ceux qui habitent l’agglomération rochelaise.<br>
         Inscription de dernière minute possible si places restantes.</p><br>
     </div>
     <div class="col-md-6 justify-content-center text-center">
-        <p>Pour le Challenge Duo</p>
-        <p>10h à 12h et de 14h à 18h à la Concession Hyundai</p>
+        <p style="font-weight: bold">Pour le Challenge Duo</p>
+        <p>10h à 12h et de 14h à 18h à la Concession Hyundai.</p>
+        <p>Ou pour ceux qui viennent de loin et pour les 3 courses :<br>
+            le dimanche 17 mars 2024, de 7h00 à 8h00<br> Stade Armand Bouffénie<br>
+            avenue Pierre de Coubertin - Halle de tennis
+        </p>
+
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2762.527183778602!2d-1.1049881241380526!3d46.180066985391775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48014dff89f96497%3A0x2ac9775a9a766892!2sHyundai%20La%20Rochelle%20-%20Atlantis%20Automobiles!5e0!3m2!1sfr!2sfr!4v1702116438836!5m2!1sfr!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </div>

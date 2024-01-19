@@ -65,7 +65,7 @@
           <a href="https://www.servitrans.fr/"><img src="assets/partenaires/servitrans.webp" alt="ServiTrans La Rochelle" /></a>
         </div>
         <div class="item">
-          <a href="https://www.lheuredumarche.fr/"><img src="assets/partenaires/LHEURE-DU-MARCHÉ.png" style="background-color: white" alt="L'heure du Marché Puilboreau" /></a>
+          <a href=" https://www.facebook.com/LeDepotPERIGNY"><img src="assets/partenaires/LE DEPOT - 2023 .png" style="background-color: white" alt="LE DEPOT Perigny" /></a>
         </div>
         <div class="item">
           <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/Hyundai.png" alt="Hyundai" /></a>
