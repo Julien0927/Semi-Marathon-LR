@@ -1,7 +1,7 @@
 <div class="col-md-12">
     <div class="row">
       <div class="col-md-6">
-        <img src="assets/images/affiche-semi-2024-v2.png" alt="Semi Marathon La Rochelle" width="100%">
+        <img src="assets/images/affiche-a4.png" alt="Semi Marathon La Rochelle" width="100%">
       </div>
       <div class="col-md-6 justify-content-center text-justify mt-5">
         <h2 class="accueil text-center">43ème édition</h2>

@@ -67,10 +67,13 @@ require_once ('templates/header.php');
             </div>
             <div class="d-flex justify-content-around align-items-center mb-3">
                 <a href="https://www.facebook.com/boulangerieM17?fref=ts"><img src="assets/partenaires/boulangerieM.png" alt="boulangerie M"></a>
-                <a href="https://www.servitrans.fr/"><img src="assets/partenaires/servitrans.webp"style="width: 60%; height: auto" alt="Servitrans"></a>
+                <a href="https://www.servitrans.fr/"><img src="assets/partenaires/servitrans.webp" style="width: 60%; height: auto" alt="Servitrans"></a>
                 <a href="https://www.lheuredumarche.fr/"><img src="assets/partenaires/LHEURE-DU-MARCHÉ.png" alt="L'heure du Marché"></a>
                 <a href="https://rexrotary.fr/"><img src="assets/partenaires/RexRotary.png" alt="Rex Rotary"></a>
-                <a href="https://www.e.leclerc/mag/e-leclerc-lagord"><img src="assets/partenaires/leclerc.png" alt="E. Leclerc Lagord"></a>
+            </div>
+            <div class="d-flex justify-content-around align-items-center mb-3">
+                <a href="https://maisondesambassadeurs.com/fr/"><img src="assets/partenaires/la maison des ambassadeurs.png" alt="Maison des Ambassadeurs"></a>
+                <a href="https://www.e.leclerc/mag/e-leclerc-lagord"><img src="assets/partenaires/leclerc.png" style="width: 50%; height: auto" alt="E. Leclerc Lagord"></a>
             </div>
         <h2 class="courses">Partenaire Média</h2>
                 <a href="https://www.europe2.fr/"><img src="assets/partenaires/Europe2.png" style="width: 20%; height: auto" alt="Europe 2"></a>
