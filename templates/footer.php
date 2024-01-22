@@ -12,8 +12,8 @@
     </ul>
     </div>
 
-    <ul class="nav col-md-4 justify-content-center align-items-center text-center">
-        <a href="" title="contact semimarathon" class="disabled-link">contact course<br>aunis.semilarochelle@gmail.com<img src="/assets/icones/contact-50.png"></a>
+    <ul class="nav col-md-4 justify-content-center align-items-center text-center gap-3">
+        <a href="" title="contact semimarathon" class="disabled-link">contact course<br><img src="/assets/icones/contact-50.png"><br>aunis.semilarochelle@gmail.com</a>
         <a href="https://www.facebook.com/profile.php?id=100075781124607" title="facebook semi-marathon"><img src="/assets/icones/icons8-facebook.png"></a>
         <a href="https://www.instagram.com/semi_marathon_larochelle/" title="instagram semi-marathon"><img src="/assets/icones/icons8-instagram.png"></a>
     </ul>
