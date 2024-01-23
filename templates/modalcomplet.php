@@ -28,6 +28,7 @@ require_once ('templates/header.php');
         <h1 class="modal-title text-focus-in" id="exampleModalLabel">FLASH INFO!</h1>
       </div>
       <div class="modal-body">
+      <h4>Dossards supplémentaires en vente</h4>
       Ouverture d'une vente spéciale le jeudi 1er février à midi<br>
       <a href="https://www.klikego.com/inscription/semi-marathon-de-la-rochelle-2024/course-a-pied-running/1419371741424-28?fbclid=IwAR0om6fgGx01QEaeWWto2Bh86tz_n-jdRrPHuy0cqQY4mKDNvh20Ly_6f9o">Uniquement sur klikego</a><br>
       200 dossards pour le semi-marathon<br>
