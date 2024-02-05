@@ -73,6 +73,7 @@ require_once ('templates/header.php');
             </div>
             <div class="d-flex justify-content-around align-items-center mb-3">
                 <a href="https://maisondesambassadeurs.com/fr/"><img src="assets/partenaires/la maison des ambassadeurs.png" alt="Maison des Ambassadeurs"></a>
+                <a href="https://www.restaurantarco.com/"><img src="assets/partenaires/Logo Arco Restaurant.png" alt="Restaurant Arco"/></a>
                 <a href="https://www.e.leclerc/mag/e-leclerc-lagord"><img src="assets/partenaires/leclerc.png" style="width: 50%; height: auto" alt="E. Leclerc Lagord"></a>
             </div>
         <h2 class="courses">Partenaire Média</h2>
