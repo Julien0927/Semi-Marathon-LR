@@ -56,6 +56,13 @@ require_once ('templates/header.php');
                 <a href="https://www.groupe-etchart.fr/"><img src="assets/partenaires/etchart.png" alt="Etchart Construction"></a>
                 <a href="https://www.solvay.fr/"><img src="assets/partenaires/solvay.svg" alt="Solvay"></a>
                 <a href="https://exco.fr/"><img src="assets/partenaires/exco.png" alt="Exco"></a>
+                <a href="https://www.newloc.fr/"><img src="assets/partenaires/Newloc.webp" alt="NewLoc" style="width: 256px; height:auto"></a>
+            </div>
+            <div class="d-flex justify-content-around align-items-center mb-3">
+                <a href="https://magasins.mda-electromenager.com/166-mda-lagord-la-rochelle?utm_source=gmb"><img src="assets/partenaires/MDA.webp" alt="MDA" style="width: 256px; height:auto"></a>
+                <a href="https://www.artmazonia.fr/"><img src="assets/partenaires/ARTMAZONIA-.webp" alt="Artmazonia" style="width: 256px; height:auto"></a>
+                <a href="https://www.intersport.fr/Charente-Maritime-17/PUILBOREAU-17138/INTERSPORT-PUILBOREAU/00453_000/"><img src="assets/partenaires/Intersport.webp" alt="InterSport La Rochelle" style="width: 256px; height:auto"></a>
+                <a href="https://www.extruplast.net/"><img src="assets/partenaires/Extruplast.webp" alt="ExtruPlast" style="width: 256px; height:auto"></a>
             </div>
 
         <h2 class="courses">Partenaires fournisseurs</h2>
