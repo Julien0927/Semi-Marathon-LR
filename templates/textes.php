@@ -5,7 +5,7 @@
       </div>
       <div class="col-md-6 justify-content-center text-justify mt-5">
         <h2 class="accueil text-center">43ème édition</h2>
-        <p class="justified-text">
+        <p class="justified-text text">
           Le semi-marathon de La Rochelle fêtera cette année sa 43ème édition.<br>
           2ème manifestation sportive de La Rochelle par son nombre de participants, 
           le semi-marathon emprunte un tracé au coeur de la ville en passant par ses plus beaux sites touristiques.<br>
@@ -17,7 +17,7 @@
           en proposant en plus du semi-marathon et du challenge Duo (10 et 11km) un 5Km permettant à chacun de participer et ainsi profiter de la fête de la course à pied et de l'athlètisme à La Rochelle.
         </p><br>
         <h2 class="accueil text-center">Le mot du directeur</h2>
-        <p class="justified-text">
+        <p class="justified-text text">
           "Le semi-marathon de La Rochelle Hyundai", c'est une manifestation sportive et festive depuis 45 ans au coeur de La Rochelle.<br>
           Dans la continuité de mes prédécesseurs, j'ai à coeur de proposer une épreuve de qualité respectueuse de chacun des participants et du cadre exceptionnel qui nous est proposé.<br>
           Le sport, la performance, le plaisir, le partage animent l'engagement de toute mon équipe à la réussite de cette organisation. Le travail ne manque pas mais ils sont là...<br> 

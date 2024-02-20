@@ -96,9 +96,9 @@ require_once ('templates/header.php');
 <div class="d-flex flex-md-row flex-column justify-content-evenly text-center mt-3 mb-5">
     <div class="col-md-6 justify-content-center text-center">
         <p style="font-weight: bold">Pour le Semi-Marathon et le 5 Km</p>
-        <p>10h à 19h à l’Espace Culturel du Centre Leclerc de LAGORD.</p>
+        <p>9h30 à 19h à l’Espace Culturel du Centre Leclerc de LAGORD.</p>
         <p>Ou pour ceux qui viennent de loin et pour les 3 courses :<br>
-            le dimanche 17 mars 2024, de 7h00 à 8h00<br> Stade Armand Bouffénie<br>
+            le dimanche 17 mars 2024, de 6h30 à 8h00<br> Stade Armand Bouffénie<br>
             avenue Pierre de Coubertin - Halle de tennis
         </p>
         <iframe class="mb-3" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11051.66577270592!2d-1.1667286!3d46.172319!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4801536b80899edb%3A0xfcdc4d4cca7686b4!2sE.Leclerc%20Espace%20Culturel!5e0!3m2!1sfr!2sfr!4v1702115803041!5m2!1sfr!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -109,7 +109,7 @@ require_once ('templates/header.php');
         <p style="font-weight: bold">Pour le Challenge Duo</p>
         <p>10h à 12h et de 14h à 18h à la Concession Hyundai.</p>
         <p>Ou pour ceux qui viennent de loin et pour les 3 courses :<br>
-            le dimanche 17 mars 2024, de 7h00 à 8h00<br> Stade Armand Bouffénie<br>
+            le dimanche 17 mars 2024, de 6h30 à 8h00<br> Stade Armand Bouffénie<br>
             avenue Pierre de Coubertin - Halle de tennis
         </p>
 
