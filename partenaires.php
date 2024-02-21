@@ -78,10 +78,15 @@ require_once ('templates/header.php');
                 <a href=" https://www.facebook.com/LeDepotPERIGNY"><img src="assets/partenaires/LE DEPOT - 2023 .png" alt="LE DEPOT Perigny"></a>
                 <a href="https://rexrotary.fr/"><img src="assets/partenaires/RexRotary.png" alt="Rex Rotary"></a>
             </div>
-            <div class="d-flex justify-content-around align-items-center mb-3">
+            <div class="d-flex justify-content-around align-items-center mb-4">
                 <a href="https://maisondesambassadeurs.com/fr/"><img src="assets/partenaires/la maison des ambassadeurs.png" alt="Maison des Ambassadeurs"></a>
                 <a href="https://www.restaurantarco.com/"><img src="assets/partenaires/Logo Arco Restaurant.png" alt="Restaurant Arco"/></a>
                 <a href="https://www.e.leclerc/mag/e-leclerc-lagord"><img src="assets/partenaires/leclerc.png" style="width: 50%; height: auto" alt="E. Leclerc Lagord"></a>
+                <a href="https://mise-en-scene.org/"><img src="assets/partenaires/mise-en-scene1.webp" style="width: 100%; height: auto" alt="Mise ne scène"></a>
+            </div>
+            <div class="d-flex justify-content-start align-items-center mb-5">
+                <a href="https://lenouvelr.com/societes/imprimerie-rochelaise/"><img src="assets/partenaires/I-Rochelaise.webp" style="width: 30%; height: auto" alt="Imprimerie Rochelaise"></a>
+                <a href="https://somelac.com/"><img src="assets/partenaires/HERTZ-SOMELAC1.webp" style="width: 100%; height: auto" alt="HERTZ-SOMELAC"></a>
             </div>
         <h2 class="courses">Partenaire Média</h2>
                 <a href="https://www.europe2.fr/"><img src="assets/partenaires/Europe2.png" style="width: 20%; height: auto" alt="Europe 2"></a>
