@@ -453,8 +453,8 @@ fieldset
 @media (max-width: 830px) {
 
  .text {
-  margin-left: 0.75rem;
-  margin-right: 0.75rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
  }
  .image-text img
   {
