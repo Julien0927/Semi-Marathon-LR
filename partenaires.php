@@ -84,10 +84,56 @@ require_once ('templates/header.php');
                 <a href="https://www.e.leclerc/mag/e-leclerc-lagord"><img src="assets/partenaires/leclerc.png" style="width: 50%; height: auto" alt="E. Leclerc Lagord"></a>
                 <a href="https://mise-en-scene.org/"><img src="assets/partenaires/mise-en-scene1.webp" style="width: 100%; height: auto" alt="Mise ne scène"></a>
             </div>
-            <div class="d-flex justify-content-start align-items-center mb-5">
-                <a href="https://lenouvelr.com/societes/imprimerie-rochelaise/"><img src="assets/partenaires/I-Rochelaise.webp" style="width: 30%; height: auto" alt="Imprimerie Rochelaise"></a>
-                <a href="https://somelac.com/"><img src="assets/partenaires/HERTZ-SOMELAC1.webp" style="width: 100%; height: auto" alt="HERTZ-SOMELAC"></a>
+            <div class="d-flex justify-content-center align-items-center  mb-5 mx-auto">
+                <a href="https://lenouvelr.com/societes/imprimerie-rochelaise/"><img src="assets/partenaires/I-Rochelaise.png" ngclass="imprimerieR" alt="Imprimerie Rochelaise"></a>
+                <a href="https://somelac.com/"><img src="assets/partenaires/HERTZ - SOMELAC1.png"  alt="HERTZ-SOMELAC"></a>
             </div>
+            <div class="d-flex justify-content-center align-items-center mb-4">
+            <figure class="cosy ">
+                    <img src="assets/partenaires/B&B_Hotel_La_Rochelle_Centre_Logo.jpg" alt="B&B_Hotel_La_Rochelle">
+                    <figcaption class="overlay1 d-flex flex-column">
+                        <a href=" https://www.hotel-bb.com/fr/hotel/la-rochelle-centre?gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4avijzdeQsJjR7cZ6clH4TTscg75cgvTH8FIsA2oTKyJ5SB9p7hN0KBoCoRYQAvD_BwE&gclsrc=aw.ds ">
+                            <img src="assets/partenaires/Logo groupe Cosy.png" alt="Cosy Hotels">
+                        </a>
+                        <p>
+                            -20% sur notre meilleur tarif public <br>
+                            sur les nuitées des 15, 16 et 17 mars 2024<br>
+                            avec le code SEMI24<br>
+                            Uniquement par mail ou téléphone
+                        </p>
+                    </figcaption>
+                </figure>
+                <figure class="cosy m-0" >
+                    <img src="assets/partenaires/LOGO BWP Masqhotel.png" style="width: 40%; height: auto" alt="BWP Masqhotel">
+                    <figcaption class="overlay2 d-flex flex-column" style="width: 40%; height: auto" >
+                        <a href="https://www.masqhotel.com/fr/ ">
+                            <img src="assets/partenaires/Logo groupe Cosy.png" alt="Cosy Hotels">
+                        </a>
+                        <p>
+                            -20% sur notre meilleur tarif public <br>
+                            sur les nuitées des 15, 16 et 17 mars 2024<br>
+                            avec le code SEMI24<br>
+                            Via notre site internet ou par téléphone/mail
+                        </p>
+                    </figcaption>
+                </figure>
+
+            <figure class="cosy">
+                    <img src="assets/partenaires/Hotel St Nicolas.png" alt="Hotel Saint Nicolas">
+                    <figcaption class="overlay3 d-flex flex-column">
+                        <a href=" https://www.hotel-saint-nicolas.com/ ">
+                            <img src="assets/partenaires/Logo groupe Cosy.png" style="width: 100%; height: auto" alt="Cosy Hotels">
+                        </a>
+                        <p>
+                            -20% sur notre meilleur tarif public <br>
+                            sur les nuitées des 15, 16 et 17 mars 2024<br>
+                            avec le code SEMI24<br>
+                            Via notre site internet ou par téléphone/mail
+                        </p>
+                    </figcaption>
+                </figure>
+            </div>
+
         <h2 class="courses">Partenaire Média</h2>
                 <a href="https://www.europe2.fr/"><img src="assets/partenaires/Europe2.png" style="width: 20%; height: auto" alt="Europe 2"></a>
     </div>

@@ -21,19 +21,3 @@ require_once ('templates/header.php');
     </div>
   </div>
 </div>-->
-<div class="modal fade" id="Modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header mx-auto">
-        <h1 class="modal-title text-focus-in" id="exampleModalLabel">Conférence santé</h1>
-      </div>
-      <div class="modal-body">
-      <h4></h4>
-      <a href=""><img src="assets/informations/Conférence-santé.webp" class="img-fluid" alt="Conférence santé"></a><br>
-      </div>
-    <div class="text-center mb-3">
-        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Fermer</button>
-    </div>
-    </div>
-  </div>
-</div>

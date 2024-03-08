@@ -425,6 +425,111 @@ fieldset
   height: 80%;
 }
 
+.imprimerieR
+{
+  width: 20%;
+  height: 20%;
+}
+
+/*Animation partenaires*/
+
+.cosy {
+  position: relative;
+}
+
+/* .cosy img {
+  width: 50%;
+}
+ */
+.cosy .overlay1 {
+  position: absolute;
+  background-color: rgb(97, 95, 95, 0.95);
+  color: white;
+  font-size: 2.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: scale(0);
+}
+.cosy .overlay2 {
+  position: absolute;
+  background-color: rgb(97, 95, 95, 0.95);
+  color: white;
+  font-size: 2.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: scale(0);
+}
+.cosy .overlay3 {
+  position: absolute;
+  background-color: rgb(97, 95, 95, 0.95);
+  color: white;
+  font-size: 2.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: scale(0);
+}
+
+.cosy .overlay1 p {
+  color: white;
+}
+.cosy .overlay2 p {
+  color: white;
+}
+.cosy .overlay3 p {
+  color: white;
+}
+
+.cosy:hover .overlay1 {
+  transform: scale(1);
+  transition: transform 0.5s;
+  top: 0;
+  border: 5px solid yellow;
+  border-radius: 50px; 
+}
+.cosy:hover .overlay2 {
+  transform: scale(1);
+  transition: transform 0.5s;
+  top: 5%;
+  left: 30%;
+  border: 5px solid yellow;
+  border-radius: 50px; 
+}
+.cosy:hover .overlay3 {
+  transform: scale(1);
+  transition: transform 0.5s;
+  top: 0;
+  border: 5px solid yellow;
+  border-radius: 50px; 
+}
+
+/*Compte à rebours*/
+.box-rebours{ 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  text-align: center; 
+}
+.box_jour, .box_heure, .box_minute, .box_seconde { 
+  padding: 10px; 
+}
+#jour, #heure, #minute, #seconde { 
+  background:rgb(234, 7, 7); 
+  border-radius: 10px;
+  padding: 10px 20px; 
+  color: white; 
+  font-size: 3rem; 
+  font-weight: bold; 
+}
+#jour_label, #heure_label, #minute_label, #seconde_label { 
+  font-size: 1.5rem; 
+}
+
 
 /*footer*/
 .footer

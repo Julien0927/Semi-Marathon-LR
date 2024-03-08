@@ -8,7 +8,7 @@ require_once ('templates/header.php');
   <p></p>
   <div class="image-container">
     <img src="assets/images/photo14.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
-    <div class="d-flex flex-column justify-content-center col-md-12 mt-5"></div>
+    <div class="d-flex flex-column justify-content-center col-md-12 mt-5">
       <div class="image-logo text-center mt-5 mb-5">
         <img src="assets/icones/logo-semi-couleur.png" class="logo mb-0" alt="logo semi">
       </div>
@@ -20,6 +20,7 @@ require_once ('templates/header.php');
         <a href="http://aunisathletismelarochelleaytre.athle.com/"><img src="assets/icones/logo Aunis vectorise.jpg" class="img-fluid" alt="Aunis Athlétisme"></a>
       </div>
     </div>
+
   </div>
 
   <?php 
