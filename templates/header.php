@@ -19,8 +19,9 @@
     <img src="/assets/icones/icons8-chevron-25.png" alt="">
     <a href="http://aunisathletismelarochelleaytre.athle.com/" class="disabled-link"><p class="club mt-3">Le club</p></a>
   </div>
-        <nav class="navbar navbar-expand-lg ms-auto py-2">
-            <div class="container-fluid ">
+  
+  <nav class="navbar navbar-expand-lg ms-auto py-2">
+    <div class="container-fluid ">
               <a class="navbar-brand" href="#"></a>
               <button class="custom navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

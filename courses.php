@@ -41,7 +41,7 @@ require_once ('templates/header.php');
 </div>
 <div class="text-center">
     <h2 class="courses mt-5">Parcours Semi-Marathon et Duo</h2>
-    <p >Pour le parcours Duo, le 1er concurrent réalise 10 km, le second 11 km.</p>
+    <p >Pour le parcours Duo, le 1er concurrent réalise 11 km, le second 10 km.</p>
 </div>
 <div class="container ">
     <div class="row mt-5">
