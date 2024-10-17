@@ -1,12 +1,12 @@
 <div class="col-md-12">
     <div class="row">
-      <div class="col-md-6">
-        <img src="assets/images/affiche-a4.png" alt="Semi Marathon La Rochelle" width="100%">
+      <div class="col-md-6 mt-5">
+        <img src="assets/images/affiche-2025-sanslogo.webp" alt="Semi Marathon La Rochelle" width="100%">
       </div>
       <div class="col-md-6 justify-content-center text-justify mt-5">
-        <h2 class="accueil text-center">43ème édition</h2>
+        <h2 class="accueil text-center">44ème édition</h2>
         <p class="justified-text text">
-          Le semi-marathon de La Rochelle fêtera cette année sa 43ème édition.<br>
+          Le semi-marathon de La Rochelle fêtera cette année sa 44ème édition.<br>
           2ème manifestation sportive de La Rochelle par son nombre de participants, 
           le semi-marathon emprunte un tracé au coeur de la ville en passant par ses plus beaux sites touristiques.<br>
           Le comité d'organisation s'attache à proposer une épreuve faisant la part belle à tous les pratiquants.

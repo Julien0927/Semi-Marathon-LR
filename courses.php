@@ -25,22 +25,22 @@ require_once ('templates/header.php');
                 </div>
             </div>
         </div>
-        <div class="col-md-6 max-auto text-center mt-5">
+        <div class="col-md-6 mx-auto text-center mt-5">
             <div class="justify-content-center mt-3">
                 <img src="assets/icones/navette.png" class="map">
             </div>
             <div class="text-justify">
-                <h5 class="mt-3">Dimanche 17 mars</h5>
-                <p>8h35<br> Départ en haut du Mail</p>
+                <h5 class="mt-3">Dimanche 16 mars 2025</h5>
+                <p>Départ : 8h30<br></p>
                 <p>
-                Arrivée sur le stade Armand Bouffénie entre 8h50 et 9h30
+                Arrivée sur le stade Armand Bouffénie entre 8h45 et 9h25
                 </p>
             </div>
         </div>
     </div>
 </div>
 <div class="text-center">
-    <h2 class="courses mt-5">Parcours Semi-Marathon et Duo</h2>
+    <h2 class="courses mt-5">Parcours Semi-Marathon et relais à 2</h2>
     <p >Pour le parcours Duo, le 1er concurrent réalise 11 km, le second 10 km.</p>
 </div>
 <div class="container ">
@@ -58,16 +58,19 @@ require_once ('templates/header.php');
                 </div>
             </div>
         </div>
-        <div class="col-md-6 max-auto text-center mt-3">
+        <div class="col-md-6 mx-auto text-center mt-5">
             <div class="justify-content-center mt-3">
                 <img src="assets/icones/navette.png" class="map">
             </div>
-            <h5 class="mt-3">Dimanche 17 mars</h5>
-            <p>8h45<br> Départ Avenue Jean Guiton</p><br>
-            <p>Barrière horaire :<br> Haut du mail Km 14,8 à 11h00 <br>
+            <h5 class="mt-3">Dimanche 16 mars 2025</h5>
+            <p>Départ : 8h45</p>
+            <p>Arrivée sur le stade Armand Bouffénie </p>
+<!--             <p>Barrière horaire :<br> 
+             Haut du mail Km 14,8 à 11h00 <br>
             Bas du mail Km 15,5 à 11h10 <br> 
-            Grosse Horloge Km 16,8 à 11h20 <br>pour regagner l’arrivée avant 11h45.</p>
-        </div>
+            Grosse Horloge Km 16,8 à 11h20 <br>
+            pour regagner l’arrivée avant 11h45.</p>
+ -->        </div>
     </div>
 </div>
     <h2 class="courses text-center mt-5">Plan d'entrainement</h2>
@@ -77,11 +80,11 @@ require_once ('templates/header.php');
         Télécharger le plan d'entrainement pour débutant préparé par notre coach.</p>
         <p class="italic">(Cliquez sur l'icône)</p>
     </div>
-    <h2 class="courses text-center mt-5"> Informations de courses</h2>
+<!--     <h2 class="courses text-center mt-5"> Informations de courses</h2>
     <div class="ravito text-center">
         <img src="assets/informations/plan ravito.png" class="img-fluid" alt="plan ravito secours">
     </div>
-
+ -->
 
 <?php 
 require_once ('templates/footer.php')

@@ -86,7 +86,7 @@
           <a href="https://www.casinosbarriere.com/fr/la-rochelle.html"><img src="assets/partenaires//casino_barriere.png" style="background-color: white" alt="Casino Barriere"></a>
         </div>
         <div class="item">
-          <a href="https://www.hotelfrancois1er.fr/fr/"><img src="assets/partenaires/logo-hotel-francois-1er.svg" style="background-color: white" alt="Hotel Francois 1er"></a>
+          <a href="https://la.charente-maritime.fr/"><img src="assets/partenaires/CM17.png" alt="Charente-Maritime 17" /></a>
         </div>
         <div class="item">
           <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/Hyundai.png" alt="Hyundai" /></a>

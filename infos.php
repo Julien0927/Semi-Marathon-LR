@@ -74,14 +74,14 @@ require_once ('templates/header.php');
     <h2 class="courses">Hébergement</h2>
 </div>
 <div class="d-flex flex-md-row flex-column justify-content-evenly text-center mb-5">
-    <div class="col-md-4 mt-5">
+    <div class="col-md-6 justify-content-center mt-5">
         <a href="https://www.larochelle-tourisme.com/"><img src="assets/partenaires/officetourisme.png" class="rounded"></a>
     </div>
-    <div class="col-md-4 flex-column">
+<!--     <div class="col-md-4 flex-column">
         <h3 class="mb-4">Partenaire de l'évènement</h3>
         <a href="https://www.hotelfrancois1er.fr/fr/"><img src="assets/partenaires/logo-hotel-francois-1er.svg"></a>
     </div>
-    <div class="col-md-4 mt-5">
+ -->    <div class="col-md-6 justify-content-center mt-5">
         <a href="https://www.klikego.com/inscription/semi-marathon-de-la-rochelle-2024/course-a-pied-running/1419371741424-28?tab=-5"><img src="assets/images/logoKlikegoV2.png"></a>
     </div>
 </div>
@@ -90,35 +90,39 @@ require_once ('templates/header.php');
     <h2 class="courses">Retrait des dossards</h2>
 </div>
 
-<div class="text-center ">
-    <h3>Samedi 16 Mars</h3>
+<div class="text-center">
+    <h3 class="mb-5" style="color: red">
+        - NOUVEAUTÉ -<br>   
+        PAS DE RETRAIT DE DOSSARD LE DIMANCHE MATIN.
+    </h3>
 </div>
-<div class="d-flex flex-md-row flex-column justify-content-evenly text-center mt-3 mb-5">
+<div class="d-flex flex-md-row flex-column justify-content-evenly text-center mt-3">
     <div class="col-md-6 justify-content-center text-center">
         <p style="font-weight: bold">Pour le Semi-Marathon et le 5 Km</p>
-        <p>9h30 à 19h à l’Espace Culturel du Centre Leclerc de LAGORD.</p>
-        <p>Ou pour ceux qui viennent de loin et pour les 3 courses :<br>
-            le dimanche 17 mars 2024, de 6h30 à 8h00<br> Stade Armand Bouffénie<br>
-            avenue Pierre de Coubertin - Halle de tennis
-        </p>
-        <iframe class="mb-3" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11051.66577270592!2d-1.1667286!3d46.172319!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4801536b80899edb%3A0xfcdc4d4cca7686b4!2sE.Leclerc%20Espace%20Culturel!5e0!3m2!1sfr!2sfr!4v1702115803041!5m2!1sfr!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <p style="font-weight: bold">Vendredi 14 mars 2025</p>
+        <p>13h30 à 19h30 à l’Espace Culturel du Centre Leclerc de LAGORD.</p>
+        <p style="font-weight: bold">Samedi 15 mars 2025</p>
+        <p>9h30 à 19h30 à l’Espace Culturel du Centre Leclerc de LAGORD.</p>
+        
+        <iframe  class="mb-2" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11051.66577270592!2d-1.1667286!3d46.172319!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4801536b80899edb%3A0xfcdc4d4cca7686b4!2sE.Leclerc%20Espace%20Culturel!5e0!3m2!1sfr!2sfr!4v1702115803041!5m2!1sfr!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <p class="italic">Conseillé à ceux qui habitent l’agglomération rochelaise.<br>
         Inscription de dernière minute possible si places restantes.</p><br>
     </div>
     <div class="col-md-6 justify-content-center text-center">
-        <p style="font-weight: bold">Pour le Challenge Duo</p>
-        <p>10h à 12h et de 14h à 18h à la Concession Hyundai.</p>
-        <p>Ou pour ceux qui viennent de loin et pour les 3 courses :<br>
-            le dimanche 17 mars 2024, de 6h30 à 8h00<br> Stade Armand Bouffénie<br>
-            avenue Pierre de Coubertin - Halle de tennis
-        </p>
-
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2762.527183778602!2d-1.1049881241380526!3d46.180066985391775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48014dff89f96497%3A0x2ac9775a9a766892!2sHyundai%20La%20Rochelle%20-%20Atlantis%20Automobiles!5e0!3m2!1sfr!2sfr!4v1702116438836!5m2!1sfr!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <p style="font-weight: bold">Pour le Semi-Marathon en Relais à 2</p>
+        <p style="font-weight: bold">Samedi 15 mars 2025</p>
+        <p class="mb-5">10h à 12h et de 14h à 18h à la Concession Hyundai.</p>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2762.527183778602!2d-1.1049881241380526!3d46.180066985391775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48014dff89f96497%3A0x2ac9775a9a766892!2sHyundai%20La%20Rochelle%20-%20Atlantis%20Automobiles!5e0!3m2!1sfr!2sfr!4v1702116438836!5m2!1sfr!2sfr" 
+           class="mt-5" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
     </div>
+</div>
+<div>
+    <h3 class="text-center mb-5" style="color: red">Présence obligatoire du coureur pour le retrait du dossard avec présentation d’une pièce d’identité en échange d’un bracelet de contrôle permettant l’accès au sas.</h3>
 </div>
 <div class="text-center">
     <h2 class="courses mb-3">Remise des récompenses </h2>
-    <p>12h00 au Stade Armand Bouffénie</p>
+    <p>10h30 pour le 5 km et 11h00 pour les autres courses</p>
 </div>
 
 <div class="row">
@@ -133,7 +137,7 @@ require_once ('templates/header.php');
         </div>
         <div class="text-center col-md-4">
             <img src="assets/icones/bagages.png" title="Consignes" alt="Consignes">
-            <p class="italic text-center">Consigne valise uniquement, à l'espace partenaire sur le village arrivée</p>
+            <p class="italic text-center">Consigne gratuite sur le village arrivée </p>
         </div>
     </div>
 </div>

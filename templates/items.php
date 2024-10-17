@@ -8,7 +8,7 @@
     <div>
       <a href="inscriptions.php"><img src="assets/icones/icon inscription.svg" alt="inscriptions courses"></a>
       <h6>INSCRIPTIONS</h6>
-      <p>Les inscriptions pour <br>l'édition 2024</p>
+      <p>Les inscriptions pour <br>l'édition 2025</p>
     </div>
 
     <div>
@@ -20,12 +20,12 @@
     <div>
       <a href="medias.php"><img src="assets/icones/icon media.svg" alt="photos des éditions précédentes"></a>
       <h6>MEDIAS</h6>
-      <p>Les photos de l'édition <br> 2023</p>
+      <p>Retrouvez toutes les photos</p>
     </div>
 
     <div>
       <a href="resultats.php"><img src="assets/icones/icon medal.svg" alt=""></a>
         <h6>RESULTATS</h6>
-        <p>Retrouvez les résultats <br> de l'édition 2023</p>
+        <p>Retrouvez les résultats </p>
     </div>
   </div>

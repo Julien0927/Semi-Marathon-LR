@@ -30,7 +30,7 @@ require_once ('templates/header.php');
                     <li>- Vos couleurs dans l'espace partenaires (banderoles, oriflammes).</li>
                     <li>- Retrait groupé des dossards.</li>
                 </ul>
-            <p>Contacter Olivier au 06 73 05 49 50 pour en savoir plus.</p>
+            <!--<p>Contacter Olivier au 06 73 05 49 50 pour en savoir plus.</p>-->
         </fieldset>
     </div>
 </div>   
