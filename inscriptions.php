@@ -12,7 +12,7 @@ require_once ('templates/header.php');
 </div>
 
 <div class="d-flex flex-column justify-content-center text-center mb-3 mt-5">
-    <a href=" http://www.klikego.com/inscription/semi-marathon-de-la-rochelle-2024/course-a-pied-running/1419371741424-28"><img src="assets/images/logoKlikegoV2.png" class=" klikego img-fluid mb-2"></a>
+    <a href=" https://www.klikego.com/inscription/semi-marathon-de-la-rochelle-2025/course-a-pied-running/1419371741424-31"><img src="assets/images/logoKlikegoV2.png" class=" klikego img-fluid mb-2"></a>
     <p class="italic">Cliquez sur le logo pour accéder à la plateforme d'inscription</p>
 
 </div>
@@ -34,17 +34,27 @@ require_once ('templates/header.php');
         </fieldset>
     </div>
 </div>   
-    <div class="d-flex  justify-content-center text-center mt-5">
-        <div class="flex-column col-md-5 ms-4">
-            <a href="assets/informations/BULLETIN inscription 2024.pdf"><img src="assets/icones/contrat.png" title="Bulletin d'incription" alt="inscription"></a>
-            <p class="italic mt-2">Cliquez sur l'icône pour télécharger le bulletin d'inscription</p>
+    <div class="d-flex flex-wrap justify-content-center text-center mt-5">
+        <div class="flex-column col-12 col-md-4">
+            <a href="assets/informations/bulletin inscription 5 km.pdf">
+                <img src="assets/icones/contrat.png" title="Bulletin d'incription" alt="inscription" class="img-fluid">
+            </a>
+            <p class="italic mt-2">Télécharger le bulletin d'inscription du 5 km-2025</p>
         </div>
-        <div class="flex-column col-md-5">
-            <a href="assets/informations/Reglement-2024.pdf"><img src="assets/icones/regles.png" title="reglement" alt="reglement de course"></a>
-            <p class="italic mt-2">Cliquez sur l'icône pour télécharger le règlement</p>
+        <div class="flex-column col-12 col-md-4">
+            <a href="assets/informations/reglement 2025.pdf">
+                <img src="assets/icones/regles.png" title="reglement" alt="reglement de course" class="img-fluid">
+            </a>
+            <p class="italic mt-2">Télécharger le règlement 2025</p>
+        </div>
+        <div class="flex-column col-12 col-md-4">
+            <a href="assets/informations/bulletin inscription semi+relais à 2.pdf">
+                <img src="assets/icones/contrat.png" title="Bulletin d'incription" alt="inscription" class="img-fluid">
+            </a>
+            <p class="italic mt-2">Télécharger le bulletin d'inscription du semi et relais à 2-2025</p>
         </div>
     </div>
-<div class="text-center">
+<div class="text-center mt-2">
     <p>Remarque: L’inscription implique l’entière acceptation du règlement. Merci également de prendre en compte la charte éco-responsable. </p>
 </div>
 

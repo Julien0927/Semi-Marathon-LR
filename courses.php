@@ -12,8 +12,13 @@ require_once ('templates/header.php');
 <h2 class="courses text-center mt-3">Parcours 5 km</h2>
 <div class="container ">
     <div class="row mt-5">
-        <div class="col-md-6 mx-auto text-center">
-            <div class="card mx-auto" style="width: 36rem;">
+        <div class="col-md-6 mx-auto text-center mt-5">
+            <!--Code temporaire-->
+            <h2>Parcours 2025 à venir...</h2>
+            <img src="/assets/icones/chrono.gif" alt="chrono">
+            <!--Fin code temporaire-->
+
+<!--             <div class="card mx-auto" style="width: 36rem;">
                 <img src="/assets/parcours/Parcours_5Km_1.png" class="card-img-top" alt="parcours 5km">
                 <div class="card-body">
                     <p class="italic card-text">
@@ -24,16 +29,16 @@ require_once ('templates/header.php');
                     <a href="https://www.openrunner.com/route-details/18027025" class="btn btn-danger">Accéder aux détails de la course</a>
                 </div>
             </div>
-        </div>
+ -->        </div>
         <div class="col-md-6 mx-auto text-center mt-5">
             <div class="justify-content-center mt-3">
                 <img src="assets/icones/navette.png" class="map">
             </div>
             <div class="text-justify">
                 <h5 class="mt-3">Dimanche 16 mars 2025</h5>
-                <p>Départ : 8h30<br></p>
+                <p>Départ : 8h15<br></p>
                 <p>
-                Arrivée sur le stade Armand Bouffénie entre 8h45 et 9h25
+                Arrivée sur le stade Armand Bouffénie entre 8h30 et 9h10
                 </p>
             </div>
         </div>
@@ -45,8 +50,13 @@ require_once ('templates/header.php');
 </div>
 <div class="container ">
     <div class="row mt-5">
-        <div class="col-md-6 mx-auto text-center">
-            <div class="card mx-auto" style="width: 36rem;">
+        <div class="col-md-6 mx-auto text-center mt-5">
+            <!--Code temporaire-->
+            <h2>Parcours 2025 à venir...</h2>
+            <img src="/assets/icones/chrono.gif" alt="chrono">
+            <!--Fin code temporaire-->
+
+            <!-- <div class="card mx-auto" style="width: 36rem;">
                 <img src="assets/parcours/Parcours_semi_duo.png" class="card-img-top" alt="Parcours semi et duo">
                 <div class="card-body">
                     <p class="italic card-text">
@@ -56,14 +66,14 @@ require_once ('templates/header.php');
                     </p>
                     <a href="https://www.openrunner.com/route-details/18026943" class="btn btn-danger">Accéder aux détails de la course</a>
                 </div>
-            </div>
+            </div> -->
         </div>
         <div class="col-md-6 mx-auto text-center mt-5">
             <div class="justify-content-center mt-3">
                 <img src="assets/icones/navette.png" class="map">
             </div>
             <h5 class="mt-3">Dimanche 16 mars 2025</h5>
-            <p>Départ : 8h45</p>
+            <p>Départ : 8h30</p>
             <p>Arrivée sur le stade Armand Bouffénie </p>
 <!--             <p>Barrière horaire :<br> 
              Haut du mail Km 14,8 à 11h00 <br>

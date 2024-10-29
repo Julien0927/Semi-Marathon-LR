@@ -18,6 +18,11 @@ body {
   overflow-x: hidden;
 }
 
+img, .element {
+  max-width: 100%;
+  height: auto;
+}
+
 .navbar
 {
     background-color: #100242;
@@ -76,7 +81,7 @@ ul.navbar-nav li a
   font-size: 32px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #e60606;
+  color: #D8DC1B;
   text-align: center;
 }
 
@@ -84,7 +89,7 @@ ul.navbar-nav li a
 {
   font-family: 'Barlow', sans-serif;
   font-weight: 400;
-  color: #100242;
+  color: #f8f8fa;
   text-align: center;
 }
 
@@ -123,8 +128,6 @@ ul.navbar-nav li a
   }
 }
 
-
-
 h2 
 {
     font-family: 'Barlow', sans-serif;
@@ -147,7 +150,6 @@ h4
     font-weight: 400;
     color: #100242;
 } 
-
 
 body p
 {
@@ -561,6 +563,11 @@ fieldset
 {
   font-size: 12px;
 }
+.row {
+  margin-right: 0;
+  padding-right: 0;
+}
+
 
 /*-------------------*/
 /*Responsive         */
@@ -621,6 +628,7 @@ fieldset
     height: 50%;
     margin-top: -800px;
   }
+
 
   .focus-in-contract-bck
   {

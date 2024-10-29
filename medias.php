@@ -17,16 +17,16 @@ require_once ('templates/header.php');
 </div>
 <div class="d-flex flex-column justify-content-center text-center mt-3">
     <div class="row">
-    <div class="col-md-6">
-        <h3>Album photos 2023</h3>
-        <a href="https://www.flickr.com/photos/197926503@N07/albums/72177720306852180/"><img src="assets/icones/album-photos-50.png" title="photos edition 2023" alt="photos edition 2023"></a>
-        <p class="italic">Cliquez sur l'icône pour accéder aux photos</p>
-    </div>
-    <div class="col-md-6">
-        <h3>Album photos 2024</h3>
-        <a href="http://www.flickr.com/photos/197926503@N07/albums"><img src="assets/icones/album-photos-50.png" title="photos edition 2023" alt="photos edition 2023"></a>
-        <p class="italic">Cliquez sur l'icône pour accéder aux photos</p>
-    </div>
+        <div class="col-md-6">
+            <h3>Album photos 2023</h3>
+            <a href="https://www.flickr.com/photos/197926503@N07/albums/72177720306852180/"><img src="assets/icones/album-photos-50.png" title="photos edition 2023" alt="photos edition 2023"></a>
+            <p class="italic">Cliquez sur l'icône pour accéder aux photos</p>
+        </div>
+        <div class="col-md-6">
+            <h3>Album photos 2024</h3>
+            <a href="http://www.flickr.com/photos/197926503@N07/albums"><img src="assets/icones/album-photos-50.png" title="photos edition 2023" alt="photos edition 2023"></a>
+            <p class="italic">Cliquez sur l'icône pour accéder aux photos</p>
+        </div>
     </div>
 </div>
 

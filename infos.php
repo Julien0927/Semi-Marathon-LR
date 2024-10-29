@@ -15,9 +15,8 @@ require_once ('templates/header.php');
     <h4>Pour limiter votre empreinte carbone, privilégiez les transports en commun, le co-voiturage et les mobilités douces.</h4>
     <h3 class="mt-5">Venir à La Rochelle...</h3>
 </div>
-<div class="row">
-    <div class="d-flex flex-md-row flex-column justify-content-around">
-        <div class="col-md-3 text-center">
+<div class="row justify-content-center">
+        <div class="col-12 col-md-2 text-center">
             <img src="assets/icones/train-50.png" alt="train">
             <div class="dropdown mt-3">
                 <button class="btn btn-outline-alert dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -29,7 +28,7 @@ require_once ('templates/header.php');
                 </ul>
             </div>            
         </div>
-        <div class="col-md-3 text-center">
+        <div class="col-12 col-md-2 text-center">
             <img src="assets/icones/avion-50.png" alt="voiture">
             <div class="dropdown  mt-3">
                 <button class="btn btn-outline-alert dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -42,7 +41,7 @@ require_once ('templates/header.php');
             </div>            
 
         </div>
-        <div class="col-md-3 text-center">
+        <div class="col-12 col-md-2 text-center">
             <img src="assets/icones/voiture-50.png" alt="voiture">
             <div class="dropdown  mt-3">
                 <button class="btn btn-outline-alert dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -55,7 +54,7 @@ require_once ('templates/header.php');
             </div>            
 
         </div>
-        <div class="col-md-3 text-center">
+        <div class="col-12 col-md-2 text-center">
             <img src="assets/icones/camping-car-50.png" alt="velo">
             <div class="dropdown  mt-3">
                 <button class="btn btn-outline-alert dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -68,22 +67,23 @@ require_once ('templates/header.php');
             </div>            
 
         </div>
-    </div>
 </div>
 <div class="text-center mt-5 mb-5">
     <h2 class="courses">Hébergement</h2>
 </div>
-<div class="d-flex flex-md-row flex-column justify-content-evenly text-center mb-5">
-    <div class="col-md-6 justify-content-center mt-5">
+<div class="row">
+<div class="d-flex flex-md-row flex-column justify-content-center text-center mb-5">
+    <div class="col-md-5 justify-content-center mt-5">
         <a href="https://www.larochelle-tourisme.com/"><img src="assets/partenaires/officetourisme.png" class="rounded"></a>
     </div>
 <!--     <div class="col-md-4 flex-column">
         <h3 class="mb-4">Partenaire de l'évènement</h3>
         <a href="https://www.hotelfrancois1er.fr/fr/"><img src="assets/partenaires/logo-hotel-francois-1er.svg"></a>
     </div>
- -->    <div class="col-md-6 justify-content-center mt-5">
+ -->    <div class="col-md-5 justify-content-center mt-5">
         <a href="https://www.klikego.com/inscription/semi-marathon-de-la-rochelle-2024/course-a-pied-running/1419371741424-28?tab=-5"><img src="assets/images/logoKlikegoV2.png"></a>
     </div>
+</div>
 </div>
 
 <div class="text-center mt-5 mb-5">
@@ -96,6 +96,7 @@ require_once ('templates/header.php');
         PAS DE RETRAIT DE DOSSARD LE DIMANCHE MATIN.
     </h3>
 </div>
+<div class="row">
 <div class="d-flex flex-md-row flex-column justify-content-evenly text-center mt-3">
     <div class="col-md-6 justify-content-center text-center">
         <p style="font-weight: bold">Pour le Semi-Marathon et le 5 Km</p>
@@ -117,6 +118,7 @@ require_once ('templates/header.php');
         </iframe>
     </div>
 </div>
+</div>
 <div>
     <h3 class="text-center mb-5" style="color: red">Présence obligatoire du coureur pour le retrait du dossard avec présentation d’une pièce d’identité en échange d’un bracelet de contrôle permettant l’accès au sas.</h3>
 </div>
@@ -128,7 +130,7 @@ require_once ('templates/header.php');
 <div class="row">
     <div class="d-flex flex-md-row flex-column justify-content-center mt-5">
         <div class="text-center col-md-4">
-            <a href="assets/informations/Reglement-2024.pdf"><img src="assets/icones/regles.png" alt="reglement"></a>
+            <a href="assets/informations/reglement.pdf"><img src="assets/icones/regles.png" alt="reglement"></a>
             <p class="italic text-center">Cliquez sur l'icone pour télécharger le règlement</p>
         </div>
         <div class="text-center col-md-4">
