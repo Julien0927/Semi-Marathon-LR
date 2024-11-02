@@ -268,6 +268,13 @@ body p
 }
 /*end animation title*/
 
+.itemChoice {
+  transition:transform 0.3s ease-in-out;
+}
+
+.itemChoice:hover {
+  transform: scale(1.2);
+}
 
 .Mathieu
 {
@@ -597,6 +604,9 @@ fieldset
   font-size: 0.5rem; /* Taille du texte pour les écrans très petits */
  }
 
+.itemChoice:hover {
+  transform:none;
+ }
  .courses
   {
     font-size: 1.5rem;
