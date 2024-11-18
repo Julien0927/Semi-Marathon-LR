@@ -24,7 +24,7 @@ require_once ('templates/header.php');
     </div>
     
     <div class="partner text-center">
-        <h2 class="courses mb-3">Partenaires institutionnels</h2>
+        <h2 class="partnersTitle mb-5">Partenaires institutionnels</h2>
             <div class="d-flex justify-content-around align-items-center">
                 <a href="https://www.larochelle.fr/"><img src="assets/partenaires/ville_LR.png" class="img-fluid" alt="Ville de La Rochelle"></a>
                 <a href="https://la.charente-maritime.fr/"><img src="assets/partenaires/CM17.png" alt="Département de la Charente-Maritime"></a>
@@ -32,19 +32,18 @@ require_once ('templates/header.php');
                 <a href="https://www.athle.fr/"><img src="assets/partenaires/FFA.png" alt="Fédération Française d'Athlétisme"></a>
             </div>
 
-        <h2 class="courses my-3 mb-5">Partenaires majeurs</h2>
+        <h2 class="partnersTitle my-5">Partenaires majeurs</h2>
             <div class="d-flex justify-content-around align-items-center mb-3">
-                <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/Hyundai.png" alt="Hyundai La Rochelle"></a>
                 <a href="http://www.groupebarbier.fr/"><img src="assets/partenaires/Barbier.png" alt="Groupe Barbier"></a>
+                <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/hyundai2025.png" alt="Hyundai La Rochelle"></a>
                 <a href="https://www.cubebikes.fr/"><img src="assets/partenaires/cube.png" alt="Cube"></a>
             </div>
 
-        <h2 class="courses mt-5 mb-5">Partenaires officiels</h2>
+        <h2 class="partnersTitle my-5">Partenaires officiels</h2>
             <div class="d-flex justify-content-around align-items-center mb-3">
                 <a href="https://www.colas.com/fr/"><img src="assets/partenaires/colas.png" alt="Colas"></a>
                 <a href="https://capmoules.fr/"><img src="assets/partenaires/logo-capmoule2023@3x.png" alt="Cap Moules"></a>
                 <a href="https://www.france-menuisiers.fr/"><img src="assets/partenaires/FRANCE MENUISIERS.jpg" alt="France Menuisiers"></a>
-                <a href="https://gpm-immobilier.com/"><img src="assets/partenaires/GPM.png" alt="GPM"></a>
             </div>
             <div class="d-flex justify-content-around align-items-center mb-3">
                 <a href="https://www.leanature.com/"><img src="assets/partenaires/LeaN.png" alt="Léa Nature"></a>
@@ -59,13 +58,12 @@ require_once ('templates/header.php');
                 <a href="https://www.newloc.fr/"><img src="assets/partenaires/Newloc.webp" alt="NewLoc"></a>
             </div>
             <div class="d-flex justify-content-around align-items-center mb-3">
-                <a href="https://magasins.mda-electromenager.com/166-mda-lagord-la-rochelle?utm_source=gmb"><img src="assets/partenaires/MDA.webp" alt="MDA"></a>
                 <a href="https://www.artmazonia.fr/"><img src="assets/partenaires/artmazonia.webp" alt="Artmazonia"></a>
                 <a href="https://www.intersport.fr/Charente-Maritime-17/PUILBOREAU-17138/INTERSPORT-PUILBOREAU/00453_000/"><img src="assets/partenaires/InterSport.webp" alt="InterSport La Rochelle"></a>
                 <a href="https://www.extruplast.net/"><img src="assets/partenaires/extruplast.webp" alt="ExtruPlast"></a>
             </div>
 
-        <h2 class="courses">Partenaires fournisseurs</h2>
+        <h2 class="partnersTitle my-5">Partenaires fournisseurs</h2>
             <div class="d-flex justify-content-center align-items-center mb-3">
                 <a href="https://shop-bodycross.com/"><img src="assets/partenaires/logo-court-bodycross.jpg" alt="BodyCross"></a>
                 <a href="https://www.hotelfrancois1er.fr/fr/"><img src="assets/partenaires/logo-hotel-francois-1er.svg" width="100%" alt="Hotel Francois 1er"></a>
@@ -90,8 +88,10 @@ require_once ('templates/header.php');
             </div>
             <div class="d-flex justify-content-center align-items-center mb-4">
             <figure class="cosy ">
-                    <img src="assets/partenaires/B&B_Hotel_La_Rochelle_Centre_Logo.jpg" alt="B&B_Hotel_La_Rochelle">
-                    <figcaption class="overlay1 d-flex flex-column">
+            <a href=" https://www.hotel-bb.com/fr/hotel/la-rochelle-centre?gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4avijzdeQsJjR7cZ6clH4TTscg75cgvTH8FIsA2oTKyJ5SB9p7hN0KBoCoRYQAvD_BwE&gclsrc=aw.ds ">
+                <img src="assets/partenaires/B&B_Hotel_La_Rochelle_Centre_Logo.jpg" alt="B&B_Hotel_La_Rochelle">
+            </a>
+<!--                     <figcaption class="overlay1 d-flex flex-column">
                         <a href=" https://www.hotel-bb.com/fr/hotel/la-rochelle-centre?gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4avijzdeQsJjR7cZ6clH4TTscg75cgvTH8FIsA2oTKyJ5SB9p7hN0KBoCoRYQAvD_BwE&gclsrc=aw.ds ">
                             <img src="assets/partenaires/Logo groupe Cosy.png" alt="Cosy Hotels">
                         </a>
@@ -102,10 +102,12 @@ require_once ('templates/header.php');
                             Uniquement par mail ou téléphone
                         </p>
                     </figcaption>
-                </figure>
+ -->                </figure>
                 <figure class="cosy m-0" >
+                <a href="https://www.masqhotel.com/fr/ ">
                     <img src="assets/partenaires/LOGO BWP Masqhotel.png" style="width: 40%; height: auto" alt="BWP Masqhotel">
-                    <figcaption class="overlay2 d-flex flex-column" style="width: 40%; height: auto" >
+                </a>
+<!--                     <figcaption class="overlay2 d-flex flex-column" style="width: 40%; height: auto" >
                         <a href="https://www.masqhotel.com/fr/ ">
                             <img src="assets/partenaires/Logo groupe Cosy.png" alt="Cosy Hotels">
                         </a>
@@ -116,11 +118,13 @@ require_once ('templates/header.php');
                             Via notre site internet ou par téléphone/mail
                         </p>
                     </figcaption>
-                </figure>
+ -->                </figure>
 
             <figure class="cosy">
-                    <img src="assets/partenaires/Hotel St Nicolas.png" alt="Hotel Saint Nicolas">
-                    <figcaption class="overlay3 d-flex flex-column">
+            <a href=" https://www.hotel-saint-nicolas.com/ ">
+                <img src="assets/partenaires/Hotel St Nicolas.png" alt="Hotel Saint Nicolas">
+            </a>
+<!--                     <figcaption class="overlay3 d-flex flex-column">
                         <a href=" https://www.hotel-saint-nicolas.com/ ">
                             <img src="assets/partenaires/Logo groupe Cosy.png" style="width: 100%; height: auto" alt="Cosy Hotels">
                         </a>
@@ -131,13 +135,13 @@ require_once ('templates/header.php');
                             Via notre site internet ou par téléphone/mail
                         </p>
                     </figcaption>
-                </figure>
+ -->                </figure>
             </div>
 
-        <h2 class="courses">Partenaire Média</h2>
+        <h2 class="partnersTitle my-5">Partenaire Média</h2>
                 <a href="https://www.europe2.fr/"><img src="assets/partenaires/Europe2.png" style="width: 20%; height: auto" alt="Europe 2"></a>
     </div>
-    <div class="text-center">
+    <div class="text-center mt-5">
         <h4>
             Vous souhaitez nous rejoindre et associer l'image de votre entreprise à celle de notre manifestation joyeuse, sportive et d'intérêt publique.<br>
             N'hésitez pas à nous contacter.

@@ -13,8 +13,8 @@ require_once ('templates/header.php');
         <img src="assets/icones/logo-semi-couleur.png" class="logo mb-0" alt="logo semi">
       </div>
       <div class="image-text pb-2">
-        <h1>SEMI-MARATHON <br>DE<br> LA ROCHELLE<br>AVEC<br>HYUNDAI LA ROCHELLE</h1>
-        <img src="assets/partenaires/logo_Hyundai.png" class="img-fluid hyundai " alt="logo Hyundai">
+        <h1>SEMI-MARATHON <br>DE<br> LA ROCHELLE<br>AVEC<br></h1>
+        <img src="assets/partenaires/hyundai2025.png" class="img-fluid hyundai mt-3" style="border-radius: 20px; width: 80%" alt="logo Hyundai">
       </div>
 
       <div class="image-club">

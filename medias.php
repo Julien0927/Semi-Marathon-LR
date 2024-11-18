@@ -12,10 +12,10 @@ require_once ('templates/header.php');
 <div class="d-flex flex-column justify-content-center text-center mt-3">
     <h3>Annonceur officiel</h3>
     <div>
-        <img src="assets/partenaires/Europe2.png" style="width: 20%; height: auto" >
+        <video src="/assets/video/Europe2.mp4" type="video/mp4" class="video-responsive mt-3" style="width: 80%; height: auto" autoplay muted></video>
     </div>
 </div>
-<div class="d-flex flex-column justify-content-center text-center mt-3">
+<div class="d-flex flex-column justify-content-center text-center mt-5">
     <div class="row">
         <div class="col-md-6">
             <h3>Album photos 2023</h3>

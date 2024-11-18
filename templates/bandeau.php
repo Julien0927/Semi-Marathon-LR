@@ -2,7 +2,7 @@
     <div class="gallery-scroll">
       <div class="gallery">
         <div class="item">
-          <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/Hyundai.png" alt="Hyundai" /></a>
+          <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/hyundai2025.png" alt="Hyundai" /></a>
         </div>
         <div class="item">
           <a href="https://www.larochelle.fr/"><img src="assets/partenaires/ville_LR.png" alt="Ville de La Rochelle" /></a>
@@ -38,9 +38,6 @@
           <a href="https://www.leanature.com/"><img src="assets/partenaires/LeaN.png" alt="Léa Nature"/></a>
         </div>
         <div class="item">
-          <a href="https://gpm-immobilier.com/"><img src="assets/partenaires/GPM.png" style="background-color: white" alt="GPM" /></a>
-        </div>
-        <div class="item">
           <a href="https://www.creditmutuel.fr/cmo/fr/contact.html"><img src="assets/partenaires/Crédit-Mutuel.png" style="background-color: white" alt="Crédit Mutuel" /></a>
         </div>
         <div class="item">
@@ -68,7 +65,7 @@
           <a href=" https://www.facebook.com/LeDepotPERIGNY"><img src="assets/partenaires/LE DEPOT - 2023 .png" style="background-color: white" alt="LE DEPOT Perigny" /></a>
         </div>
         <div class="item">
-          <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/Hyundai.png" alt="Hyundai" /></a>
+          <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/TestHyundai2025.png" alt="Hyundai" /></a>
         </div>
         <div class="item">
           <a href="https://www.artcad.qc.ca/"><img src="assets/partenaires/artcad.svg" style="background-color: white" alt="ArtCad"></a>
@@ -89,7 +86,7 @@
           <a href="https://la.charente-maritime.fr/"><img src="assets/partenaires/CM17.png" alt="Charente-Maritime 17" /></a>
         </div>
         <div class="item">
-          <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/Hyundai.png" alt="Hyundai" /></a>
+          <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/TestHyundai2025.png" alt="Hyundai" /></a>
         </div>
         <div class="item">
           <a href="https://www.larochelle.fr/"><img src="assets/partenaires/ville_LR.png" alt="Ville de La Rochelle" /></a>

@@ -71,22 +71,24 @@ require_once ('templates/header.php');
 <div class="text-center mt-5 mb-5">
     <h2 class="courses">Hébergement</h2>
 </div>
+<h3 class="text-center mb-5">Partenaires de l'évènement</h3>
 <div class="row">
-<div class="d-flex flex-md-row flex-column justify-content-center text-center mb-5">
-    <div class="col-md-5 justify-content-center mt-5">
-        <a href="https://www.larochelle-tourisme.com/"><img src="assets/partenaires/officetourisme.png" class="rounded"></a>
-    </div>
-<!--     <div class="col-md-4 flex-column">
-        <h3 class="mb-4">Partenaire de l'évènement</h3>
-        <a href="https://www.hotelfrancois1er.fr/fr/"><img src="assets/partenaires/logo-hotel-francois-1er.svg"></a>
-    </div>
- -->    <div class="col-md-5 justify-content-center mt-5">
-        <a href="https://www.klikego.com/inscription/semi-marathon-de-la-rochelle-2024/course-a-pied-running/1419371741424-28?tab=-5"><img src="assets/images/logoKlikegoV2.png"></a>
+    <div class="hebergement d-flex flex-md-row justify-content-center text-center mb-3">
+        <div class="col-md-4 partenaire">
+            <a href="https://maisondesambassadeurs.com/fr/"><img src="assets/partenaires/la maison des ambassadeurs.png" alt="Maison des Ambassadeurs"></a>
+            <span class="hover-text">La Maison des Ambassadeurs propose 25 % <br> sur le prix de la chambre avec le code SEMILR</span>
+        </div>
+        <div class="col-md-4 partenaire mt-4">
+            <a href="https://www.hotelfrancois1er.fr/fr/"><img src="assets/partenaires/logo-hotel-francois-1er.svg"></a>
+            <span class="hover-text">Hôtel François 1er propose 10 % <br> sur le prix de la chambre avec le code SEMI25</span>
+        </div>
+        <div class="col-md-4 partenaire">
+            <a href="https://www.cosy-hotels.net/fr/"><img src="assets/partenaires/CosyHotels.jpg" alt="Groupe Cosy Hotels"></a>
+            <span class="hover-text">Plus d'informations sur les tarifs du groupe Cosy Hôtels<br> <a href="/assets/images/tarifs Cosy.png" style="font-weight: bold; font-size: 1.25rem;">ici</a></span>
+        </div>
     </div>
 </div>
-</div>
-
-<div class="text-center mt-5 mb-5">
+<div class="text-center mt-3 mb-5">
     <h2 class="courses">Retrait des dossards</h2>
 </div>
 
@@ -112,15 +114,15 @@ require_once ('templates/header.php');
     <div class="col-md-6 justify-content-center text-center">
         <p style="font-weight: bold">Pour le Semi-Marathon en Relais à 2</p>
         <p style="font-weight: bold">Samedi 15 mars 2025</p>
-        <p class="mb-5">10h à 12h et de 14h à 18h à la Concession Hyundai.</p>
+        <p class="">10h à 12h et de 14h à 18h à la Concession Hyundai.</p>
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2762.527183778602!2d-1.1049881241380526!3d46.180066985391775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48014dff89f96497%3A0x2ac9775a9a766892!2sHyundai%20La%20Rochelle%20-%20Atlantis%20Automobiles!5e0!3m2!1sfr!2sfr!4v1702116438836!5m2!1sfr!2sfr" 
-           class="mt-5" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+           class="mapHyundai" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
         </iframe>
     </div>
 </div>
 </div>
 <div>
-    <h3 class="text-center mb-5" style="color: red">Présence obligatoire du coureur pour le retrait du dossard avec présentation d’une pièce d’identité en échange d’un bracelet de contrôle permettant l’accès au sas.</h3>
+    <h3 class="infoRed text-center mt-2 mb-5" style="color: red">Présence obligatoire du coureur pour le retrait du dossard avec présentation d’une pièce d’identité en échange d’un bracelet de contrôle permettant l’accès au sas.</h3>
 </div>
 <div class="text-center">
     <h2 class="courses mb-3">Remise des récompenses </h2>

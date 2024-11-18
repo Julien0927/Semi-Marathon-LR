@@ -1,6 +1,6 @@
   <footer class="footer d-flex flex-wrap justify-content-between align-items-center border-top">
 
-    <p class="col-md-4 d-flex justify-content-center text-white text">© 2023 J.Varachas</p>
+    <p class="col-md-4 d-flex justify-content-center text-white text"><a href="https://julien-dev.fr/" style="text-decoration: none; color: white;">© 2023 J.Varachas</a></p>
 
     <div class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
     <ul class="address d-flex flex-column text-center list-unstyled">
