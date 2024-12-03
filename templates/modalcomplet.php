@@ -7,13 +7,12 @@ require_once ('templates/header.php');
   <div class="modal-dialog">
     <div class="modal-content" style="background-color: #100242;">
       <div class="modal-header mx-auto">
-        <h1 class="modal-title text-focus-in" id="exampleModalLabel">Les inscriptions sont ouvertes!!!</h1>
+        <h1 class="modal-title text-focus-in" id="exampleModalLabel">
+          Semi-marathon<br>et<br>semi-marathon en relais à 2 complets.<br>
+          Il reste des dossards pour le 5 km
+        </h1>
       </div>
       <div class="modal-body">
-      Retrouvez pour cette 44ème édition : <br>
-      - Le semi-marathon <br>
-      - Le semi-marathon en relais à deux <br>
-      - Le 5 km<br>
       Nouvelle page Facebook<br>
       <a href="https://www.facebook.com/profile.php?id=61567550131081" title="facebook semi-marathon"><img src="/assets/icones/icons8-facebook.png" class="mt-2 mb-2"></a>
       <p style="color: #D8DC1B; font-weight:bold">Nouvelles informations à venir...</p>
