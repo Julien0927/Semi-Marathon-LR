@@ -52,7 +52,7 @@ require_once ('templates/header.php');
                 <a href="https://www.artcad.qc.ca/"><img src="assets/partenaires/artcad.svg" alt="ArtCad"></a>
             </div>
             <div class="d-flex justify-content-around align-items-center mb-3">
-                <a href="https://www.groupe-etchart.fr/"><img src="assets/partenaires/etchart.png" alt="Etchart Construction"></a>
+                <a href="https://www.groupe-etchart.fr/"><img src="assets/partenaires/Etchart1.png" alt="Etchart Construction"></a>
                 <a href="https://www.solvay.fr/"><img src="assets/partenaires/solvay.svg" alt="Solvay"></a>
                 <a href="https://exco.fr/"><img src="assets/partenaires/exco.png" alt="Exco"></a>
                 <a href="https://www.newloc.fr/"><img src="assets/partenaires/Newloc.webp" alt="NewLoc"></a>

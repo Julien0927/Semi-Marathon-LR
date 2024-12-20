@@ -71,7 +71,7 @@
           <a href="https://www.artcad.qc.ca/"><img src="assets/partenaires/artcad.svg" style="background-color: white" alt="ArtCad"></a>
         </div>
         <div class="item">
-          <a href="https://www.groupe-etchart.fr/"><img src="assets/partenaires/etchart.png" alt="Etchart Construction"></a>
+          <a href="https://www.groupe-etchart.fr/"><img src="assets/partenaires/Etchart1.png" alt="Etchart Construction"></a>
         </div>
         <div class="item">
           <a href="https://www.solvay.fr/"><img src="assets/partenaires/solvay.svg" style="background-color: white" alt="Solvay"></a>
