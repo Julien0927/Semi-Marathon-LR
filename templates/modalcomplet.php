@@ -8,8 +8,8 @@ require_once ('templates/header.php');
     <div class="modal-content" style="background-color: #100242;">
       <div class="modal-header mx-auto">
         <h1 class="modal-title text-focus-in" id="exampleModalLabel">
-          Semi-marathon<br>et<br>semi-marathon en relais à 2 complets.<br>
-          Il reste des dossards pour le 5 km
+          Découvrez les parcours de cette nouvelle édition...<br>
+          
         </h1>
       </div>
       <div class="modal-body">

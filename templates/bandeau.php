@@ -32,7 +32,7 @@
           <a href="http://www.groupebarbier.fr/"><img src="assets/partenaires/Barbier.png" alt="Groupe Barbier" /></a>
         </div>
         <div class="item">
-          <a href="https://www.colas.com/fr/"><img src="assets/partenaires/colas.png" alt="Colas" /></a>
+          <a href="https://www.colas.com/fr/"><img src="assets/partenaires/colas_logo_baseline.jpg" alt="Colas" /></a>
         </div>
         <div class="item">
           <a href="https://www.leanature.com/"><img src="assets/partenaires/LeaN.png" alt="Léa Nature"/></a>
@@ -68,8 +68,10 @@
           <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/TestHyundai2025.png" alt="Hyundai" /></a>
         </div>
         <div class="item">
-          <a href="https://www.artcad.qc.ca/"><img src="assets/partenaires/artcad.svg" style="background-color: white" alt="ArtCad"></a>
+          <a href="https://www.artcad.qc.ca/"><img src="assets/partenaires/ARTCAD.png" style="background-color: white" alt="ArtCad"></a>
         </div>
+        <div class="item">
+          <a href="https://estellebillaud.fr//"><img src="assets/partenaires/terracota.png" style="background-color: white;" alt="Terracota Massothérapie"></a>        </div>
         <div class="item">
           <a href="https://www.groupe-etchart.fr/"><img src="assets/partenaires/Etchart1.png" alt="Etchart Construction"></a>
         </div>

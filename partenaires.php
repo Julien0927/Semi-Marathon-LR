@@ -27,7 +27,7 @@ require_once ('templates/header.php');
         <h2 class="partnersTitle mb-5">Partenaires institutionnels</h2>
             <div class="d-flex justify-content-around align-items-center">
                 <a href="https://www.larochelle.fr/"><img src="assets/partenaires/ville_LR.png" class="img-fluid" alt="Ville de La Rochelle"></a>
-                <a href="https://la.charente-maritime.fr/"><img src="assets/partenaires/CM17.png" alt="Département de la Charente-Maritime"></a>
+                <a href="https://la.charente-maritime.fr/"><img src="assets/partenaires/DEPT17.jpg" alt="Département de la Charente-Maritime"></a>
                 <a href="https://www.nouvelle-aquitaine.fr/"><img src="assets/partenaires/logo région NA.png" alt="Région Nouvelle Aquitaine"></a>
                 <a href="https://www.athle.fr/"><img src="assets/partenaires/FFA.png" alt="Fédération Française d'Athlétisme"></a>
             </div>
@@ -41,7 +41,7 @@ require_once ('templates/header.php');
 
         <h2 class="partnersTitle my-5">Partenaires officiels</h2>
             <div class="d-flex justify-content-around align-items-center mb-3">
-                <a href="https://www.colas.com/fr/"><img src="assets/partenaires/colas.png" alt="Colas"></a>
+                <a href="https://www.colas.com/fr/"><img src="assets/partenaires/colas_logo_baseline.jpg" alt="Colas"></a>
                 <a href="https://capmoules.fr/"><img src="assets/partenaires/logo-capmoule2023@3x.png" alt="Cap Moules"></a>
                 <a href="https://www.france-menuisiers.fr/"><img src="assets/partenaires/FRANCE MENUISIERS.jpg" alt="France Menuisiers"></a>
             </div>
@@ -49,7 +49,7 @@ require_once ('templates/header.php');
                 <a href="https://www.leanature.com/"><img src="assets/partenaires/LeaN.png" alt="Léa Nature"></a>
                 <a href="https://www.runningconseilpuilboreau.com/"><img src="assets/partenaires/RunEver.png" alt="Runnever"></a>
                 <a href="https://www.creditmutuel.fr/cmo/fr/contact.html"><img src="assets/partenaires/Crédit-Mutuel.png" style="background-color: white" alt="Crédit Mutuel"></a>
-                <a href="https://www.artcad.qc.ca/"><img src="assets/partenaires/artcad.svg" alt="ArtCad"></a>
+                <a href="https://www.artcad.qc.ca/"><img src="assets/partenaires/ARTCAD.png" alt="ArtCad"></a>
             </div>
             <div class="d-flex justify-content-around align-items-center mb-3">
                 <a href="https://www.groupe-etchart.fr/"><img src="assets/partenaires/Etchart1.png" alt="Etchart Construction"></a>
@@ -60,7 +60,8 @@ require_once ('templates/header.php');
             <div class="d-flex justify-content-around align-items-center mb-3">
                 <a href="https://www.artmazonia.fr/"><img src="assets/partenaires/artmazonia.webp" alt="Artmazonia"></a>
                 <a href="https://www.intersport.fr/Charente-Maritime-17/PUILBOREAU-17138/INTERSPORT-PUILBOREAU/00453_000/"><img src="assets/partenaires/InterSport.webp" alt="InterSport La Rochelle"></a>
-                <a href="https://www.extruplast.net/"><img src="assets/partenaires/extruplast.webp" alt="ExtruPlast"></a>
+                <a href="https://www.extruplast.net/"><img src="assets/partenaires/Logo-Extruplast.png" alt="ExtruPlast"></a>
+                <a href="https://estellebillaud.fr//"><img src="assets/partenaires/terracota.png" alt="Terracota Massothérapie"></a>
             </div>
 
         <h2 class="partnersTitle my-5">Partenaires fournisseurs</h2>
@@ -78,7 +79,7 @@ require_once ('templates/header.php');
             </div>
             <div class="d-flex justify-content-around align-items-center mb-4">
                 <a href="https://maisondesambassadeurs.com/fr/"><img src="assets/partenaires/la maison des ambassadeurs.png" alt="Maison des Ambassadeurs"></a>
-                <a href="https://www.restaurantarco.com/"><img src="assets/partenaires/Logo Arco Restaurant.png" alt="Restaurant Arco"/></a>
+                <a href="https://www.restaurantarco.com/"><img src="assets/partenaires/ARCO RESTAURANT LOGO_2025.jpg" style="border-radius: 20px;" alt="Restaurant Arco"/></a>
                 <a href="https://www.e.leclerc/mag/e-leclerc-lagord"><img src="assets/partenaires/leclerc.png" style="width: 50%; height: auto" alt="E. Leclerc Lagord"></a>
                 <a href="https://mise-en-scene.org/"><img src="assets/partenaires/mise-en-scene1.webp" style="width: 100%; height: auto" alt="Mise ne scène"></a>
             </div>
@@ -122,7 +123,7 @@ require_once ('templates/header.php');
 
             <figure class="cosy">
             <a href=" https://www.hotel-saint-nicolas.com/ ">
-                <img src="assets/partenaires/Hotel St Nicolas.png" alt="Hotel Saint Nicolas">
+                <img src="assets/partenaires/LeSaintNicolas_logo PNG.png" alt="Hotel Saint Nicolas">
             </a>
 <!--                     <figcaption class="overlay3 d-flex flex-column">
                         <a href=" https://www.hotel-saint-nicolas.com/ ">
