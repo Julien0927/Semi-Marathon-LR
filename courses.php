@@ -13,24 +13,19 @@ require_once ('templates/header.php');
 <div class="container ">
     <div class="row mt-5">
         <div class="col-md-6 mx-auto text-center mt-5">
-            <!--Code temporaire-->
-            <h2>Parcours 2025 à venir...</h2>
-            <img src="/assets/icones/chrono.gif" alt="chrono">
-            <!--Fin code temporaire-->
-
-<!--             <div class="card mx-auto" style="width: 36rem;">
-                <img src="/assets/parcours/Parcours_5Km_1.png" class="card-img-top" alt="parcours 5km">
+             <div class="card mx-auto" style="width: 36rem;">
+                <img src="/assets/parcours/parcours_5km.png" class="card-img-top" alt="parcours 5km">
                 <div class="card-body">
                     <p class="italic card-text">
                         Parcours visible sur Openrunner. 
                         La distance indiquée l'est à titre indicatif.
                         Chaque course à label est mesurée par un officiel FFA.
                     </p>
-                    <a href="https://www.openrunner.com/route-details/18027025" class="btn btn-danger">Accéder aux détails de la course</a>
+                    <a href="https://www.openrunner.com/route-details/20491054" class="btn btn-danger">Accéder aux détails de la course</a>
                 </div>
             </div>
- -->        </div>
-        <div class="col-md-6 mx-auto text-center mt-5">
+        </div>
+        <div class="col-md-6 text-center d-flex flex-column align-items-center justify-content-center">
             <div class="justify-content-center mt-3">
                 <img src="assets/icones/navette.png" class="map">
             </div>
@@ -51,36 +46,27 @@ require_once ('templates/header.php');
 <div class="container ">
     <div class="row mt-5">
         <div class="col-md-6 mx-auto text-center mt-5">
-            <!--Code temporaire-->
-            <h2>Parcours 2025 à venir...</h2>
-            <img src="/assets/icones/chrono.gif" alt="chrono">
-            <!--Fin code temporaire-->
 
-            <!-- <div class="card mx-auto" style="width: 36rem;">
-                <img src="assets/parcours/Parcours_semi_duo.png" class="card-img-top" alt="Parcours semi et duo">
+             <div class="card mx-auto" style="width: 36rem;">
+                <img src="assets/parcours/parcours_semi.png" class="card-img-top" alt="Parcours semi et duo">
                 <div class="card-body">
                     <p class="italic card-text">
                         Parcours visible sur Openrunner. 
                         La distance indiquée l'est à titre indicatif.
                         Chaque course à label est mesurée par un officiel FFA.
                     </p>
-                    <a href="https://www.openrunner.com/route-details/18026943" class="btn btn-danger">Accéder aux détails de la course</a>
+                    <a href="https://www.openrunner.com/route-details/20276319" class="btn btn-danger">Accéder aux détails de la course</a>
                 </div>
-            </div> -->
+            </div>
         </div>
-        <div class="col-md-6 mx-auto text-center mt-5">
+        <div class="col-md-6 text-center d-flex flex-column align-items-center justify-content-center">
             <div class="justify-content-center mt-3">
                 <img src="assets/icones/navette.png" class="map">
             </div>
             <h5 class="mt-3">Dimanche 16 mars 2025</h5>
             <p>Départ : 8h30</p>
             <p>Arrivée sur le stade Armand Bouffénie </p>
-<!--             <p>Barrière horaire :<br> 
-             Haut du mail Km 14,8 à 11h00 <br>
-            Bas du mail Km 15,5 à 11h10 <br> 
-            Grosse Horloge Km 16,8 à 11h20 <br>
-            pour regagner l’arrivée avant 11h45.</p>
- -->        </div>
+        </div>
     </div>
 </div>
     <h2 class="courses text-center mt-5">Plan d'entrainement</h2>

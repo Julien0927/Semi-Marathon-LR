@@ -105,7 +105,7 @@ require_once ('templates/header.php');
  -->                </figure>
                 <figure class="cosy m-0" >
                 <a href="https://www.masqhotel.com/fr/ ">
-                    <img src="assets/partenaires/LOGO BWP Masqhotel.png" style="width: 40%; height: auto" alt="BWP Masqhotel">
+                    <img src="assets/partenaires/MasqHôtel.png" style="width: 40%; height: auto" alt="BWP Masqhotel">
                 </a>
 <!--                     <figcaption class="overlay2 d-flex flex-column" style="width: 40%; height: auto" >
                         <a href="https://www.masqhotel.com/fr/ ">
