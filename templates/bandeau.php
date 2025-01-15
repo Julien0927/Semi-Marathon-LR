@@ -47,7 +47,7 @@
           <a href="https://www.e.leclerc/mag/e-leclerc-lagord"><img src="assets/partenaires/leclerc.png" alt="E. Leclerc Lagord" /></a>
         </div>
         <div class="item">
-          <a href="https://rexrotary.fr/"><img src="assets/partenaires/RexRotary.png" alt="Rex Rotary" /></a>
+          <a href="https://rexrotary.fr/"><img src="assets/partenaires/Rex_Rotary.jpg" alt="Rex Rotary" /></a>
         </div>
         <div class="item">
           <a href="https://www.europe2.fr/"><img src="assets/partenaires/Europe2.png" alt="Europe 2" /></a>

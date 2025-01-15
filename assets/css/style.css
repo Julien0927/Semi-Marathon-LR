@@ -556,7 +556,7 @@ fieldset
 .cosy:hover .overlay2 {
   transform: scale(1);
   transition: transform 0.5s;
-  top: 5%;
+  bottom: 5%;
   left: 30%;
   border: 5px solid yellow;
   border-radius: 50px; 
@@ -564,7 +564,7 @@ fieldset
 .cosy:hover .overlay3 {
   transform: scale(1);
   transition: transform 0.5s;
-  top: 0;
+  bottom: 0;
   border: 5px solid yellow;
   border-radius: 50px; 
 }

@@ -75,7 +75,7 @@ require_once ('templates/header.php');
                 <a href="https://www.facebook.com/boulangerieM17?fref=ts"><img src="assets/partenaires/boulangerieM.png" alt="boulangerie M"></a>
                 <a href="https://www.servitrans.fr/"><img src="assets/partenaires/servitrans.webp" style="width: 60%; height: auto" alt="Servitrans"></a>
                 <a href=" https://www.facebook.com/LeDepotPERIGNY"><img src="assets/partenaires/LE DEPOT - 2023 .png" alt="LE DEPOT Perigny"></a>
-                <a href="https://rexrotary.fr/"><img src="assets/partenaires/RexRotary.png" alt="Rex Rotary"></a>
+                <a href="https://rexrotary.fr/"><img src="assets/partenaires/Rex_Rotary.jpg" alt="Rex Rotary"></a>
             </div>
             <div class="d-flex justify-content-around align-items-center mb-4">
                 <a href="https://maisondesambassadeurs.com/fr/"><img src="assets/partenaires/la maison des ambassadeurs.png" alt="Maison des Ambassadeurs"></a>
@@ -92,51 +92,43 @@ require_once ('templates/header.php');
             <a href=" https://www.hotel-bb.com/fr/hotel/la-rochelle-centre?gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4avijzdeQsJjR7cZ6clH4TTscg75cgvTH8FIsA2oTKyJ5SB9p7hN0KBoCoRYQAvD_BwE&gclsrc=aw.ds ">
                 <img src="assets/partenaires/B&B_Hotel_La_Rochelle_Centre_Logo.jpg" alt="B&B_Hotel_La_Rochelle">
             </a>
-<!--                     <figcaption class="overlay1 d-flex flex-column">
+            <!--<span class="hover-text">Plus d'informations sur les tarifs du groupe Cosy Hôtels<br> <a href="/assets/images/tarifs Cosy.png" style="font-weight: bold; font-size: 1.25rem;">ici</a></span>-->
+                     <figcaption class="overlay1 d-flex flex-column">
                         <a href=" https://www.hotel-bb.com/fr/hotel/la-rochelle-centre?gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4avijzdeQsJjR7cZ6clH4TTscg75cgvTH8FIsA2oTKyJ5SB9p7hN0KBoCoRYQAvD_BwE&gclsrc=aw.ds ">
                             <img src="assets/partenaires/Logo groupe Cosy.png" alt="Cosy Hotels">
                         </a>
                         <p>
-                            -20% sur notre meilleur tarif public <br>
-                            sur les nuitées des 15, 16 et 17 mars 2024<br>
-                            avec le code SEMI24<br>
-                            Uniquement par mail ou téléphone
+                        Plus d'informations sur les tarifs du groupe Cosy Hôtels<br> <a href="/assets/images/tarifs Cosy.png" style="font-weight: bold; font-size: 1.25rem;">ici</a>
                         </p>
                     </figcaption>
- -->                </figure>
+                 </figure>
                 <figure class="cosy m-0" >
                 <a href="https://www.masqhotel.com/fr/ ">
                     <img src="assets/partenaires/MasqHôtel.png" style="width: 40%; height: auto" alt="BWP Masqhotel">
                 </a>
-<!--                     <figcaption class="overlay2 d-flex flex-column" style="width: 40%; height: auto" >
+                     <figcaption class="overlay2 d-flex flex-column" style="width: 40%; height: auto" >
                         <a href="https://www.masqhotel.com/fr/ ">
                             <img src="assets/partenaires/Logo groupe Cosy.png" alt="Cosy Hotels">
                         </a>
                         <p>
-                            -20% sur notre meilleur tarif public <br>
-                            sur les nuitées des 15, 16 et 17 mars 2024<br>
-                            avec le code SEMI24<br>
-                            Via notre site internet ou par téléphone/mail
+                        Plus d'informations sur les tarifs du groupe Cosy Hôtels<br> <a href="/assets/images/tarifs Cosy.png" style="font-weight: bold; font-size: 1.25rem;">ici</a>
                         </p>
                     </figcaption>
- -->                </figure>
+                 </figure>
 
             <figure class="cosy">
             <a href=" https://www.hotel-saint-nicolas.com/ ">
                 <img src="assets/partenaires/LeSaintNicolas_logo PNG.png" alt="Hotel Saint Nicolas">
             </a>
-<!--                     <figcaption class="overlay3 d-flex flex-column">
+                     <figcaption class="overlay3 d-flex flex-column mb-0">
                         <a href=" https://www.hotel-saint-nicolas.com/ ">
                             <img src="assets/partenaires/Logo groupe Cosy.png" style="width: 100%; height: auto" alt="Cosy Hotels">
                         </a>
                         <p>
-                            -20% sur notre meilleur tarif public <br>
-                            sur les nuitées des 15, 16 et 17 mars 2024<br>
-                            avec le code SEMI24<br>
-                            Via notre site internet ou par téléphone/mail
+                        Plus d'informations sur les tarifs du groupe Cosy Hôtels<br> <a href="/assets/images/tarifs Cosy.png" style="font-weight: bold; font-size: 1.25rem;">ici</a>
                         </p>
                     </figcaption>
- -->                </figure>
+                 </figure>
             </div>
 
         <h2 class="partnersTitle my-5">Partenaire Média</h2>
