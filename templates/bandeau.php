@@ -71,7 +71,8 @@
           <a href="https://www.artcad.qc.ca/"><img src="assets/partenaires/ARTCAD.png" style="background-color: white" alt="ArtCad"></a>
         </div>
         <div class="item">
-          <a href="https://estellebillaud.fr//"><img src="assets/partenaires/terracota.png" style="background-color: white;" alt="Terracota Massothérapie"></a>        </div>
+          <a href="https://estellebillaud.fr//"><img src="assets/partenaires/terracota.png" style="background-color: white;" alt="Terracota Massothérapie"></a>        
+        </div>
         <div class="item">
           <a href="https://www.groupe-etchart.fr/"><img src="assets/partenaires/Etchart1.png" alt="Etchart Construction"></a>
         </div>

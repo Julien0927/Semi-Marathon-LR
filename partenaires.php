@@ -63,6 +63,9 @@ require_once ('templates/header.php');
                 <a href="https://www.extruplast.net/"><img src="assets/partenaires/Logo-Extruplast.png" alt="ExtruPlast"></a>
                 <a href="https://estellebillaud.fr//"><img src="assets/partenaires/terracota.png" alt="Terracota Massothérapie"></a>
             </div>
+            <div class="d-flex justify-content-center align-items-center mb-3">
+                <a href="https://www.kayakomat.com/fr"><img src="assets/partenaires/KAYAKOMAT.png" alt="Artmazonia"></a>
+            </div>
 
         <h2 class="partnersTitle my-5">Partenaires fournisseurs</h2>
             <div class="d-flex justify-content-center align-items-center mb-3">
@@ -77,7 +80,7 @@ require_once ('templates/header.php');
                 <a href=" https://www.facebook.com/LeDepotPERIGNY"><img src="assets/partenaires/LE DEPOT - 2023 .png" alt="LE DEPOT Perigny"></a>
                 <a href="https://rexrotary.fr/"><img src="assets/partenaires/Rex_Rotary.jpg" alt="Rex Rotary"></a>
             </div>
-            <div class="d-flex justify-content-around align-items-center mb-4">
+            <div class="d-flex justify-content-around align-items-center mb-5">
                 <a href="https://maisondesambassadeurs.com/fr/"><img src="assets/partenaires/la maison des ambassadeurs.png" alt="Maison des Ambassadeurs"></a>
                 <a href="https://www.restaurantarco.com/"><img src="assets/partenaires/ARCO RESTAURANT LOGO_2025.jpg" style="border-radius: 20px;" alt="Restaurant Arco"/></a>
                 <a href="https://www.e.leclerc/mag/e-leclerc-lagord"><img src="assets/partenaires/leclerc.png" style="width: 50%; height: auto" alt="E. Leclerc Lagord"></a>
