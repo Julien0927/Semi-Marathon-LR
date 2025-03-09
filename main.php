@@ -18,9 +18,10 @@ require_once ('templates/header.php');
       </div>
 
       <div class="image-club">
-        <a href="http://aunisathletismelarochelleaytre.athle.com/"><img src="assets/icones/logo Aunis vectorise.jpg" class="img-fluid" alt="Aunis Athlétisme"></a>
+        <a href="http://aunisathletismelarochelleaytre.athle.com/"><img src="assets/icones/logo Aunis vectorise.jpg" class="img-fluid" style="border-radius: 10px;" alt="Aunis Athlétisme"></a>
       </div>
     </div>
+
 
   </div>
 

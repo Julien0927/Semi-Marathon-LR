@@ -41,7 +41,7 @@ require_once ('templates/header.php');
 </div>
 <div class="text-center">
     <h2 class="courses mt-5">Parcours Semi-Marathon et relais à 2</h2>
-    <p >Pour le parcours Duo, le 1er concurrent réalise 11 km, le second 10 km.</p>
+    <p >Pour le parcours Relais à 2, le 1er concurrent réalise 10 km, le second 11 km.</p>
 </div>
 <div class="container ">
     <div class="row mt-5">
@@ -55,7 +55,7 @@ require_once ('templates/header.php');
                         La distance indiquée l'est à titre indicatif.
                         Chaque course à label est mesurée par un officiel FFA.
                     </p>
-                    <a href="https://www.openrunner.com/route-details/20276319" class="btn btn-danger">Accéder aux détails de la course</a>
+                    <a href=" https://www.openrunner.com/route-details/20742754" class="btn btn-danger">Accéder aux détails de la course</a>
                 </div>
             </div>
         </div>

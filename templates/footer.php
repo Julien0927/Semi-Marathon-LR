@@ -7,7 +7,7 @@
       <li>Aunis Athlétisme La Rochelle Aytré</li>
       <li>Stade Armand Bouffénie - Avenue Pierre de Coubertin</li>
       <li>17000 La Rochelle</li>
-      <li><img src="/assets/icones/phone-16.png"> 05 46 00 05 40   <img src="/assets/icones/courrier-16.png"> aunisathletisme@sfr.fr</li>
+      <li><img src="/assets/icones/phone-16.png"> 05 46 00 05 40   <img src="/assets/icones/courrier-16.png"> aunisathletisme17@gmail.com</li>
       <a href="politiqueconf.php" class="disabled-link"><p class="mention mb-3 mb-md-0 text-white">Politique de confidentialité - <a href="mentions_legales.php" class="disabled-link">Mentions légales</p></a>
     </ul>
     </div>
