@@ -15,16 +15,21 @@ require_once ('templates/header.php');
         <video src="/assets/video/Europe2.mp4" type="video/mp4" class="video-responsive mt-3" style="width: 80%; height: auto" autoplay muted></video>
     </div>
 </div>
-<div class="d-flex flex-column justify-content-center text-center mt-5">
+<div class="d-flex flex-column justify-content-center text-center mt-4">
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-4">
             <h3>Album photos 2023</h3>
             <a href="https://www.flickr.com/photos/197926503@N07/albums/72177720306852180/"><img src="assets/icones/album-photos-50.png" title="photos edition 2023" alt="photos edition 2023"></a>
             <p class="italic">Cliquez sur l'icône pour accéder aux photos</p>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-4">
             <h3>Album photos 2024</h3>
             <a href="http://www.flickr.com/photos/197926503@N07/albums"><img src="assets/icones/album-photos-50.png" title="photos edition 2023" alt="photos edition 2023"></a>
+            <p class="italic">Cliquez sur l'icône pour accéder aux photos</p>
+        </div>
+        <div class="col-md-4">
+            <h3>Album photos 2025</h3>
+            <a href="https://www.flickr.com/photos/197926503@N07/albums/72177720324637443/"><img src="assets/icones/album-photos-50.png" title="photos edition 2023" alt="photos edition 2023"></a>
             <p class="italic">Cliquez sur l'icône pour accéder aux photos</p>
         </div>
     </div>

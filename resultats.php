@@ -19,8 +19,11 @@ require_once ('templates/header.php');
             <h3 class="mt-3">Classement 2024</h3>
             <a href="http://bases.athle.fr/asp.net/liste.aspx?frmbase=resultats&amp;frmmode=1&amp;frmespace=0&amp;frmcompetition=280919&amp;frmepreuve=5+Km+Route+TCX"><img src="assets/icones/podium.png" alt="résultats"></a>
             <p class="italic">Cliquez sur l'icône pour découvrir le classement</p>
+            <h3 class="mt-3">Classement 2025</h3>
+            <a href="https://bases.athle.fr/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=0&frmcompetition=294435"><img src="assets/icones/podium.png" alt="résultats"></a>
+            <p class="italic">Cliquez sur l'icône pour découvrir le classement</p>
         </div>
-        <div class="col-md-6 justify-content-center text-center">
+        <div class="col-md-6 justify-content-center d-flex flex-column text-center">
             <h3>Palmarès masculin</h3>
             <a href="http://aunisathletismelarochelleaytre.athle.com/asp.net/espaces.html/html.aspx?id=40029"><img src="assets/icones/badge.png" alt="palmares"></a>
             <p class="italic">Cliquez sur l'icône pour découvrir le palmarès</p>

@@ -17,7 +17,8 @@ function updateCountdown() {
     const timeLeft = raceDate - now;
 
     if (timeLeft <= 0) {
-        document.getElementById('message').textContent = "PARTEZ !";
+        document.getElementById('message').textContent = "C'EST PARTI !";
+        document.getElementById('gif').style.display = 'block';
         document.querySelectorAll('.number').forEach(el => el.textContent = '00');
         return;
     }

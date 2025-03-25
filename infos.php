@@ -114,7 +114,7 @@ require_once ('templates/header.php');
     <div class="col-md-6 justify-content-center text-center">
         <p style="font-weight: bold">Pour le Semi-Marathon en Relais à 2</p>
         <p style="font-weight: bold">Vendredi 14 mars 2025</p>
-        <p>14h00 à 18h00 à l’Espace Culturel du Centre Leclerc de LAGORD.</p>
+        <p>14h00 à 19h00 à la Concession Hyundai.</p>
         <p style="font-weight: bold">Samedi 15 mars 2025</p>
         <p class="">9h00 à 12h00 et de 14h00 à 18h00 à la Concession Hyundai.</p>
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2762.527183778602!2d-1.1049881241380526!3d46.180066985391775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48014dff89f96497%3A0x2ac9775a9a766892!2sHyundai%20La%20Rochelle%20-%20Atlantis%20Automobiles!5e0!3m2!1sfr!2sfr!4v1702116438836!5m2!1sfr!2sfr" 
@@ -134,7 +134,7 @@ require_once ('templates/header.php');
 <div class="row">
     <div class="d-flex flex-md-row flex-column justify-content-center mt-5">
         <div class="text-center col-md-4">
-            <a href="assets/informations/Réglement 2025.pdf"><img src="assets/icones/regles.png" alt="reglement"></a>
+            <a href="assets/informations/Réglement 2025 (1).pdf"><img src="assets/icones/regles.png" alt="reglement"></a>
             <p class="italic text-center">Cliquez sur l'icone pour télécharger le règlement</p>
         </div>
         <div class="text-center col-md-4">

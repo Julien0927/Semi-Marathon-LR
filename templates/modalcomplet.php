@@ -25,11 +25,10 @@ require_once ('templates/header.php');
 </div>
  -->
 <!-- Modal blanche-->
-<!-- Modal blanche-->
-<div class="modal fade" id="Modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<!-- CountDown-->
+<!-- <div class="modal fade" id="Modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
-        <!--Countdown-->
         <div class="countdown-container">
           <div class="eventTitle text-center">Départ de la course : </div>
             <div class="countdown">
@@ -51,9 +50,10 @@ require_once ('templates/header.php');
                 </div>
             </div>
             <div id="message" class="message"></div>
+            <img id="gif" src="/assets//icones/running_10306585.gif" alt="Départ !" style="display: none; width: 100px; height: auto;" class="mx-auto">
             <img src="/assets/partenaires/HyundaiTitre.png" alt="logo Hyundai" loading="lazy" width="70%" height="auto">
         </div>
-        <!--End Countdown-->
     </div>
   </div>
 </div>
+ -->
