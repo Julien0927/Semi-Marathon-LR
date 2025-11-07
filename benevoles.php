@@ -34,10 +34,10 @@ require_once ('templates/header.php');
         ou<br>
         Mélissa au 06 32 08 86 16 - melissaondarts@yahoo.fr
     </h4>
-    <h4>Retrait des consignes signaleurs sous la halle du tennis avenue Pierre de Coubertin plan ci-dessous.</h4>
+    <!-- <h4>Retrait des consignes signaleurs sous la halle du tennis avenue Pierre de Coubertin plan ci-dessous.</h4>
     <div class="d-flex justify-content-center col-md-8 mx-auto mt-3">
         <img src="assets/informations/planbenevoles.png" class="img-fluid" alt="Plan info benevoles">
-    </div>
+    </div> -->
 </div>
 
 <?php require_once ('templates/footer.php')?>

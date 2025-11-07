@@ -29,7 +29,7 @@ require_once ('templates/header.php');
         </div>
         <div class="col-md-4">
             <h3>Album photos 2025</h3>
-            <a href="https://www.flickr.com/photos/197926503@N07/albums/72177720324637443/"><img src="assets/icones/album-photos-50.png" title="photos edition 2023" alt="photos edition 2023"></a>
+            <a href="https://photos.app.goo.gl/qLecuka5tCXtVLfZ7"><img src="assets/icones/album-photos-50.png" title="photos edition 2023" alt="photos edition 2023"></a>
             <p class="italic">Cliquez sur l'icône pour accéder aux photos</p>
         </div>
     </div>

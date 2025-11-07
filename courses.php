@@ -30,7 +30,7 @@ require_once ('templates/header.php');
                 <img src="assets/icones/navette.png" class="map">
             </div>
             <div class="text-justify">
-                <h5 class="mt-3">Dimanche 16 mars 2025</h5>
+                <h5 class="mt-3">Dimanche 29 mars 2026</h5>
                 <p>Départ : 8h15<br></p>
                 <p>
                 Arrivée sur le stade Armand Bouffénie entre 8h30 et 9h10
@@ -63,7 +63,7 @@ require_once ('templates/header.php');
             <div class="justify-content-center mt-3">
                 <img src="assets/icones/navette.png" class="map">
             </div>
-            <h5 class="mt-3">Dimanche 16 mars 2025</h5>
+            <h5 class="mt-3">Dimanche 29 mars 2026</h5>
             <p>Départ : 8h30</p>
             <p>Arrivée sur le stade Armand Bouffénie </p>
         </div>

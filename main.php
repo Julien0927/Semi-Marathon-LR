@@ -10,7 +10,7 @@ require_once ('templates/header.php');
     <img src="assets/images/photo14.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
     <div class="d-flex flex-column justify-content-center col-md-12 mt-5">
       <div class="image-logo text-center mt-5 mb-5">
-        <img src="assets/icones/logo-semi-couleur.png" class="logo mb-0" alt="logo semi">
+        <img src="assets/icones/logo-semi-couleur.png" class="logo" alt="logo semi">
       </div>
       <div class="image-text pb-2">
         <h1>SEMI-MARATHON <br>DE<br> LA ROCHELLE<br>AVEC<br></h1>

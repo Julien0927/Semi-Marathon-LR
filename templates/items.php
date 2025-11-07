@@ -8,7 +8,7 @@
     <div>
       <a href="inscriptions.php"><img src="assets/icones/icon inscription.svg" class="itemChoice" alt="inscriptions courses"></a>
       <h6>INSCRIPTIONS</h6>
-      <p>Les inscriptions pour <br>l'édition 2025</p>
+      <p>Les inscriptions pour <br>l'édition 2026</p>
     </div>
 
     <div>
