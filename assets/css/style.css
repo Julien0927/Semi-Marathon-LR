@@ -52,6 +52,27 @@ ul.navbar-nav li a
     text-transform: uppercase;
 }
 
+ .btn-benevole {
+  display: inline-block;
+  padding: 12px 30px;
+  border: 2px solid #100242; /* rouge sportif moderne */
+  color: #100242;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 50px;
+  transition: 0.3s ease;
+  letter-spacing: 1px;
+}
+
+/* Effet au survol */
+.btn-benevole:hover {
+  background-color: #100242;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(83, 57, 230, 0.3);
+}
+
+
 .club
 {
     font-family: 'Open Sans', sans-serif;
@@ -59,6 +80,7 @@ ul.navbar-nav li a
     font-weight: 600;
     text-transform: uppercase;
     color: #ffffff;
+   border-color: #D8DC1B;
 }
 
 .disabled-link

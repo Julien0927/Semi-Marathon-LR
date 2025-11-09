@@ -138,9 +138,8 @@ require_once ('templates/header.php');
 <div class="row">
     <div class="d-flex flex-md-row flex-column justify-content-center mt-5">
         <div class="text-center col-md-4">
-            <!-- <a href="assets/informations/Réglement 2025 (1).pdf">--><img src="assets/icones/regles.png" alt="reglement"></a>
+            <a href="assets/informations/Reglement 2026.pdf"><img src="assets/icones/regles.png" alt="reglement"></a>
             <p class="italic text-center">Cliquez sur l'icone pour télécharger le règlement</p>
-            <p class="italic loading">Rédaction en cours<span>.</span><span>.</span><span>.</span></p>
         </div>
         <div class="text-center col-md-4">
             <img src="assets/icones/alimentation.png" title="Restauration sur place" alt="Alimentation">

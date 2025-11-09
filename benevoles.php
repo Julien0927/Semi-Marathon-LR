@@ -30,7 +30,13 @@ require_once ('templates/header.php');
 </div>
 <div class="d-flex flex-column text-center mt-5">
     <h4>
-        Pour nous rejoindre,<br> contacter Martine au 06 64 65 21 39 - smsicardmartine@gmail.com<br>
+        Pour nous rejoindre,<br>
+        <a 
+            href="https://docs.google.com/forms/d/e/1FAIpQLSeYFRQ09YMiIDN8hKrZZWOVFckNqeAl17f01e105pKWARSCsA/viewform?usp=header"
+            class="btn-benevole mt-3 mb-3">Cliquez ici
+        </a>
+        <br>
+        contacter Martine au 06 64 65 21 39 - smsicardmartine@gmail.com<br>
         ou<br>
         Mélissa au 06 32 08 86 16 - melissaondarts@yahoo.fr
     </h4>
