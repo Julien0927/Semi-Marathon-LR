@@ -10,16 +10,17 @@ window.scroll({
   });
 
 // Définir la date de la course (à modifier selon vos besoins)
-const raceDate = new Date('2025-03-16T08:30:00').getTime();
+const raceDate = new Date('2025-12-08T20:00:00').getTime();
 
 function updateCountdown() {
     const now = new Date().getTime();
     const timeLeft = raceDate - now;
 
     if (timeLeft <= 0) {
-        document.getElementById('message').textContent = "C'EST PARTI !";
-        document.getElementById('gif').style.display = 'block';
+        /* document.getElementById('message').textContent = "C'EST PARTI !"; */
+        /* document.getElementById('gif').style.display = 'block'; */
         document.querySelectorAll('.number').forEach(el => el.textContent = '00');
+        document.getElementById('btn-inscriptions').style.display = 'block';
         return;
     }
 

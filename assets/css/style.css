@@ -72,6 +72,54 @@ ul.navbar-nav li a
   box-shadow: 0 6px 15px rgba(83, 57, 230, 0.3);
 }
 
+.btn-inscription {
+  display: inline-block;
+  padding: 14px 36px;
+  background-color: #100242;
+  color: #ffffff;
+  font-family: 'Barlow', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 50px;
+  text-decoration: none;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+  box-shadow: 0 6px 15px rgba(16, 2, 66, 0.3);
+}
+
+/* Effet au survol */
+.btn-inscription:hover {
+  background-color: #D8DC1B;
+  color: #100242;
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(16, 2, 66, 0.4);
+}
+
+
+.btn-inscriptions {
+  display: inline-block;
+  padding: 14px 36px;
+  background-color: #0a2986;
+  color: #D8DC1B;
+  font-family: 'Barlow', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 50px;
+  text-decoration: none;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+  box-shadow: 0 6px 15px rgba(16, 2, 66, 0.3);
+}
+
+/* Effet au survol */
+.btn-inscriptions:hover {
+  background-color: #D8DC1B;
+  color: #0a2986;
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(16, 2, 66, 0.4);
+}
 
 .club
 {
@@ -640,9 +688,11 @@ fieldset
 
 .eventTitle {
  font-family: 'Barlow', sans-serif;
-  font-size: 1.5rem;
-  font-weight: 700;
+ font-size: 1.5rem;
+ font-weight: 700;
  color: #0a2986;
+ text-align: center;
+ white-space: nowrap;
 }
 
 .countdown {

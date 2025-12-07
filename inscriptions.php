@@ -15,6 +15,11 @@ require_once ('templates/header.php');
     <!-- <a href=" https://www.klikego.com/inscription/semi-marathon-de-la-rochelle-2025/course-a-pied-running/1419371741424-31"><img src="assets/images/logoKlikegoV2.png" class=" klikego img-fluid mb-2"></a>
     <p class="italic">Cliquez sur le logo pour accéder à la plateforme d'inscription</p> -->
     <h2>Ouverture des inscriptions le 8 décembre à 20h00</h2>
+    <div class="text-center mt-4 mb-5">
+        <a href="https://www.finishers.com/course/semi-marathon-de-la-rochelle" class="btn-inscription">
+            Je m'inscris maintenant
+        </a>
+    </div>
     <h3>Inscription en ligne uniquement</h3>
 
 </div>
@@ -29,11 +34,9 @@ require_once ('templates/header.php');
                     <li>- Mise à disposition sur le village arrivée d'un Tivoli et d'un espace privatif.</li>
                     <li>- Vous pourrez y déposer vos effets avant la course, les récupérer juste après l'arrivée.</li>
                     <li>- Ravitaillement personnalisé dans votre espace réservé.</li>
-                    <!-- <li>- Inscriptions incluses dans le pack (15, 20 ou 30 dossards).</li> -->
                     <li>- Vos couleurs dans l'espace partenaires (banderoles, oriflammes).</li>
                     <li>- Les dossards sont envoyés directement à votre entreprise.</li>
                 </ul>
-            <!--<p>Contacter Olivier au 06 73 05 49 50 pour en savoir plus.</p>-->
         </fieldset>
     </div>
 </div>   

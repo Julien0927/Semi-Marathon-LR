@@ -146,10 +146,10 @@ require_once ('templates/header.php');
 
     <div class="d-flex flex-column col-md-4 text-center mx-auto mb-3">
         <h4 class="my-3">Dossier sponsoring</h4>
-        <!-- <a href="assets/informations/Dossier sponsoring.pdf"><img src="assets/icones/dossier.png"></a>
-        <p class="italic mt-3">Cliquez sur l'icône pour télécharger notre dossier sponsoring</p>-->
-        <p class="italic loading mt-3">Rédaction en cours<span>.</span><span>.</span><span>.</span></p>
-    </div>   
+        <a href="assets/informations/Dossier sponsoring.pdf"><img src="assets/icones/dossier.png"></a>
+        <p class="italic mt-3">Cliquez sur l'icône pour télécharger notre dossier sponsoring</p>
+<!--         <p class="italic loading mt-3">Rédaction en cours<span>.</span><span>.</span><span>.</span></p>
+ -->    </div>   
     <div class="text-center">
         <h4>Contact</h4>
         <img src="assets/icones/phonecolor-16.png"> 05 46 00 05 40 <img src="assets/icones/courriercolor-16.png"> aunis.semilarochelle@gmail.com</li>

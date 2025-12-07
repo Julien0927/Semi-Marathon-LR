@@ -26,11 +26,11 @@ require_once ('templates/header.php');
  -->
 <!-- Modal blanche-->
 <!-- CountDown-->
-<!-- <div class="modal fade" id="Modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade" id="Modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
         <div class="countdown-container">
-          <div class="eventTitle text-center">Départ de la course : </div>
+          <div class="eventTitle">Ouverture des inscriptions</div>
             <div class="countdown">
                 <div class="time-block">
                     <div id="days" class="number">00</div>
@@ -49,6 +49,12 @@ require_once ('templates/header.php');
                     <div class="label">Secondes</div>
                 </div>
             </div>
+            <div class="text-center mt-4 mb-5">
+                <a href="https://www.finishers.com/course/semi-marathon-de-la-rochelle" class="btn-inscriptions" id="btn-inscriptions" style="display: none;">
+                    Inscription
+                </a>
+            </div>
+       
             <div id="message" class="message"></div>
             <img id="gif" src="/assets//icones/running_10306585.gif" alt="Départ !" style="display: none; width: 100px; height: auto;" class="mx-auto">
             <img src="/assets/partenaires/HyundaiTitre.png" alt="logo Hyundai" loading="lazy" width="70%" height="auto">
@@ -56,4 +62,3 @@ require_once ('templates/header.php');
     </div>
   </div>
 </div>
- -->
