@@ -50,7 +50,7 @@ require_once ('templates/header.php');
                 </div>
             </div>
             <div class="text-center mt-4 mb-5">
-                <a href="https://www.finishers.com/course/semi-marathon-de-la-rochelle" class="btn-inscriptions" id="btn-inscriptions" style="display: none;">
+                <a href="https://in.finishers-registrations.com/semi-marathon-de-la-rochelle-20261?currentPage=select-competition" class="btn-inscriptions" id="btn-inscriptions" style="display: none;">
                     Inscription
                 </a>
             </div>

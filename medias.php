@@ -3,7 +3,7 @@ require_once ('templates/header.php');
 ?>
 
 <div class="image-container">
-    <img src="assets/images/jeune femme seule.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
+    <img src="assets/images/jeune femme seule.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto" loading="lazy">
     <div class="overlayRubrique">
         <h1 class="d-flex align-items-center">Médias</h1>
         <img class="slide-bottom" src="assets/icones/down-arrow.svg" alt="">
@@ -12,7 +12,7 @@ require_once ('templates/header.php');
 <div class="d-flex flex-column justify-content-center text-center mt-3">
     <h3>Annonceur officiel</h3>
     <div>
-        <video src="/assets/video/Europe2.mp4" type="video/mp4" class="video-responsive mt-3" style="width: 80%; height: auto" autoplay muted></video>
+        <video src="/assets/video/Europe2.mp4" type="video/mp4" class="video-responsive mt-3" style="width: 80%; height: auto" loading="lazy" autoplay muted></video>
     </div>
 </div>
 <div class="d-flex flex-column justify-content-center text-center mt-4">

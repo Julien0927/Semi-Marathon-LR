@@ -4,10 +4,10 @@ require_once ('templates/header.php');
 ?>
 
 <div class="image-container">
-    <img src="assets/images/photo5.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
+    <img src="assets/images/photo5.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto" loading="lazy">
     <div class="overlayRubrique">
         <h1 class="d-flex align-items-center">Inscriptions</h1>
-        <img class="slide-bottom" src="assets/icones/down-arrow.svg" alt="">
+        <img class="slide-bottom" src="assets/icones/down-arrow.svg" loading="lazy" alt="">
     </div>
 </div>
 
@@ -16,7 +16,7 @@ require_once ('templates/header.php');
     <p class="italic">Cliquez sur le logo pour accéder à la plateforme d'inscription</p> -->
     <h2>Ouverture des inscriptions le 8 décembre à 20h00</h2>
     <div class="text-center mt-4 mb-5">
-        <a href="https://www.finishers.com/course/semi-marathon-de-la-rochelle" class="btn-inscription">
+        <a href="https://in.finishers-registrations.com/semi-marathon-de-la-rochelle-20261?currentPage=select-competition" class="btn-inscription">
             Je m'inscris maintenant
         </a>
     </div>
@@ -41,12 +41,12 @@ require_once ('templates/header.php');
     </div>
 </div>   
     <div class="d-flex flex-wrap justify-content-center text-center mt-5">
-        <!-- <div class="flex-column col-12 col-md-4">
-            <a href="assets/informations/bulletin inscription 5 km.pdf">
-                <img src="assets/icones/contrat.png" title="Bulletin d'incription" alt="inscription" class="img-fluid">
+        <div class="flex-column col-12 col-md-4">
+            <a href="assets/informations/Règlement Semi-Marathon SP - PDF.pdf">
+                <img src="assets/icones/regles.png" title="Règlement SP" alt="inscription" class="img-fluid">
             </a>
-            <p class="italic mt-2">Télécharger le bulletin d'inscription du 5 km-2025</p>
-        </div> -->
+            <p class="italic mt-2">Télécharger le règlement Sapeurs Pompiers</p>
+        </div> 
         <div class="flex-column col-12 col-md-4">
             <a href="assets/informations/Reglement 2026.pdf">
                 <img src="assets/icones/regles.png" title="reglement" alt="reglement de course" class="img-fluid">

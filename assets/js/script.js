@@ -10,7 +10,7 @@ window.scroll({
   });
 
 // Définir la date de la course (à modifier selon vos besoins)
-const raceDate = new Date('2025-12-08T20:00:00').getTime();
+const raceDate = new Date('2025-12-09T20:00:00').getTime();
 
 function updateCountdown() {
     const now = new Date().getTime();

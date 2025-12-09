@@ -4,7 +4,7 @@ require_once ('templates/header.php');
 ?>
 
 <div class="image-container">
-    <img src="assets/images/velo benevole.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto">
+    <img src="assets/images/velo benevole.jpg" alt="Semi Marathon La Rochelle" width="100%" height="auto" loading="lazy">
     <div class="overlayRubrique">
         <h1 class="d-flex align-items-center">Bénévoles</h1>
         <img class="slide-bottom" src="assets/icones/down-arrow.svg" alt="">
