@@ -26,7 +26,7 @@ require_once ('templates/header.php');
   </div>
 
   <?php 
-  require_once ('templates/modalcomplet.php');
+ /*  require_once ('templates/modalcomplet.php'); */
   require_once ('templates/items.php'); 
   require_once ('templates/textes.php');
   require_once ('templates/bandeau.php');

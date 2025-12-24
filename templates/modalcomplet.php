@@ -26,7 +26,7 @@ require_once ('templates/header.php');
  -->
 <!-- Modal blanche-->
 <!-- CountDown-->
-<div class="modal fade" id="Modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<!-- <div class="modal fade" id="Modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
         <div class="countdown-container">
@@ -62,3 +62,4 @@ require_once ('templates/header.php');
     </div>
   </div>
 </div>
+ -->

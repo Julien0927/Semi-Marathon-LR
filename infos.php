@@ -71,28 +71,104 @@ require_once ('templates/header.php');
 <div class="text-center mt-5 mb-5">
     <h2 class="courses">Hébergement</h2>
 </div>
-<p class=" build loading mb-5">
-  En&nbsp;cours
-  <span>.</span><span>.</span><span>.</span>
-</p>
-<!-- <h3 class="text-center mb-5">Partenaires de l'évènement</h3>
+
+<h2 class="text-center mb-5">Partenaires de l'évènement</h2>
 <div class="row">
     <div class="hebergement d-flex flex-md-row justify-content-center text-center mb-3">
         <div class="col-md-4 partenaire">
             <a href="https://maisondesambassadeurs.com/fr/"><img src="assets/partenaires/la maison des ambassadeurs.png" alt="Maison des Ambassadeurs"></a>
-            <span class="hover-text">La Maison des Ambassadeurs propose 25 % <br> sur le prix de la chambre avec le code SEMILR</span>
+            <span class="hover-text"><a href="https://maisondesambassadeurs.com/fr/">Maison des Ambassadeurs</a><br>
+                Offre : 155€ la chambre<br>
+                pour les réservations faites par téléphone (préciser semi-marathon)
+            </span>
         </div>
         <div class="col-md-4 partenaire mt-4">
             <a href="https://www.hotelfrancois1er.fr/fr/"><img src="assets/partenaires/logo-hotel-francois-1er.svg"></a>
-            <span class="hover-text">Hôtel François 1er propose 10 % <br> sur le prix de la chambre avec le code SEMI25</span>
+            <span class="hover-text"> <a href="https://www.hotelfrancois1er.fr/fr/">Hôtel François 1er</a><br> propose 10 % <br> sur le prix de la chambre avec le code SEMI26</span>
         </div>
         <div class="col-md-4 partenaire">
             <a href="https://www.cosy-hotels.net/fr/"><img src="assets/partenaires/CosyHotels.jpg" alt="Groupe Cosy Hotels"></a>
-            <span class="hover-text">Plus d'informations sur les tarifs du groupe Cosy Hôtels<br> <a href="/assets/images/tarifs Cosy.png" style="font-weight: bold; font-size: 1.25rem;">ici</a></span>
+            <span class="hover-text">Groupe Cosy Hôtels<br>
+            Réservez dès maintenant votre séjour<br>dans l'un des hôtels du groupe COSY HOTELS grâce au code SEMI26,<br>
+            et profitez d'une remise allant de -10% à 20% !
+            <p></p>
+                <li>
+                    <ul><a href="https://www.secure-hotel-booking.com/d-edge/redirect/JRIN/fr-FR/RoomSelection?arrivalDate=2026-03-27&departureDate=2026-03-29&promoCode=SEMI26&selectedAdultCount=2&currency=EUR&_gl=1*13k1cp2*_ga*OTMxMDA3OTQxLjE3NTgxMTUzOTk.*_ga_6N02JG5WHV*czE3NjQ5MzI3MzYkbzE2JGcxJHQxNzY0OTMzOTgyJGo2MCRsMCRoMA..">
+                        Hôtel Saint-Nicolas****</a><br>par tel/mail ou site internet officiel
+                    </ul>
+                    <ul><a href="https://www.secure-hotel-booking.com/d-edge/redirect/2TAU/fr-FR/RoomSelection?arrivalDate=2026-03-27&departureDate=2026-03-30&promoCode=semi26&selectedAdultCount=2&currency=EUR&_gl=1*u99bnv*_ga*MTg4ODUwMTI4Ni4xNzU3MzIzNjQx*_ga_WQH5D8ZXYS*czE3NjQ4NTY2NDkkbzM2JGcxJHQxNzY0ODU3MzE1JGo2MCRsMCRoMA..*_ga_VXFBBE2H6M*https://www.secure-hotel-booking.com/d-edge/redirect/2TAU/fr-FR/RoomSelection?arrivalDate=2026-03-27&departureDate=2026-03-29&promoCode=semi26&selectedAdultCount=2&currency=EUR&_gl=1*u99bnv*_ga*MTg4ODUwMTI4Ni4xNzU3MzIzNjQx*_ga_WQH5D8ZXYS*czE3NjQ4NTY2NDkkbzM2JGcxJHQxNzY0ODU3MzE1JGo2MCRsMCRoMA..*_ga_VXFBBE2H6M*czE3NjQ5MzQwNzkkbzM3JGcxJHQxNzY0OTM0MDc5JGo2MCRsMCRoMTY0NTI0MjUw">
+                        Le Masq Hôtel****</a><br>par tel/mail ou site internet officiel
+                    </ul>
+                    <ul>B&B La Rochelle Centre** (résa par tel/mail)<br>bb_4253@hotelbb.com</a><br> + 33 (0)5 46 51 20 59</ul>
+                </li>
+            * Offre valable sur les nuitées du 27, 28, 29 mars 2026. 
+            </span>
         </div>
     </div>
 </div>
- --><div class="text-center mt-3 mb-5">
+<div class="row">
+    <div class="hebergement d-flex flex-md-row justify-content-center text-center mb-3">
+        <div class="col-md-4 partenaire mt-4">
+            <a href="https://direct-la-rochelle-aytre.kyriad.com/fr-fr/"><img src="assets/partenaires/kyriad-direct.webp" alt="Hôtel Kyriad Direct"></a>
+            <span class="hover-text"><a href="https://direct-la-rochelle-aytre.kyriad.com/fr-fr/">Kyriad Direct La Rochelle Aytré</a><br>
+                Offre : 45.00€ CHAMBRE 1 à 2 personnes + 10€ le petit déjeuner<br>
+                Code partenaire :  SEMI MARATHON45<br>
+                Réservation uniquement par téléphone
+            </span>
+        </div>
+        <div class="col-md-4 partenaire">
+            <a href="https://la-rochelle-sud-aytre.premiereclasse.com/fr-fr/"><img src="assets/partenaires/premiere-classe.webp" alt="Première Classe La Rochelle Sud - Aytré"></a>
+            <span class="hover-text"><a href="https://la-rochelle-sud-aytre.premiereclasse.com/fr-fr/">Première Classe La Rochelle Sud - Aytré</a><br>
+                Offre : 40.00€ CHAMBRE 1 à 2 personnes + le petit déjeuner<br>
+                Code partenaire :  SEMI MARATHON 40<br>
+                Réservation uniquement par téléphone
+            </span>
+        </div>
+        <div class="col-md-4 partenaire mb-3">
+            <a href="https://all.accor.com/booking/fr/mercure/hotel/0569?destination=la-rochelle-france&compositions=1&dateIn=2025-11-14&dateOut=2025-11-15&nights=1&hideWDR=false&accessibleRoom=false&rid=0569"><img src="assets/partenaires/all.webp" style="width: 60%; height: auto;" alt="Hotel Mercure"></a>
+            <span class="hover-text"><a href="https://all.accor.com/booking/fr/mercure/hotel/0569?destination=la-rochelle-france&compositions=1&dateIn=2025-11-14&dateOut=2025-11-15&nights=1&hideWDR=false&accessibleRoom=false&rid=0569">Hôtel Mercure</a><br>
+                Tarif spécial semi-marathon.<br> 
+                Annulation gratuite jusqu'à J-20.<br>
+                <!-- Petit-déjeuner dès 6h au lieu de 6h30 qui est l'heure habituelle.<br>
+                Douche disponible après la course pour les clients qui ont dormi à l'hôtel.<br>
+                Des "chambres vestiaires" seront mises à disposition.<br> -->
+                Parking de 80 places payantes disponibles à l'hôtel, non réservables.<br>
+                Code partenaire : MERCLRSM
+            </span>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="hebergement d-flex flex-md-row justify-content-center text-center mb-3">
+        <div class="col-md-4 partenaire mt-4">
+            <a href="https://campingauport.com/"><img src="assets/partenaires/camping-paradis.webp" alt="Camping Paradis L'Houmeau"></a>
+            <span class="hover-text"><a href="https://campingauport.com/">Camping Paradis L'Houmeau</a><br>
+               Pour plus d'informations<br>
+               Cliquez<br>
+                <a href="assets/informations/Tarifs Camping L Houmeau.pdf" style="font-weight: bold;">ICI</a>
+            </span>
+        </div>
+        <div class="col-md-4 partenaire mt-5">
+            <a href="https://www.odalys-vacances.com/location-mer/poitou-charentes/la-rochelle/archipel.html?idPrestation=9397&idTypePrestation=1&tab=1&saison_b=e&dateDebut=12/09/2026&duree=7"><img src="assets/partenaires/odalys-vacances.webp" alt="L'Odalys Archipel" style="width: 70%; height: auto;"></a>
+            <span class="hover-text"><a href="https://www.odalys-vacances.com/location-mer/poitou-charentes/la-rochelle/archipel.html?idPrestation=9397&idTypePrestation=1&tab=1&saison_b=e&dateDebut=12/09/2026&duree=7">L'Odalys Archipel</a><br>
+                Pour plus d'informations<br>
+               Cliquez<br>
+                <a href="assets/informations/Tarifs Odalys.pdf" style="font-weight: bold;">ICI</a>
+            </span>
+        </div>
+        <div class="col-md-4 partenaire mt-4">
+            <a href="https://camping-la-rochelle-alacorniche.com/"><img src="assets/partenaires/camping-paradis.webp" alt="Camping à La Corniche"></a>
+            <span class="hover-text"><a href="https://camping-la-rochelle-alacorniche.com/">Camping à La Corniche</a><br>
+               Pour plus d'informations<br>
+               Cliquez<br>
+                <a href="assets/informations/Tarifs Camping Angoulins.pdf" style="font-weight: bold;">ICI</a>
+            </span>
+        </div>
+    </div>
+</div>
+
+
+ <div class="text-center mt-3 mb-5">
     <h2 class="courses">Retrait des dossards</h2>
 </div>
 

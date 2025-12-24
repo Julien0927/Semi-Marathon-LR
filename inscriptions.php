@@ -14,13 +14,13 @@ require_once ('templates/header.php');
 <div class="d-flex flex-column justify-content-center text-center mb-3 mt-5">
     <!-- <a href=" https://www.klikego.com/inscription/semi-marathon-de-la-rochelle-2025/course-a-pied-running/1419371741424-31"><img src="assets/images/logoKlikegoV2.png" class=" klikego img-fluid mb-2"></a>
     <p class="italic">Cliquez sur le logo pour accéder à la plateforme d'inscription</p> -->
-    <h2>Ouverture des inscriptions le 8 décembre à 20h00</h2>
+    <h2>Inscription en ligne uniquement</h2>
     <div class="text-center mt-4 mb-5">
         <a href="https://in.finishers-registrations.com/semi-marathon-de-la-rochelle-20261?currentPage=select-competition" class="btn-inscription">
             Je m'inscris maintenant
         </a>
     </div>
-    <h3>Inscription en ligne uniquement</h3>
+    
 
 </div>
 
