@@ -79,7 +79,8 @@ require_once ('templates/header.php');
             <a href="https://maisondesambassadeurs.com/fr/"><img src="assets/partenaires/la maison des ambassadeurs.png" alt="Maison des Ambassadeurs"></a>
             <span class="hover-text"><a href="https://maisondesambassadeurs.com/fr/">Maison des Ambassadeurs</a><br>
                 Offre : 155€ la chambre<br>
-                pour les réservations faites par téléphone (préciser semi-marathon)
+                pour les réservations faites par téléphone<br>
+                (préciser semi-marathon)
             </span>
         </div>
         <div class="col-md-4 partenaire mt-4">
@@ -89,7 +90,7 @@ require_once ('templates/header.php');
         <div class="col-md-4 partenaire">
             <a href="https://www.cosy-hotels.net/fr/"><img src="assets/partenaires/CosyHotels.jpg" alt="Groupe Cosy Hotels"></a>
             <span class="hover-text">Groupe Cosy Hôtels<br>
-            Réservez dès maintenant votre séjour<br>dans l'un des hôtels du groupe COSY HOTELS grâce au code SEMI26,<br>
+            Réservez dès maintenant votre séjour<br>dans l'un des hôtels du groupe COSY HOTELS<br>grâce au code SEMI26,<br>
             et profitez d'une remise allant de -10% à 20% !
             <p></p>
                 <li>
@@ -111,7 +112,7 @@ require_once ('templates/header.php');
         <div class="col-md-4 partenaire mt-4">
             <a href="https://direct-la-rochelle-aytre.kyriad.com/fr-fr/"><img src="assets/partenaires/kyriad-direct.webp" alt="Hôtel Kyriad Direct"></a>
             <span class="hover-text"><a href="https://direct-la-rochelle-aytre.kyriad.com/fr-fr/">Kyriad Direct La Rochelle Aytré</a><br>
-                Offre : 45.00€ CHAMBRE 1 à 2 personnes + 10€ le petit déjeuner<br>
+                Offre : 45.00€ CHAMBRE 1 à 2 personnes<br>+<br>10€ le petit déjeuner<br>
                 Code partenaire :  SEMI MARATHON45<br>
                 Réservation uniquement par téléphone
             </span>
@@ -119,7 +120,7 @@ require_once ('templates/header.php');
         <div class="col-md-4 partenaire">
             <a href="https://la-rochelle-sud-aytre.premiereclasse.com/fr-fr/"><img src="assets/partenaires/premiere-classe.webp" alt="Première Classe La Rochelle Sud - Aytré"></a>
             <span class="hover-text"><a href="https://la-rochelle-sud-aytre.premiereclasse.com/fr-fr/">Première Classe La Rochelle Sud - Aytré</a><br>
-                Offre : 40.00€ CHAMBRE 1 à 2 personnes + le petit déjeuner<br>
+                Offre : 40.00€ CHAMBRE 1 à 2 personnes<br>+<br>le petit déjeuner<br>
                 Code partenaire :  SEMI MARATHON 40<br>
                 Réservation uniquement par téléphone
             </span>
@@ -132,7 +133,7 @@ require_once ('templates/header.php');
                 <!-- Petit-déjeuner dès 6h au lieu de 6h30 qui est l'heure habituelle.<br>
                 Douche disponible après la course pour les clients qui ont dormi à l'hôtel.<br>
                 Des "chambres vestiaires" seront mises à disposition.<br> -->
-                Parking de 80 places payantes disponibles à l'hôtel, non réservables.<br>
+                Parking de 80 places payantes disponibles à l'hôtel,<br>non réservables.<br>
                 Code partenaire : MERCLRSM
             </span>
         </div>
