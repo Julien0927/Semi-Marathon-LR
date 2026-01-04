@@ -8,16 +8,16 @@
           <a href="https://www.larochelle.fr/"><img src="assets/partenaires/ville_LR.png" alt="Ville de La Rochelle" /></a>
         </div>
         <div class="item">
-          <a href="https://la.charente-maritime.fr/"><img src="assets/partenaires/CM17.png" alt="Charente-Maritime 17" /></a>
+          <a href="https://la.charente-maritime.fr/"><img src="assets/partenaires/DEPT17.jpg" alt="Charente-Maritime 17" /></a>
         </div>
         <div class="item">
           <a href="https://www.nouvelle-aquitaine.fr/"><img src="assets/partenaires/logo région NA.png" alt="Charente-Maritime 17" /></a>
         </div>
         <div class="item">
-          <a href="https://shop-bodycross.com/"><img src="assets/partenaires/logo-court-bodycross.jpg" alt="BodyCross" /></a>
+          <a href="https://www.finishers.com/"><img src="assets/partenaires/finishers.webp" alt="Finishers" /></a>
         </div>
         <div class="item">
-          <a href="https://capmoules.fr/"><img src="assets/partenaires/logo-capmoule2023@3x.png" style="background-color: white" alt="CapMoules"/></a>
+          <a href="https://capmoules.fr/"><img src="assets/partenaires/logo-capmoule.webp" style="background-color: white" alt="CapMoules"/></a>
         </div>
         <div class="item">
           <a href="https://www.facebook.com/boulangerieM17?fref=ts"><img src="assets/partenaires/boulangerieM.png" alt="Boulangerie M" /></a>
@@ -62,7 +62,7 @@
           <a href="https://www.servitrans.fr/"><img src="assets/partenaires/servitrans.webp" alt="ServiTrans La Rochelle" /></a>
         </div>
         <div class="item">
-          <a href=" https://www.facebook.com/LeDepotPERIGNY"><img src="assets/partenaires/LE DEPOT - 2023 .png" style="background-color: white" alt="LE DEPOT Perigny" /></a>
+          <a href=""><img src="assets/partenaires/valentin-juillart.webp" style="background-color: white" alt="Valentin Juillart - Diététicien nutritionniste" /></a>
         </div>
         <div class="item">
           <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/TestHyundai2025.png" alt="Hyundai" /></a>
@@ -86,7 +86,7 @@
           <a href="https://www.casinosbarriere.com/fr/la-rochelle.html"><img src="assets/partenaires//casino_barriere.png" style="background-color: white" alt="Casino Barriere"></a>
         </div>
         <div class="item">
-          <a href="https://la.charente-maritime.fr/"><img src="assets/partenaires/CM17.png" alt="Charente-Maritime 17" /></a>
+          <a href="https://la.charente-maritime.fr/"><img src="assets/partenaires/DEPT17.jpg" alt="Charente-Maritime 17" /></a>
         </div>
         <div class="item">
           <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/TestHyundai2025.png" alt="Hyundai" /></a>

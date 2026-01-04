@@ -42,7 +42,7 @@ require_once ('templates/header.php');
         <h2 class="partnersTitle my-5">Partenaires officiels</h2>
             <div class="d-flex justify-content-around align-items-center mb-3">
                 <a href="https://www.colas.com/fr/"><img src="assets/partenaires/colas_logo_baseline.jpg" alt="Colas"></a>
-                <a href="https://capmoules.fr/"><img src="assets/partenaires/logo-capmoule2023@3x.png" alt="Cap Moules"></a>
+                <a href="https://capmoules.fr/"><img src="assets/partenaires/logo-capmoule.webp" alt="Cap Moules"></a>
                 <a href="https://www.france-menuisiers.fr/"><img src="assets/partenaires/FRANCE MENUISIERS.jpg" alt="France Menuisiers"></a>
             </div>
             <div class="d-flex justify-content-around align-items-center mb-3">
@@ -60,7 +60,6 @@ require_once ('templates/header.php');
             <div class="d-flex justify-content-around align-items-center mb-3">
                 <a href="https://www.artmazonia.fr/"><img src="assets/partenaires/artmazonia.webp" alt="Artmazonia"></a>
                 <a href="https://www.intersport.fr/Charente-Maritime-17/PUILBOREAU-17138/INTERSPORT-PUILBOREAU/00453_000/"><img src="assets/partenaires/InterSport.webp" alt="InterSport La Rochelle"></a>
-                <a href="https://www.extruplast.net/"><img src="assets/partenaires/Logo-Extruplast.png" alt="ExtruPlast"></a>
                 <a href="https://estellebillaud.fr//"><img src="assets/partenaires/terracota.png" alt="Terracota Massothérapie"></a>
             </div>
             <div class="d-flex justify-content-center align-items-center mb-3">
@@ -69,7 +68,7 @@ require_once ('templates/header.php');
 
         <h2 class="partnersTitle my-5">Partenaires fournisseurs</h2>
             <div class="d-flex justify-content-center align-items-center mb-3">
-                <a href="https://shop-bodycross.com/"><img src="assets/partenaires/logo-court-bodycross.jpg" alt="BodyCross"></a>
+                <a href="https://www.finishers.com/" style="width: 30% ; height : auto"><img src="assets/partenaires/finishers.webp" alt="Finishers"></a>
                 <a href="https://www.hotelfrancois1er.fr/fr/"><img src="assets/partenaires/logo-hotel-francois-1er.svg" width="100%" alt="Hotel Francois 1er"></a>
                 <a href="https://www.breizhchrono.com/"><img src="assets/partenaires/Breizh Crono.png" alt="Breizh Chrono"></a>
                 <a href="https://www.casinosbarriere.com/fr/la-rochelle.html"><img src="assets/partenaires//casino_barriere.png" alt="Casino Barriere"></a>
@@ -77,7 +76,7 @@ require_once ('templates/header.php');
             <div class="d-flex justify-content-around align-items-center mb-3">
                 <a href="https://www.facebook.com/boulangerieM17?fref=ts"><img src="assets/partenaires/boulangerieM.png" alt="boulangerie M"></a>
                 <a href="https://www.servitrans.fr/"><img src="assets/partenaires/servitrans.webp" style="width: 60%; height: auto" alt="Servitrans"></a>
-                <a href=" https://www.facebook.com/LeDepotPERIGNY"><img src="assets/partenaires/LE DEPOT - 2023 .png" alt="LE DEPOT Perigny"></a>
+                <a href=" "><img src="assets/partenaires/valentin-juillart.webp" alt="Valentin Juillart - Diététicien nutritionniste"></a>
                 <a href="https://rexrotary.fr/"><img src="assets/partenaires/Rex_Rotary.jpg" alt="Rex Rotary"></a>
             </div>
             <div class="d-flex justify-content-around align-items-center mb-5">
@@ -88,50 +87,57 @@ require_once ('templates/header.php');
             </div>
             <div class="d-flex justify-content-center align-items-center  mb-5 mx-auto">
                 <a href="https://lenouvelr.com/societes/imprimerie-rochelaise/"><img src="assets/partenaires/I-Rochelaise.png" ngclass="imprimerieR" alt="Imprimerie Rochelaise"></a>
-                <a href="https://somelac.com/"><img src="assets/partenaires/HERTZ - SOMELAC1.png"  alt="HERTZ-SOMELAC"></a>
+                <a href="https://direct-la-rochelle-aytre.kyriad.com/fr-fr/" style="width: 50%; height: auto"><img src="assets/partenaires/kyriad-direct.webp"  alt="Hôtel Kyriad"></a>
+                <a href="https://la-rochelle-sud-aytre.premiereclasse.com/fr-fr/"><img src="assets/partenaires/premiere-classe.webp" alt="Hôtel Première classe"></a>
+
             </div>
             <div class="d-flex justify-content-center align-items-center mb-4">
-            <figure class="cosy ">
+           <figure class="cosy ">
             <a href=" https://www.hotel-bb.com/fr/hotel/la-rochelle-centre?gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4avijzdeQsJjR7cZ6clH4TTscg75cgvTH8FIsA2oTKyJ5SB9p7hN0KBoCoRYQAvD_BwE&gclsrc=aw.ds ">
                 <img src="assets/partenaires/B&B_Hotel_La_Rochelle_Centre_Logo.jpg" alt="B&B_Hotel_La_Rochelle">
             </a>
-            <!--<span class="hover-text">Plus d'informations sur les tarifs du groupe Cosy Hôtels<br> <a href="/assets/images/tarifs Cosy.png" style="font-weight: bold; font-size: 1.25rem;">ici</a></span>-->
-                     <figcaption class="overlay1 d-flex flex-column">
+<!--             <span class="hover-text">Plus d'informations sur les tarifs du groupe Cosy Hôtels<br> <a href="/assets/images/tarifs Cosy.png" style="font-weight: bold; font-size: 1.25rem;">ici</a></span>
+ -->                     <!-- <figcaption class="overlay1 d-flex flex-column">
                         <a href=" https://www.hotel-bb.com/fr/hotel/la-rochelle-centre?gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4avijzdeQsJjR7cZ6clH4TTscg75cgvTH8FIsA2oTKyJ5SB9p7hN0KBoCoRYQAvD_BwE&gclsrc=aw.ds ">
                             <img src="assets/partenaires/Logo groupe Cosy.png" alt="Cosy Hotels">
                         </a>
                         <p>
                         Plus d'informations sur les tarifs du groupe Cosy Hôtels<br> <a href="/assets/images/tarifs Cosy.png" style="font-weight: bold; font-size: 1.25rem;">ici</a>
                         </p>
-                    </figcaption>
+                    </figcaption> -->
                  </figure>
                 <figure class="cosy m-0" >
                 <a href="https://www.masqhotel.com/fr/ ">
                     <img src="assets/partenaires/MasqHôtel.png" style="width: 40%; height: auto" alt="BWP Masqhotel">
                 </a>
-                     <figcaption class="overlay2 d-flex flex-column" style="width: 40%; height: auto" >
+                     <!-- <figcaption class="overlay2 d-flex flex-column" style="width: 40%; height: auto" >
                         <a href="https://www.masqhotel.com/fr/ ">
                             <img src="assets/partenaires/Logo groupe Cosy.png" alt="Cosy Hotels">
                         </a>
                         <p>
                         Plus d'informations sur les tarifs du groupe Cosy Hôtels<br> <a href="/assets/images/tarifs Cosy.png" style="font-weight: bold; font-size: 1.25rem;">ici</a>
                         </p>
-                    </figcaption>
+                    </figcaption> -->
                  </figure>
 
             <figure class="cosy">
             <a href=" https://www.hotel-saint-nicolas.com/ ">
                 <img src="assets/partenaires/LeSaintNicolas_logo PNG.png" alt="Hotel Saint Nicolas">
             </a>
-                     <figcaption class="overlay3 d-flex flex-column mb-0">
+                    <!--  <figcaption class="overlay3 d-flex flex-column mb-0">
                         <a href=" https://www.hotel-saint-nicolas.com/ ">
                             <img src="assets/partenaires/Logo groupe Cosy.png" style="width: 100%; height: auto" alt="Cosy Hotels">
                         </a>
                         <p>
                         Plus d'informations sur les tarifs du groupe Cosy Hôtels<br> <a href="/assets/images/tarifs Cosy.png" style="font-weight: bold; font-size: 1.25rem;">ici</a>
                         </p>
-                    </figcaption>
+                    </figcaption> -->
                  </figure>
+             </div>
+            <div class="d-flex justify-content-center align-items-center  mb-5 mx-auto">
+                <a href="https://www.odalys-vacances.com/location-mer/poitou-charentes/la-rochelle/archipel.html?idPrestation=9397&idTypePrestation=1&tab=1&saison_b=e&dateDebut=12/09/2026&duree=7">
+                    <img src="assets/partenaires/odalys-vacances.webp" alt="Résidence Odalys Vacances L'Archipel La Rochelle">
+                </a>
             </div>
 
         <h2 class="partnersTitle my-5">Partenaire Média</h2>
