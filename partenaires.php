@@ -64,6 +64,7 @@ require_once ('templates/header.php');
             </div>
             <div class="d-flex justify-content-center align-items-center mb-3">
                 <a href="https://www.kayakomat.com/fr"><img src="assets/partenaires/KAYAKOMAT.png" alt="Artmazonia"></a>
+                <a href="https://www.altaprocourtage.fr/" style="width: 30%; height: auto"><img src="assets/partenaires/AltaPro.webp" alt="Alta Pro Courtage"></a>
             </div>
 
         <h2 class="partnersTitle my-5">Partenaires fournisseurs</h2>
@@ -76,7 +77,7 @@ require_once ('templates/header.php');
             <div class="d-flex justify-content-around align-items-center mb-3">
                 <a href="https://www.facebook.com/boulangerieM17?fref=ts"><img src="assets/partenaires/boulangerieM.png" alt="boulangerie M"></a>
                 <a href="https://www.servitrans.fr/"><img src="assets/partenaires/servitrans.webp" style="width: 60%; height: auto" alt="Servitrans"></a>
-                <a href=" "><img src="assets/partenaires/valentin-juillart.webp" alt="Valentin Juillart - Diététicien nutritionniste"></a>
+                <a href="https://valentin-juilliart.fr/"><img src="assets/partenaires/valentin-juillart.webp" alt="Valentin Juillart - Diététicien nutritionniste"></a>
                 <a href="https://rexrotary.fr/"><img src="assets/partenaires/Rex_Rotary.jpg" alt="Rex Rotary"></a>
             </div>
             <div class="d-flex justify-content-around align-items-center mb-5">

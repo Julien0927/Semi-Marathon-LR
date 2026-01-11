@@ -62,7 +62,7 @@
           <a href="https://www.servitrans.fr/"><img src="assets/partenaires/servitrans.webp" alt="ServiTrans La Rochelle" /></a>
         </div>
         <div class="item">
-          <a href=""><img src="assets/partenaires/valentin-juillart.webp" style="background-color: white" alt="Valentin Juillart - Diététicien nutritionniste" /></a>
+          <a href="https://valentin-juilliart.fr/"><img src="assets/partenaires/valentin-juillart.webp" style="background-color: white" alt="Valentin Juillart - Diététicien nutritionniste" /></a>
         </div>
         <div class="item">
           <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/TestHyundai2025.png" alt="Hyundai" /></a>
@@ -84,6 +84,9 @@
         </div>
         <div class="item">
           <a href="https://www.casinosbarriere.com/fr/la-rochelle.html"><img src="assets/partenaires//casino_barriere.png" style="background-color: white" alt="Casino Barriere"></a>
+        </div>
+        <div class="item">
+          <a href="https://www.altaprocourtage.fr/"><img src="assets/partenaires/AltaPro.webp" style="background-color: white;"alt="Alta Pro Courtage" /></a>
         </div>
         <div class="item">
           <a href="https://la.charente-maritime.fr/"><img src="assets/partenaires/DEPT17.jpg" alt="Charente-Maritime 17" /></a>
