@@ -86,10 +86,10 @@
           <a href="https://www.casinosbarriere.com/fr/la-rochelle.html"><img src="assets/partenaires//casino_barriere.png" style="background-color: white" alt="Casino Barriere"></a>
         </div>
         <div class="item">
-          <a href="https://www.altaprocourtage.fr/"><img src="assets/partenaires/AltaPro.webp" style="background-color: white;"alt="Alta Pro Courtage" /></a>
+          <a href="https://www.altaprocourtage.fr/"><img src="assets/partenaires/AltaPro.webp" style="background-color: white;" alt="Alta Pro Courtage" /></a>
         </div>
         <div class="item">
-          <a href="https://la.charente-maritime.fr/"><img src="assets/partenaires/DEPT17.jpg" alt="Charente-Maritime 17" /></a>
+          <a href="https://www.inextenso.fr/agence/expert-comptable-la-rochelle/" ><img src="assets/partenaires/In extenso.webp" style="background-color: white;" alt="In Extenso"></a>
         </div>
         <div class="item">
           <a href="https://www.hyundai.com/fr/fr/distributeurs.html/l/aytre/28-rue-gay-lussac/c06ab00301"><img src="assets/partenaires/TestHyundai2025.png" alt="Hyundai" /></a>

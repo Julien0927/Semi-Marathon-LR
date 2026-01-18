@@ -65,6 +65,7 @@ require_once ('templates/header.php');
             <div class="d-flex justify-content-center align-items-center mb-3">
                 <a href="https://www.kayakomat.com/fr"><img src="assets/partenaires/KAYAKOMAT.png" alt="Artmazonia"></a>
                 <a href="https://www.altaprocourtage.fr/" style="width: 30%; height: auto"><img src="assets/partenaires/AltaPro.webp" alt="Alta Pro Courtage"></a>
+                <a href="https://www.inextenso.fr/agence/expert-comptable-la-rochelle/" style="width: 40%; height: auto"><img src="assets/partenaires/In extenso.webp" alt="In Extenso"></a>
             </div>
 
         <h2 class="partnersTitle my-5">Partenaires fournisseurs</h2>
