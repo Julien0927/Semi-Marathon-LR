@@ -28,7 +28,7 @@ require_once ('templates/header.php');
                 </ul>
             </div>            
         </div>
-        <div class="col-12 col-md-2 text-center">
+<!--         <div class="col-12 col-md-2 text-center">
             <img src="assets/icones/avion-50.png" alt="voiture">
             <div class="dropdown  mt-3">
                 <button class="btn btn-outline-alert dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -39,9 +39,8 @@ require_once ('templates/header.php');
                     <li><a class="dropdown-item" style="color: blue; font-weight: bold" href="https://www.larochelle.aeroport.fr/">+ d'infos</a></li>
                 </ul>
             </div>            
-
         </div>
-        <div class="col-12 col-md-2 text-center">
+ -->        <div class="col-12 col-md-2 text-center">
             <img src="assets/icones/voiture-50.png" alt="voiture">
             <div class="dropdown  mt-3">
                 <button class="btn btn-outline-alert dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -215,7 +214,7 @@ require_once ('templates/header.php');
 <div class="row">
     <div class="d-flex flex-md-row flex-column justify-content-center mt-5">
         <div class="text-center col-md-4">
-            <a href="assets/informations/Reglement 2026.pdf"><img src="assets/icones/regles.png" alt="reglement"></a>
+            <a href="assets/informations/Reglement - 2026.pdf"><img src="assets/icones/regles.png" alt="reglement"></a>
             <p class="italic text-center">Cliquez sur l'icone pour télécharger le règlement</p>
         </div>
         <div class="text-center col-md-4">

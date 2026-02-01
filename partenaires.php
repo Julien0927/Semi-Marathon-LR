@@ -143,7 +143,8 @@ require_once ('templates/header.php');
             </div>
 
         <h2 class="partnersTitle my-5">Partenaire Média</h2>
-                <a href="https://www.europe2.fr/"><img src="assets/partenaires/Europe2.png" style="width: 20%; height: auto" alt="Europe 2"></a>
+                <a href="https://www.europe2.fr/"><img src="assets/partenaires/Europe2.png" style="width: 20%; height: auto; margin-right: 2rem;" alt="Europe 2"></a>
+                <a href="https://www.sudouest.fr/"><img src="assets/partenaires/Sud-Ouest.webp" style="width: 15%; height: auto; margin-left: 2rem;" alt="Sud-Ouest"></a>
     </div>
     <div class="text-center mt-5">
         <h4>

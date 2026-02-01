@@ -79,6 +79,9 @@
         <div class="item">
           <a href="https://www.solvay.fr/"><img src="assets/partenaires/solvay.svg" style="background-color: white" alt="Solvay"></a>
         </div>
+        <div class="item">
+                <a href="https://www.sudouest.fr/"><img src="assets/partenaires/Sud-Ouest.webp" alt="Sud-Ouest"></a>
+        </div>
         <div class="item">        
           <a href="https://exco.fr/"><img src="assets/partenaires/exco.png" style="background-color: white" alt="Exco"></a>
         </div>

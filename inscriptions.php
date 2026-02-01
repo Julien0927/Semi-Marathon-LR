@@ -48,7 +48,7 @@ require_once ('templates/header.php');
             <p class="italic mt-2">Télécharger le règlement Sapeurs Pompiers</p>
         </div> 
         <div class="flex-column col-12 col-md-4">
-            <a href="assets/informations/Reglement 2026.pdf">
+            <a href="assets/informations/Reglement - 2026.pdf">
                 <img src="assets/icones/regles.png" title="reglement" alt="reglement de course" class="img-fluid">
             </a>
             <p class="italic mt-2">Télécharger le règlement 2026</p>
