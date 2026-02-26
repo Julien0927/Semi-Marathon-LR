@@ -26,11 +26,11 @@ require_once ('templates/header.php');
  -->
 <!-- Modal blanche-->
 <!-- CountDown-->
-<!-- <div class="modal fade" id="Modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade" id="Modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
         <div class="countdown-container">
-          <div class="eventTitle">Ouverture des inscriptions</div>
+          <div class="eventTitle">Départ de la course</div>
             <div class="countdown">
                 <div class="time-block">
                     <div id="days" class="number">00</div>
@@ -62,4 +62,3 @@ require_once ('templates/header.php');
     </div>
   </div>
 </div>
- -->
